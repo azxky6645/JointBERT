@@ -1,5 +1,5 @@
 # JointBERT
-#QWEQWEQWEQWEQEQE
+
 (Unofficial) Pytorch implementation of `JointBERT`: [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
 
 ## Model Architecture
