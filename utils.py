@@ -6,21 +6,28 @@ import torch
 import numpy as np
 from seqeval.metrics import precision_score, recall_score, f1_score
 
+
 from transformers import BertConfig, DistilBertConfig, AlbertConfig
 from transformers import BertTokenizer, DistilBertTokenizer, AlbertTokenizer
+from tokenization_kobert import KoBertTokenizer
+from eunjeon import Mecab
+from kobert_tokenizer import KoBERTTokenizer
 
-from model import JointBERT, JointDistilBERT, JointAlbert
+from model import JointBERT, JointDistilBERT, JointAlbert, JointKOBERT
 
 MODEL_CLASSES = {
     'bert': (BertConfig, JointBERT, BertTokenizer),
     'distilbert': (DistilBertConfig, JointDistilBERT, DistilBertTokenizer),
-    'albert': (AlbertConfig, JointAlbert, AlbertTokenizer)
+    'albert': (AlbertConfig, JointAlbert, AlbertTokenizer),
+    'kobert':(BertConfig, JointKOBERT, KoBERTTokenizer),
+    #1'kobert':(BertConfig, JointKOBERT, Mecab)
 }
 
 MODEL_PATH_MAP = {
     'bert': 'bert-base-uncased',
     'distilbert': 'distilbert-base-uncased',
-    'albert': 'albert-xxlarge-v1'
+    'albert': 'albert-xxlarge-v1',
+    'kobert': 'skt/kobert-base-v1'
 }
 
 
@@ -34,7 +41,7 @@ def get_slot_labels(args):
 
 def load_tokenizer(args):
     return MODEL_CLASSES[args.model_type][2].from_pretrained(args.model_name_or_path)
-
+    #return MODEL_CLASSES[args.model_type][2]
 
 def init_logger():
     logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s -   %(message)s',
@@ -105,3 +112,4 @@ def get_sentence_frame_acc(intent_preds, intent_labels, slot_preds, slot_labels)
     return {
         "sementic_frame_acc": sementic_acc
     }
+

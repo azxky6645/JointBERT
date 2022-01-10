@@ -118,7 +118,9 @@ class JointProcessor(object):
 
 processors = {
     "atis": JointProcessor,
-    "snips": JointProcessor
+    "snips": JointProcessor,
+    "aihub_data": JointProcessor,
+  # 인텐트 줄인 데이터 확인을 위해 추가했습니다
 }
 
 
