@@ -1,0 +1,9741 @@
+O O B-매물 O O
+B-반찬 B-수량 O O
+B-온도 B-메뉴 B-메뉴 O O O
+B-사이즈 O O O
+O O B-메뉴 O
+B-맵기 B-메뉴 O O
+B-음식종류 O B-고기종류 O O
+O B-주거시설 O O O
+O B-재료 O B-메뉴 B-수량 O O
+B-비품 O
+B-횟수 I-횟수 O O
+B-용도 O
+O B-컵 O O
+B-사이즈 I-사이즈 O O
+O B-제품 I-제품 O O O O
+O O O O
+O B-약품명 B-수량 O
+O O B-소스 O O
+B-약종류 B-개수 O
+B-메뉴 O O
+B-시간 O O O O O O
+B-사이즈 O O
+B-층수 O O
+B-수선위치 B-수선방법 O O
+B-증서 O O O
+B-과자종류 O O
+B-메뉴 O O
+B-메뉴 B-수량 O O
+O B-금액 O O O
+B-화장품종류 I-화장품종류 O O
+O B-평수 O O
+B-예약일 B-예약시간 O O
+O O B-위치 B-매물 O
+B-호칭 O B-금액 O O O
+B-금액 O O
+B-떡종류 B-수량 O O O O O O
+B-수량 O O B-떡종류 O O
+O O O O O O O
+B-재질 O O O O O
+O O O
+B-메뉴 O
+O O B-결제방식 O
+B-이용시간 O O
+B-자리종류 O O
+O B-시간 O O
+B-제품 O O
+B-비품 O O
+B-메뉴 B-메뉴 O B-금액 I-금액 O B-수량 O
+B-토핑 I-토핑 B-양 O
+O O
+B-프로그램 O O O O O O O
+B-떡종류 O O O O
+B-지역 O O O O
+O B-가격 B-기간 O O
+O B-결제방식 O B-결제방식 O
+B-계약종류 O O O
+B-음식종류 O B-떡종류 B-수량 I-수량 O O
+O B-개수 O O
+B-결제방식 B-결제방식 O
+B-장소 O O O
+O B-미용사 O
+O O B-수량 O
+O B-메뉴 B-수량 I-수량 O O
+B-메뉴 O O
+B-원단종류 O O O O O O
+O B-크림종류 O
+B-토핑 B-양 O O O
+B-방종류 B-수량 O
+B-특정시간대 O O
+O B-이용기간 O B-일요일 O O O O
+O B-수량 O
+O O
+O
+O O
+O O O B-메뉴 O O O O
+B-색상 O
+B-수량 O O O
+B-악기 O O O
+O B-메뉴 O
+O O O O O O O O O
+B-메뉴 O O
+B-시간 O
+B-맛 O O O O O O
+O B-약종류 O
+B-화장품로션 O O O
+B-메뉴 B-부위 B-부위 B-부위 O
+O O B-재료 O
+B-장소 O O
+B-결제방식 B-결제방식 O
+B-수량 B-날짜 O O
+O O B-메뉴 B-수량 O
+B-장소 O O O B-비품 B-비품 O O
+B-장소 B-메뉴 O O O O
+O B-생활용품 O O
+B-메뉴 B-메뉴 O B-메뉴 B-수량 I-수량 O O O
+B-재료 B-재료 O B-재료 O O
+B-세트메뉴 O O
+O B-이용기간 I-이용기간 O O O
+B-색 B-화장품종류 O O O
+B-옷종류 B-수선방법 O
+B-지명 O O O
+B-메뉴 I-메뉴 B-재료 O O O
+O B-색 O O
+O B-떡종류 O
+B-인원 I-인원 O O
+O B-사이즈 O
+B-과목 O O O
+O O O O O O O O
+B-수량 O O O O O O
+O O B-수량 O O O
+O B-메뉴 I-메뉴 B-수량 O
+B-메뉴 O
+O O B-수량 O
+B-빵종류 B-가격 B-수량 B-수량 O O O
+B-나이 B-식기 B-식기 O
+B-토핑 O O O
+O O B-빵종류 O O
+B-과일종류 O
+B-떡종류 O
+O B-상품 B-박스수량 O O
+B-옷종류 O O O
+B-시기 O O O
+B-시기 O O
+B-상품 O
+B-온도 B-메뉴 I-메뉴 B-수량 O O
+B-제품 O
+O B-과목 O O O O O
+O B-색상 B-제품 O O
+O B-위치 O O O
+O B-음식종류 O
+B-떡종류 O
+B-채소종류 O
+O O B-맛 B-메뉴 B-온도 O B-수량 O O
+O B-재료 O O O
+B-메뉴 B-사이즈 O O
+B-방향 O B-음식 O O O O
+B-메뉴 B-수량 I-수량 B-금액 O O O
+B-금액 I-금액 O O O O O
+B-기간 O
+B-비품 O O O
+O
+B-메뉴 B-크기 O O
+O B-시간 O O
+B-고기부위 B-용도 O
+B-사이드 O O
+O O B-재질 O
+B-집종류 B-가격 O O O
+B-교통수단 O O O
+B-화장품종류 O O O B-화장품종류 O
+B-제품 O O
+O O B-떡종류 O O O
+B-재료 O
+O O B-제품 B-제품 O
+B-용도 O O O O
+B-메뉴 B-수량 O
+B-월 O O O O O O O
+B-온도 B-메뉴 B-메뉴 O O
+O B-수량 O O
+B-재질 B-위탁물종류 O O O
+B-고기부위 O
+O B-위치 O O O O O
+B-과일종류 O O
+B-컵 O O
+B-방 O O
+O O
+B-메뉴 O O
+B-메뉴 O O
+B-메뉴 O O
+O B-배종류 B-수량 O O
+O O O O O
+O B-제품 O O O O O O O
+B-메뉴 I-메뉴 I-메뉴 O O O
+O B-부분 O B-부품 O O O
+O B-떡종류 O
+B-음식종류 O O O O O
+O O O
+B-메뉴 B-온도 O B-포장 B-수량 O O
+O O B-수량 O
+B-임대종류 B-임대종류 O
+O O B-수량 O
+O O
+B-과자종류 O O O
+O O O O
+B-방종류 O O
+B-메뉴 I-메뉴 O O
+O O O
+B-원산지 O
+B-사이즈 B-색상 B-수량 O O
+O B-수량 O O B-수량 O O B-메뉴 I-메뉴 B-수량 O O
+O B-메뉴 O O
+O B-미용종류 I-미용종류 B-미용종류 O
+B-과목수 I-과목수 O O O O
+O O O
+B-제품 I-제품 O O O
+O O B-상품 O
+B-이용석 O
+O B-비품 O
+B-옵션 B-위치 B-수량 O O O O
+B-온도 B-메뉴 O
+O B-카드종류 O
+O O
+B-메뉴 O O O O
+B-메뉴 O
+B-장소 O O O O
+O O
+B-매물 O B-위치 O O
+B-반찬종류 I-반찬종류 O O O O
+O B-떡종류 B-금액 O O
+B-객실종류 O O
+B-메뉴 B-메뉴 O B-메뉴 O O
+O B-가방종류 I-가방종류 O O
+O B-색 B-신발종류 O
+B-메뉴 O O
+O O O
+B-평수 O O O O
+B-식기 O O
+O B-수량 O O
+B-메뉴 B-수량 O
+B-이용시간 O O
+O B-인원 O
+O B-메뉴 I-메뉴 B-재료 O O
+B-장소 B-위치 B-계약종류 O O O
+O O O O O O O O O
+B-제품 O O B-제품 B-제품 O
+O B-떡종류 O
+B-시간 O O O
+B-이용시간 O
+O B-횟수 I-횟수 O O
+B-이용시간 O O
+B-비품 O O O O
+B-금액 I-금액 O O
+B-고기부위 O O
+O O B-수량 I-수량 B-수량 O O
+B-색상 O O
+B-메뉴 O O O
+B-온도 B-메뉴 B-수량 O O O B-메뉴 B-수량 O
+O B-주거시설 O O
+O O B-사이즈 I-사이즈 O O B-재료 O O O O
+B-메뉴 O O
+B-수량 I-수량 O O
+O B-제품 O
+B-과일종류 O
+O B-개수 O O
+O O B-할인율 O O
+O O B-가방내용물 O O
+B-고기종류 B-무게 O O
+B-메뉴 B-수량 O O
+B-아파트이름 B-평수 O O
+O B-매물 O O O O O
+B-메뉴 O O
+O O O B-제품 O O
+B-메뉴 O O
+B-시간 B-인원 O O
+B-캠핑시설종류 O O
+O B-과자류 B-수량 O
+O O B-매물 B-시세 O O
+B-이용시간 I-이용시간 O O
+O B-수량 I-수량 B-메뉴 B-수량 I-수량 O O
+O B-메뉴 I-메뉴 O O O B-메뉴 O O
+O B-수량 I-수량 O O B-할인종류 I-할인종류 O O O
+B-떡종류 O O O O O
+O B-수량 O O
+O B-음식종류 O O O O
+O B-메뉴 B-수량 O
+O B-악기 O
+O B-학교명 O
+O O O B-시간 O O O O
+B-위치 O O O O
+O B-부위 O
+O B-색상 O O O
+O O O O
+O B-향수종류 O
+B-메뉴 I-메뉴 B-수량 O O
+B-수량 I-수량 B-메뉴 O
+B-빵종류 B-수량 O
+O O O
+B-온도 B-메뉴 B-메뉴 O
+O B-재료 O O O O O
+B-온도 B-메뉴 B-수량 I-수량 B-메뉴 B-수량 O
+B-월 B-일자 O O O
+B-제품 B-액세서리 O O
+O
+B-음료 B-음료 B-음료 B-음료 O
+B-이용시간 O O
+B-방종류 O O O
+B-음료종류 O
+O B-수량 O O
+B-호칭 B-고기부위 B-무게 O O
+B-메뉴 O O
+O B-결제수단 O B-결제수단 O
+B-메뉴 O O
+B-사이즈 O O
+B-시간 O O
+B-온도 O B-온도 O O O O O
+O
+B-메뉴 O B-맛 O O O O
+O B-이용시간 O O
+O O B-인원 O O
+B-영수증종류 O
+B-용품 O O
+B-메뉴 B-수량 O
+B-이용시간 O
+O B-쌀종류 O O B-파우더종류 O
+B-온도 B-메뉴 B-수량 O O
+O B-장식 B-제품 O
+O B-메뉴 B-재료 O
+B-용품 B-수량 O
+B-방종류 I-방종류 B-방종류 I-방종류 O O O O O
+B-개수 I-개수 O O O O O
+O O B-토핑 O O
+B-제품 O O
+O
+B-화장품종류 O O O
+B-메뉴 O O
+O B-제품 O O
+O B-수량 O
+B-메뉴 B-금액 O
+B-증서 O O O
+B-식기 B-수량 O
+B-떡종류 O
+O
+B-메뉴 O O
+B-미용제품재료 I-미용제품재료 O B-미용종류 O
+B-아파트이름 B-임대종류 O O O
+B-메뉴 B-수량 O O O O O O
+O B-가격 O O
+B-수량 I-수량 O O
+B-제품 I-제품 O O B-수량 O O
+O O B-재질 O
+B-스타일 O
+B-장소 O O B-시간 O
+B-포도종류 O B-계절 O
+B-과일종류 B-원산지 O
+O O O O
+B-음료종류 B-온도 O
+O O B-수량 O
+B-의약외품종류 B-특정기간 O O
+B-일자 B-사람수 O O O
+B-메뉴 O
+B-달 B-날짜 B-요일 O
+B-음식종류 B-용도 O O O
+B-제품 I-제품 O O
+B-음료 B-음료 O
+O B-과일종류 O O
+O O O
+B-메뉴 B-메뉴 B-수량 O O
+O B-화장품종류 O
+O B-제품 O O O O O O O O O
+O B-대상 O O O B-대상 B-인원 O
+B-옷종류 O O O O O
+O O B-사이즈 O O
+B-메뉴 O
+O
+B-음료 O O O
+B-메뉴 O O
+O B-제품 O
+B-메뉴 O B-비품 O
+B-상품 O O O O O O O
+B-메뉴 O
+O O B-결제방식 O O
+B-제품 O O
+B-메뉴 O O
+B-인원 O O
+B-음료종류 O O
+O O
+O B-평수 O O
+O O O O O O O
+B-개수 I-개수 O O B-약구성형태 O
+B-제품 O O
+O O O O O O O
+O B-제품 B-수량 O
+O B-초종류 O O
+B-금액 O O
+B-기간 O O O O
+O
+B-이용석번호 B-이용석 I-이용석 O O
+B-맛 O O
+O O B-주거형태 O O
+O O
+O O O O
+O B-제품 B-재질 O
+O B-수량 O
+O O O O B-수량 I-수량 B-가짓수 I-가짓수 O O
+B-성별 B-옷종류 B-수선위치 B-수선위치 B-수선위치 O O
+O O
+B-평수 O O O O
+B-대상 O O
+B-식물류 O O O O O
+B-약종류 O
+B-떡종류 O O O
+B-메뉴 B-수량 O
+O O O O
+B-과일종류 O
+B-약속시간 O O O O
+B-용기종류 O O O O
+B-고기종류 O
+B-메뉴 O O
+O B-나이 O B-의약외품종류 O O O O O
+O B-메뉴 I-메뉴 O O O
+O O O O
+O O O O B-재료 B-재료 O O O
+O B-메뉴 O O
+O O O
+O B-아파트이름 O O O
+O B-맵기 I-맵기 B-맵기 B-맵기 O O O O
+B-메뉴 O
+O B-제품 O
+O O O O O
+O B-적립수단 O
+O O O O
+O O O B-색상 O
+B-성분 B-성분 O B-신체부위 O B-의약외품종류 O
+B-지역 O B-호텔이름 O
+B-의약외품종류 O O
+B-메뉴 O B-재료 O B-맛 O
+O B-나이 I-나이 O B-용도 O
+O B-수량 O O
+B-메뉴 O
+B-고기부위 B-무게 O
+B-과일종류 B-수량 B-금액 I-금액 B-금액 I-금액 B-수량 O O
+B-수량 O O
+O O
+B-메뉴 I-메뉴 O B-메뉴 O O
+O B-음료 O O O
+O B-의약외품종류 O
+B-년 O O
+B-반 I-반 B-반 I-반 B-반 O O O
+O B-용도 O O
+B-음료 B-반찬 O
+B-약종류 O
+B-메뉴 O
+O B-도법 O O
+B-떡종류 B-곡물종류 O O O B-수량 I-수량 O O
+B-아파트이름 B-가격 I-가격 B-가격 I-가격 O O O
+B-온도 O
+B-재료 B-재료 O
+B-소요시간 I-소요시간 O O
+O O B-미용종류 O
+O O O O B-메뉴 B-수량 O
+O O B-빵종류 O O
+O O O
+B-기간 O O
+O B-색상 O
+O O
+O O O
+B-미용종류 O O
+O B-결제수단 O O
+B-과자종류 O O
+O B-메뉴 O O O O
+O B-의류 O
+O B-메뉴 O O
+B-과일종류 B-가격 O O
+B-미용종류 I-미용종류 O O
+B-아파트명 B-평수 I-평수 B-가격 O
+B-미용종류 I-미용종류 O O O O
+B-옷종류 O
+O O B-쌀종류 O
+O O O
+O B-수량 O
+B-마카롱종류 I-마카롱종류 B-수량 B-마카롱종류 I-마카롱종류 B-수량 B-케이크종류 B-수량 O
+B-참치김밥 B-땡초김밥 B-일반김밥 O O
+B-시간 O O O
+B-제품 O O O
+B-메뉴 O O
+O O B-온도 O O
+O O O O B-약종류 O O O
+B-제품 O O
+O O O B-참고수단 O O
+O
+B-층수 O O O O
+B-계절 O B-길이 O O
+B-반찬 O
+O B-메뉴 O O
+B-휴지종류 B-수량 O O O O
+B-식기 O O
+B-과일종류 O
+B-인원수 O O
+B-온도 B-메뉴 O O O
+O B-성별 O O O O O
+O B-메뉴 B-수량 O O
+B-부위 O O
+B-침대 B-수량 I-수량 O O
+B- B- B-
+O O O O B-배달지 O
+O O O B-맛 O O O
+B-맛 O
+B-기간 O
+B-메뉴 O O B-재료 O
+B-색상 I-색상 O O
+B-메뉴 O O
+B-미용종류 I-미용종류 B-미용종류 O O O O
+O B-메뉴 B-온도 O
+B-주택종류 O O O
+O B-의류 O O O
+O B-공간 O O O
+B-메뉴 O O O
+O B-음식메뉴종류 O
+B-방종류 B-수량 O O
+B-당구종류 O
+B-의약외품종류 I-의약외품종류 B-특정기간 O O O
+O B-이용시설 O O B-음식메뉴종류 O O
+B-사이즈 B-수량 O O O
+B-메뉴 O O
+O O B-색상 B-재질 O B-슬리퍼 O O
+B-색상 O O
+O O B-기간 I-기간 B-인원 O O O O O O
+B-연령대 O O
+B-제품 O O O O O
+B-제품 O O O O
+B-평수 I-평수 B-개수 I-개수 O O O
+B-메뉴 I-메뉴 O O O O
+O B-색 B-가방종류 O O
+O B-온도 O O
+O O B-요일 O
+O O
+B-재료 B-재료 B-위치 O O O
+O B-과일종류 O O B-과일종류 B-수량 O O
+B-용품 O O
+B-메뉴 O O
+O B-매물 O
+O
+B-빵종류 O O O
+B-약종류 O
+O O O O O
+O B-떡종류 O
+B-사이드 O O
+O B-음식메뉴종류 B-수량 O
+B-병명 B-병명 O O O
+B-제품 O O
+O B-인원 I-인원 O O
+O B-수량 O O
+B-옷종류 I-옷종류 O O
+B-나이 O O O
+O O O
+B-연령대 O O O O O
+O O B-제품 I-제품 O B-결제방식 O O
+B-메뉴 B-토핑 O O
+O O B-장소 O
+B-고기부위 B-무게 O
+B-옷종류 O O O O
+B-횟수 I-횟수 O O O
+B-요일 O O
+B-제품 B-세트제품 O
+B-온도 B-메뉴 O O
+B-토핑 O
+B-사이즈 I-사이즈 B-메뉴 B-수량 O O
+O O O
+B-반찬종류 B-반찬종류 B-개수 O O
+O O B-결제방식 O
+B-과일종류 O
+O B-마카롱종류 I-마카롱종류 B-수량 O O O O
+B-떡종류 O O
+B-메뉴 I-메뉴 O O B-사이드 O B-메뉴 I-메뉴 O O O
+O O O
+B-결제수단 B-결제수단 O O
+B-인원 O O O
+B-메뉴 O O O O B-온도 B-메뉴 O O
+B-연령대 O O
+O O O
+B-토핑 O
+O B-매물 B-계약종류 O O O
+B-색상 O O B-색상 O O
+O B-제품 O O O O O
+B-이용기간 O
+O B-제품 O O
+B-재질 B-옷종류 O O O
+B-메뉴 O O
+O
+B-소재 B-제품 O
+B-음식종류 O O
+B-재질 O O
+B-방종류 I-방종류 O O O O
+B-메뉴 I-메뉴 O O
+B-과일종류 B-수량 O O
+O O O O B-인원 O O
+B-약종류 O
+B-결제수단 O O B-결제수단 O
+B-재료 O O O B-재료 O O O O
+B-수량 O O O
+B-탕종류 O O O O O
+O O B-고기종류 B-무게 O O
+B-수량 O O O
+B-메뉴 I-메뉴 B-메뉴 O
+B-포장 O
+B-위탁물종류 O O
+B-미용종류 O O O O
+O O O
+B-토핑 O O
+B-방종류 B-방종류 O O O
+O O
+O B-메뉴 B-수량 O
+B-성별 B-위탁물종류 B-서비스종류 O
+O O B-제품 O O O
+B-가격 I-가격 O O O
+B-무게 I-무게 O O
+B-주거형태 O O O
+O B-메뉴 O O O
+O B-수량 I-수량 B-수량 I-수량 O O
+B-용도 B-무게 O O
+B-결제수단 O O
+B-식기 O O
+O B-음료종류 O
+B-동물종류 B-고기부위 O O
+O O O O O O
+O B-음식용도 I-음식용도 B-음식종류 O B-조리법 O O O O O O
+B-스타일 O O
+B-소재 O O
+B-비품 O
+B-시간 O O
+B-숙박처종류 O O
+O B-수량 O
+B-날짜 O O
+B-메뉴 O
+B-메뉴 I-메뉴 B-조각수 B-메뉴 B-조각수 O O
+B-반찬 O O O
+O B-쿠폰종류 O O
+B-주소 B-주거시설 O O O
+O B-특정기간 O O
+O B-조류 O O B-금속 B-장신구 O
+B-메뉴 B-수량 O O O
+B-과목 O O O O
+B-제품 O O
+B-시간 I-시간 B-일자 B-사람수 O O O
+O B-메뉴 I-메뉴 B-재료 O O
+B-인원 O O O O O
+O O O O B-시간 O
+O B-인원 I-인원 O O O
+B-밥종류 O O
+B-사이드 O O
+B-제품 O O
+B-옷종류 O O O
+B-부분 O O
+B-메뉴 I-메뉴 I-메뉴 B-재료 O O O
+B-메뉴 I-메뉴 B-토핑 O O
+B-계약종류 O O O O
+B-직업 O B-메뉴 O O O O
+B-제품 B-제품 B-제품 B-제품
+B-재료 O B-재료 B-재료 O
+B-액세서리 O
+B-제품 O O
+B-동물종류 B-수량 O O
+B-횟수 I-횟수 O O
+O O B-메뉴 O O
+B-과일종류 O
+O O B-평수 O O
+B-위치 O
+B-계약종류 I-계약종류 O O
+B-금액 O O
+B-액세서리 O O O
+O O B-결제수단 O
+B-과자종류 O
+B-수량 I-수량 O O O O
+O B-의약외품종류 O
+B-제품 I-제품 O O O
+B-과자종류 O
+O O B-장소 O
+O O
+B-용도 B-상품 O O
+O B-메뉴 B-수량 O
+B-음료종류 O O
+B-탕종류 O O O
+O B-수량 B-침대종류 I-침대종류 B-수량 I-수량 O O O
+O B-기간 O
+B-사이즈 B-수량 O O
+B-메뉴 B-금액 O
+O B-생활용품 O
+O B-수량 O
+O O
+B-미용종류 I-미용종류 O O
+O O O O
+B-스타일 B-제품 O O
+B-시간 O O O
+O B-온도 B-메뉴 O
+B-맛 O O B-메뉴 O O
+O O O O B-화장품종류 O
+B-수량 O O
+B-제품 O O O
+B-주변기기 O
+O O O B-메뉴 I-메뉴 B-메뉴 O
+B-음식종류 B-크기 O O B-수량 O
+O
+B-달 B-날짜 B-기념일 O O O O
+O O B-수량 I-수량 O O O
+O O B-메뉴 I-메뉴 O O
+B-중량 I-중량 O O O
+B-시설 O O
+O B-횟수 I-횟수 O O O O
+O O B-떡종류 O O O
+O O O O O
+B-시간 O O O O
+O B-장소 O
+O B-예약일 B-예약시간 O O
+B-메뉴 O B-재료 O B-재료 O O
+B-이용시간 O
+O B-시간 B-방종류 I-방종류 O O O
+B-매물 O O O
+B-신분 B-색상 B-화장품종류 O O O O
+O B-양 O B-메뉴 B-수량 O
+B-지속기간 O
+B-세트메뉴 O O O
+O O B-메뉴 O
+B-수선위치 O O
+O B-결제수단 O
+O B-술 O O O O O O
+B-메뉴 O O
+O O O B-통신사이름 O
+O B-색 B-생활용품 O
+O
+O O B-재료 B-메뉴 B-메뉴 O O
+O O O O
+B-떡종류 O
+O B-수량 O
+O O O O O O O
+B-비품 O O O
+O B-비품 B-수량 O O
+B-메뉴 O
+O B-증상 O B-증상 O
+B-재료 O O O O
+B-메뉴 I-메뉴 I-메뉴 O B-사이즈 O O
+O B-시간 B-방종류 I-방종류 I-방종류 O O O
+B-액세서리 O
+B-요즘 B-고기값 O
+B-반찬 B-반찬 O O O
+B-사이즈 O O
+B-메뉴 I-메뉴 O O
+O B-소재 O O O O O O O O O
+O O O
+B-수량 O O
+O O
+B-인원 I-인원 O O O O O O
+B-메뉴 O
+B-메뉴 O
+O O B-수량 O O
+O O O
+B-메뉴 I-메뉴 B-수량 O O
+B-온도 B-메뉴 B-수량 O O
+B-음식종류 B-수량 O O
+O O B-제품 O
+O B-장소 O O O O
+O B-집종류 B-평수 O O O O O O O
+B-시술 O O
+O O B-온도 O
+B-브랜드 B-제품 O O O
+B-식빵종류 O O
+B-결제방식 O
+B-메뉴 O O
+B-온도 B-메뉴 B-수량 O
+B-반찬 O O O
+O
+B-메뉴 I-메뉴 I-메뉴 B-제조방법 O O O
+O B-떡종류 O O
+B-메뉴 O
+B-제품명 O
+O B-나이 O O
+B-화장품종류 O O O
+O O B-예약자 O
+O B-수량 B-메뉴 I-메뉴 O B-수량 O
+B-과목 O O
+O B-부분 O O
+B-옷종류 O
+B-시간 O O O
+O O O
+B-사이즈 O O
+B-금액 O O O
+O B-일회용컵 O O O
+O B-메뉴 O
+B-메뉴 B-맵기 O O O
+O B-음료 B-수량 O
+B-색 O O O B-색 O
+B-메뉴 B-수량 I-수량 B-메뉴 O
+O B-용품 O
+B-방향 B-토핑 O
+B-메뉴 O O O
+B-머리카락길이 O B-머리카락길이 O O
+B-지역 B-거주시설 B-임대종류 O
+B-과일종류 O O O
+B-예약일 I-예약일 I-예약일 O O O
+B-술 O O
+O O B-가짓수 O O
+O O O O
+B-제품 O O
+B-혼자 O O O
+B-병명 O O
+B-의약품종류 O O O
+B-위치 B-매물 O
+O B-제품 O O
+B-메뉴 I-메뉴 B-수량 O O O
+O B-메뉴 I-메뉴 B-수량 O B-메뉴 I-메뉴 O B-수량 B-메뉴 I-메뉴 B-수량 I-수량 O B-수량 O O
+B-제품 B-횟수 I-횟수 O O
+O B-횟수 O O
+B-방향 O O B-음료종류 O O
+B-비품 O O O
+B-재질 B-제품 O
+O B-과일종류 O
+O O B-메뉴 O
+O O B-색 O O O O O
+O B-수량 O
+O O
+B-집종류 B-평수 O O O
+O B-시간 B-시간 I-시간 O O O
+O B-수량 O O
+B-떡종류 O O
+O O O
+O O B-수량 O
+B-온도 B-메뉴 O
+O B-대상 B-제품 O O
+B-메뉴 I-메뉴 O O
+O O O
+B-날짜 O O O O O
+O B-메뉴 I-메뉴 I-메뉴 O O B-메뉴 O O O O O O
+O O
+B-계절 B-메뉴 O O
+B-인원 O O O
+B-결제수단 B-가격 I-가격 O O
+B-온도 B-메뉴 B-메뉴 B-수량 O O
+B-떡종류 B-수량 O O O O O
+B-용품 O
+O B-이용요금 I-이용요금 O B-이용시간 O
+B-토핑 O
+B-메뉴 I-메뉴 B-수량 O O
+B-온도 O O
+B-메뉴 O
+B-메뉴 O
+B-기간 O O
+B-월 B-일자 O
+B-메뉴 O O
+B-메뉴 I-메뉴 B-방향 B-토핑 O
+B-수량 O
+O B-참고수단 O O O
+O O
+B-결제방법 O B-이용방법 B-이용시간 O
+O O O O O B-매물종류 O
+B-장신구 O O O
+O B-부품 O O O
+O B-요일 O
+O B-가짓수 O O
+O O B-생활용품 O B-생활용품 O O
+B-온도 B-메뉴 B-수량 O
+B-메뉴 B-수량 O
+O B-비품 O
+B-호칭 B-성별 B-옷종류 O O O
+B-음료 B-수량 O
+B-의약외품종류 O
+O B-재질 O O O
+O O O
+B-순도 B-제품 O O O
+B-메뉴 O O O
+O O B-컵 O O
+B-음료종류 O O O O
+B-제품명 O
+B-포장형태 O
+O O O O O O
+O B-가방종류 O
+B-메뉴 B-재료 O O
+O O B-금액 I-금액 O O
+B-메뉴 B-수량 O
+B-장소 O O O O O
+B-메뉴 O O O
+B-메뉴 B-메뉴 B-수량 I-수량 O O
+O O B-옷종류 B-서비스종류 O O
+B-음식종류 B-음식종류 O O O
+O O B-개수 O O O
+O B-색상 O
+B-고기종류 B-무게 I-무게 O O O
+B-수량 O
+O B-제품 O
+O O O O B-위치 B-매물 B-시간 O O O
+B-커피종류 I-커피종류 B-커피종류 I-커피종류 O O O O
+O B-메뉴 O B-수량 I-수량 O O O
+B-메뉴 O B-토핑 O
+O O
+O B-고기부위 B-용도 B-무게 O
+B-커피종류 B-커피종류 O O
+O O B-수량 O O
+B-수량 I-수량 O O O O O O O
+O B-커피종류 O O O
+O B-아파트이름 O O O O O O O O
+O O O
+O O
+B-온도 B-메뉴 B-온도 B-메뉴 O O O
+O B-메뉴 O O
+O
+B-수량 O
+O B-음식종류 O O
+B-투여일수 I-투여일수 O O
+B-메뉴 O
+B-인원 O O
+B-메뉴 O B-메뉴 O O O
+B-과일종류 O O O O O
+O O B-위치 O O O O
+B-재료 O O O O O
+O O O O O O
+B-커피종류 O O O
+O B-음식종류 B-음식종류 O O
+B-메뉴 B-수량 O O
+B-고기부위 O
+B-메뉴 I-메뉴 O O
+B-약품 O O
+B-호칭 B-옷종류 B-수선위치 O O O
+O B-수량 O O
+B-메뉴 I-메뉴 O O
+B-집종류 O O O
+O B-식빵종류 O O
+O O B-결제방식 O
+O B-제품 O O
+O B-메뉴 I-메뉴 B-수량 O
+B-재료 O O O
+O B-특정기간 O O O B-신체부위 O
+B-옷종류 I-옷종류 O B-옷종류 O O
+B-요일 O
+O O O O
+O B-크기 B-집종류 O O O O
+B-메뉴 I-메뉴 I-메뉴 B-맵기 I-맵기 O O
+B-메뉴 O O
+O O O
+O B-메뉴 I-메뉴 B-수량 B-메뉴 I-메뉴 B-수량 O O
+O B-수량 O
+B-메뉴 O
+O B-메뉴 O O O O
+O B-사이즈 O O
+O O
+B-화장품브랜드 O O
+B-메뉴 I-메뉴 O O O O
+B-메뉴 O O
+B-개수 O O
+O B-생활용품 O
+B-고기종류 B-용도 B-무게 O O
+B-메뉴 O O
+O O B-수량 O O
+B-고기부위 B-고기부위 O
+B-비품 O O O
+O B-결제방식 O
+B-재료 O
+B-시간 I-시간 B-시간 O O
+B-시간 I-시간 B-시간 O O
+B-숙박처종류 O O
+B-수량 O
+B-수량 O O O
+B-메뉴 O O
+B-세트메뉴 O O
+O O O B-매매종류 O O
+O O B-사이즈 O
+B-반찬 O O O
+B-상품 O
+B-기름종류 O O O O O O
+B-요일 O O O
+O B-메뉴 O O
+O B-이용시간 O O
+B-고기부위 O
+O B-결제수단 O O
+B-메뉴 I-메뉴 B-나이 O O
+O O O O O B-사이즈 O O
+O O B-인원 O O
+B-재료 O O
+B-계약종류 O O O O O O
+O B-신발종류 O
+O O O B-미용종류 O O
+B-떡종류 B-무게 O
+B-메뉴 I-메뉴 O O
+B-메뉴 B-맛 O O
+B-샌드위치종류 O O
+B-식빵종류 O O
+O B-재료 O
+B-해초류 O
+B-제품 O O
+O O B-수량 O O
+B-위치 O
+O B-크기 O B-수량 I-수량 O O
+B-화장품종류 O O
+B-신체부위 O B-의약외품종류 O
+B-날짜 O O O B-날짜 O O O O
+B-메뉴 O O
+O O B-미용종류 O O B-미용종류 O
+B-반찬 I-반찬 I-반찬 O O O
+O O O B-배달지 O
+B-온도 B-메뉴 O
+B-커피종류 O O
+B-신체부위 O O O O O
+O O B-대상 O O O O
+B-수량 O O
+B-메뉴 B-온도 B-수량 O
+B-화장품종류 O O
+B-재료 I-재료 O O
+O
+B-온도 O O
+B-음료종류 B-개수 O
+B-채소종류 B-수량 O O
+O O O
+B-옷종류 O O
+B-재료 O O O O O O
+O O O O
+B-메뉴 I-메뉴 O O
+O B-의류 B-소재 O
+B-개월수 O O O O
+B-메뉴 B-메뉴 O O O
+B-음료 B-음료 O
+O B-화장품브랜드 O O
+B-55사이즈 O
+B-마카롱종류 I-마카롱종류 B-수량 O
+B-음료 O O O
+B- B- B- B- B- B- B- B- B-
+B-메뉴 O O
+O B-양 O O
+B-메뉴 O O
+B-영수증종류 O O
+B-재료 O O
+B-메뉴 O O
+B-메뉴 B-사이즈 I-사이즈 B-온도 B-포장 O
+O O
+O B-제품 O
+O O B-메뉴 B-사이즈 B-수량 O
+B-고기부위 B-무게 O O
+B-재질 B-옷종류 O O O
+B-특정기간 O B-증상 O O O
+B-제품 O O O
+O B-메뉴 O
+B-대상 O
+O B-색 O O
+B-세트메뉴 I-세트메뉴 I-세트메뉴 B-음료 O O O
+O O B-고기부위 O O
+B-미용종류 O O
+O B-메뉴 O O O
+B-메뉴 I-메뉴 B-수량 B-메뉴 O O
+B-빵종류 O O
+O O B-가격 O O
+O
+B-옷부분 O B-재질 O O B-재질 O O B-서비스종류 O O O O
+B-과일종류 O O O
+B-빵종류 O O
+O B-매물 O O O
+O O O B-할인수단 O
+B-메뉴 O
+B-증상 O B-병명 O
+B-결제수단 O O
+O B-결제수단 O
+B-온도 B-메뉴 B-수량 I-수량 O O B-수량 O O
+B-메뉴 O
+O B-재료 O
+O B-수량 B-양념치킨 B-수량 O
+O
+O B-결제수단 O
+B-부분 I-부분 O O O O
+B-단지명 O
+B-토핑 O O O
+B-재료 O
+B-호칭 O B-과일종류 O O
+B-메뉴 O O
+O O O O O
+O O O O O O
+O O
+B-단지명 B-층수 O
+O O O B-컵 O
+O B-색상 I-색상 B-제품 O O
+O O B-수량 O B-날자 O O O
+B-반찬 O O
+B-고기종류 O O
+B-미용종류 O O O
+B-연령대 O O B-음식종류 O O
+O O
+B-음식종류 B-수량 I-수량 O O
+B-채소종류 O
+O B-메뉴 O O O
+O O B-미용종류 B-미용종류 O O B-미용시간 O O O O
+B-돼지고기종류 O O B-음식용도 O O
+O O B-비품 O O
+O O O O O
+O O O O B-건축물 O
+O B-수량 O O
+O B-인원 O B-매물 O
+B-소 B-원산지 O O O
+B-곡물종류 O B-수량 I-수량 O B-비용 O O O
+O B-평수 B-아파트명 O
+B-음식종류 O
+B-당구장비 O O
+B-부위 O O
+O B-의류 O O
+B-옷종류 O O O O
+B-음료 O O O
+B-메뉴 O O
+O B-수량 O
+B-화장품종류 O O
+O O
+B-떡종류 O
+O O O B-제품 O O
+B-이용시간 O
+B-시간 O O
+O O B-색상 B-가짓수 O
+B-과일종류 O B-수량 O
+B-메뉴 B-수량 I-수량 B-메뉴 B-수량 O O
+O
+B-시간 O O
+B-메뉴 O O
+B-행사 O O O O
+O B-떡종류 O O O
+B-제품 O
+O O O O
+B-삼겹살종류 I-삼겹살종류 O O
+B-맛 O O B-메뉴 O
+O B-제품 O O
+B-증상 O
+O B-대상 I-대상 B-과목 O O O
+O B-중국집메뉴 O O O O
+B-수량 I-수량 O O O
+O O O B-중량 O
+O B-비품 O O O
+B-젓갈류 I-젓갈류 O O
+B-메뉴 I-메뉴 I-메뉴 B-메뉴 O O
+B-건축물 O O O
+B-고기종류 B-음식용도 I-음식용도 O O
+B-위탁물종류 B-수량 O O O O
+O B-평수 O O
+B-고기부위 O B-세트종류 I-세트종류 O O B-고기부위 O O
+O B-색상 O O O O
+B-메뉴 O O
+B-인원 O O O O
+B-시간 B-과일종류 O
+O O
+B-과일종류 O O
+O B-세트메뉴 I-세트메뉴 B-세트메뉴 I-세트메뉴 O O
+O B-수량 O
+O O O
+B-포장 O
+O B-메뉴 B-수량 O B-토핑 O O
+B-메뉴 O
+O O
+O O O B-수량 O
+O B-금액 O O
+B-수량 I-수량 O O
+B-메뉴 I-메뉴 B-수량 O
+O O
+O B-비품 O O
+O O B-이용요금 O
+O B-메뉴 O O
+B-메뉴 B-재료 O
+B-교통수단 O O
+O
+B-고기부위 O
+O B-신발종류 O
+B-메뉴 B-온도 O O
+O B-결제방식 O
+O B-비품 O O
+O B-과일종류 O B-과일종류 O O
+B-횟수 I-횟수 O O O
+B-토핑 B-횟수 O O
+B-메뉴 I-메뉴 I-메뉴 B-수량 O O
+B-시간 O O O O
+O B-의류 O O
+B-메뉴 I-메뉴 I-메뉴 O O O
+O B-음료 O O O O O
+B-방등급 B-방등급 O O O
+B-메뉴 B-수량 O
+B-대상 I-대상 O O
+O O
+B-제조방법 B-메뉴 O O
+O O
+B-대상 O O
+B-성분 O O B-메뉴 O O
+B-방등급 O O O
+B-미용종류 I-미용종류 O O
+B-떡종류 O O O
+O B-인원 O O O O
+B-매물 O O O
+O O O B-횟수 I-횟수 O O
+B-메뉴 O O O B-재료 O O
+O B-금액 O O O
+O B-색 O O
+O B-상품 O
+O B-귤종류 O
+O O B-인원 O O
+O B-가방종류 O
+B-식기 B-수량 O O O
+B-메뉴 I-메뉴 B-수량 O
+O O B-수량 I-수량 B-메뉴 O
+O B-메뉴 B-온도 O
+O B-제품 O O
+B-메뉴 O O O
+B-메뉴 O B-재료 O O O
+B-메뉴 O O O O
+B-메뉴 O O O O O
+B-빵종류 O O O B-식물종류 O O
+O O B-할인수단 O
+O O O B-스타일 B-재질 O
+B-커피종류 I-커피종류 O O O
+O B-과일종류 O O
+B-나이 O O B-신체부위 O O O O
+B-제품 B-수량 O O
+B-지위 B-떡종류 O O O O
+B-기름종류 O O O O
+B-소스 B-소스 O O
+O B-포장 O
+B-소스 B-수량 O O O O O O O O O O
+B-머리카락 O O B-미용종류 B-미용종류 O O O
+O O B-메뉴 O O
+O B-생활용품 O O
+O B-메뉴 O O O O
+B-당구장비 I-당구장비 B-개수 O O
+B-메뉴 B-메뉴 O O
+B-의약외품종류 O O
+B-제품 O O
+B-수업방향내용 O O O O O
+O B-시간 I-시간 O O O
+B-비품 B-수량 O O
+O B-가방종류 O
+O B-위치 O O O O O
+O B-제품 O O O O O
+B-메뉴 O O
+O O B-수선위치 O O O
+O B-평수 O O
+B-수량 O O O O
+O O O
+O B-메뉴 O O
+B-고기부위 O O
+B-성분 O O B-메뉴 O
+O B-머리카락 O
+B-아파트이름 B-평수 O
+B-메뉴 O
+B-수선위치 O O O O O O
+B-메뉴 I-메뉴 O O O O B-메뉴 O
+B-색상 B-장식 O O O B-무늬 B-제품 O O
+O O O O O B-시간 O O
+B-피부형 O O O O O
+O O O O O
+B-상품 O O
+B-금액 O O O B-재료 O
+B-매물 B-평수 O O
+B-떡종류 O
+O B-포장 O
+B-메뉴 B-수량 B-음료 O B-수량 O
+B-과자종류 B-수량 O O
+B-소스 B-수량 O O O
+B-빵종류 O B-빵종류 O
+B-결제수단 B-결제수단 O O
+O B-수량 O O
+B-평수 O O O
+B-원단종류 O O O
+B-옷종류 O
+O B-상품 O
+B-메뉴 O O
+O O
+O B-육류 O O O
+B-식기 O O O
+B-메뉴 O
+B-대상 O O O
+B-제품 O
+B-가격 I-가격 B-임대종류 B-가격 I-가격 B-가격 I-가격 O O
+O O B-건축물 O O O O O
+O O
+O O B-위탁물종류 B-서비스비 O
+B-장소 B-반찬 O
+B-메뉴 B-수량 B-온도 O O
+O B-메뉴 B-가짓수 O
+B-제품 O
+B-반찬 O
+B-해 O O
+O O O
+B-케이크종류 I-케이크종류 O O O
+O B-옷종류 O O O O O
+B-메뉴 O O O O O
+B-방종류 O O
+B-맛 B-맛 B-맛 O O
+B-재료 I-재료 O O
+O O B-결제수단 O O
+B-온도 O O O O O
+B-온도 O O
+B-부위 O O O
+B-메뉴 B-수량 O O
+B-상품 O O O
+B-시간 I-시간 B-요일 O O O O
+B-메뉴 B-메뉴 O
+B-고기부위 B-무게 O O
+O B-수량 O
+B-토핑 O O
+B-메뉴 I-메뉴 I-메뉴 O O B-재료 O O
+B-메뉴 B-수량 O
+B-과일종류 B-수량 O O
+O O O
+O O B-수량 O O
+O B-제품 O O
+B-예약일 B-예약시간 I-예약시간 O O
+B-쿠키종류 I-쿠키종류 O O O O
+O B-메뉴 B-재료 O
+B-결제 B-할부개월 O O O
+O B-시간 O O O
+B-횟수 O O O O
+B-매물 O O O
+B-메뉴 B-재료 O O
+B-화장품종류 O O
+B-메뉴 B-온도 B-온도 O O O
+O B-떡종류 O O
+O B-화장품종류 O
+B-메뉴 B-수량 B-금액 O
+O B-제품 O O O
+B-화장품종류 O O
+O O B-매물 O O O O O
+B-메뉴 O B-수량 O
+B-제품 O O
+O O O O
+O B-메뉴 O O O
+B-약종류 O
+B-날짜 O B-제품 O O O
+B-음식종류 O O O
+O B-증상 O O B-약종류 O O
+O B-메뉴 O
+O B-수량 O
+B-식기 O O
+B-메뉴 I-메뉴 B-브랜드명 O O
+O B-제품 O
+O B-바지종류 O
+B-반찬 O O O O O
+B-메뉴 O O
+B-메뉴 O
+O O
+B-재료 O O
+B-메뉴 B-방향 O O O O O
+B-식빵종류 I-식빵종류 B-크로켓종류 O O
+O B-횟수 O O
+O O B-세트제품 O O
+O O B-요일종류 O O
+B-메뉴 B-메뉴 O O O
+B-메뉴 I-메뉴 O O
+O O B-화장품종류 O O
+B-병명 O O O O
+O O B-제품 O O O
+B-염색제종류 O O O
+O B-메뉴 B-수량 O
+B-색상 O O O O
+B-머리카락 O B-머리카락길이 O O O
+O O O O B-증상 O O
+B-서비스비 O
+B-색 O O
+B-메뉴 B-수량 O O
+B-나물종류 O B-반찬종류 O
+O O O
+O O O B-수량 I-수량 B-수량 I-수량 O O O O O O O
+B-반찬종류 B-반찬종류 B-반찬종류 I-반찬종류 O O
+B-색상 O
+O O O O O
+O B-날짜 B-매물 O O
+O O B-수량 O
+B-세트메뉴 O O
+O O
+O B-메뉴 O O B-메뉴 O O
+B-메뉴 I-메뉴 O O
+O O O O B-가격 O O
+B-인원 B-방종류 O
+B-수량 I-수량 O B-가격 O O O
+B-메뉴 O O
+O B-메뉴 I-메뉴 B-재료 O O O O O
+B-휴일 O O
+O O O O B-제품 O O
+B-과일종류 O O
+B-떡종류 O O O
+B-배달시간 O
+B-호칭 O B-옷종류 O
+B-비품 O O O
+O
+B-미용종류 O O O O O
+B-메뉴 O
+B-장식 O O
+B-대상 I-대상 B-과목 O O O
+B-층수 O O O B-위치 O O
+B-인원수 I-인원수 O O O O O O
+B-영수증종류 I-영수증종류 O O
+B-색상 O
+O B-제품 O O O
+B-방향 I-방향 O O B-방향 I-방향 O O O O O
+O O O B-음식종류 O O O O O
+B-매물종류 O
+B-결제수단 B-결제수단 O O
+B-과일종류 B-과일종류 O O O O
+O O O
+B-메뉴 I-메뉴 B-온도 O
+B-이용시간 O
+B-메뉴 O O O O O
+O O
+B-화장품종류 O O
+O O B-장신구 O
+B-음식종류 O
+B-인원 I-인원 O O O O O
+O B-집종류 O O
+O O O B-수량 O
+B-아파트이름 B-임대종류 B-시기 O B-수량 O
+B-세트메뉴 I-세트메뉴 B-수량 O
+B-매물 B-위치 O O O
+B-게임종류 I-게임종류 B-이용시간 O O
+B-약종류 O
+O O O
+B-돼지부위 O O
+B-색상 B-색상 O O O
+O O B-평수 I-평수 I-평수 O O O
+O B-제품 O
+O B-시간 O O
+B-금액 O O O O
+O O O B-온도 O O O
+O O
+B-메뉴 I-메뉴 O O O
+B-메뉴 O O
+O B-요일 O O
+B-마카롱종류 O
+B-인원 O O O O
+B-수량 O O
+B-미용가능일 O O
+O B-생활용품 O
+O O O O
+B-메뉴 O O O O
+O O
+B-메뉴 B-세트메뉴 B-수량 O
+B-색상 O O O
+O B-입지정보 O O O
+B-대상 I-대상 O O O
+B-옷종류 O B-수선위치 B-수선위치 O O O
+B-메뉴 B-재료 O O
+B-메뉴 O B-사이드 O O O
+B-제품명 B-개수 O
+B-매물 O
+B-음식종류 B-음식종류 O
+O
+B-메뉴 B-금액 I-금액 O O O
+B-미용종류 I-미용종류 B-미용종류 O O
+B-수업 O O O O O
+O B-재질 O O O
+B-메뉴 B-맛 O
+B-사이즈 O O
+O B-메뉴 B-수량 O O
+O B-의약외품종류 I-의약외품종류 O O
+B-게종류 O O O O O O
+B-시간 I-시간 B-요일 O O
+B-제품 I-제품 O O
+O O O O O O O
+O O
+O B-신체부위 O
+O O O B-장신구 O
+O O B-미용종류 O O B-미용종류 O
+O O B-방수용인원단위 O
+B-반찬 O
+B-고기부위 B-무게 I-무게 B-고기부위 O
+B-메뉴 O O
+O O O
+B-메뉴 O
+B-재료 O O O
+B-아파트이름 O B-임대종류 O
+O O B-메뉴 I-메뉴 B-수량 O
+O O O O O B-할인율 O O O
+O B-재질 O B-제품 O
+B-용도 O B-매물 O B-날짜 B-수량 O O O O O
+B-이벤트 I-이벤트 O O
+B-증서 O O O O
+O B-개수 O O
+B-포장 O O
+B-과일종류 O
+B-메뉴 O O O
+O O O
+B-시간 O O
+B-색상 O O
+B-음식종류 O O
+O B-결제수단 O
+O B-색상 O O O O
+O O O O O
+B-음료 I-음료 O O
+B-메뉴 O O O
+O B-재료 O O O O
+B-매물형태 O O
+O O O O B-결제방식 O B-금액 O O
+O B-메뉴 B-메뉴 B-사이드 O O
+B-방종류 O
+O B-재료 O O
+B-결제수단 O O O
+B-대상 I-대상 O O O
+O B-제품 O
+B-토핑 O O
+O O O
+O O
+B-대상 I-대상 O O O O
+B-메뉴 O O
+B-요일 O
+O
+O B-메뉴 O
+B-약종류 O
+B-옷종류 I-옷종류 O O
+B-온도 O O
+B-색상 O
+B-소고기종류 O
+B-메뉴 I-메뉴 O O
+O B-수량 O
+B-메뉴 O O
+O O O O
+O O B-일자 O O B-캠핑장야영구역 O
+O B-색상 O O
+B-사이즈 B-온도 B-메뉴 O
+B-시간 O O O
+B-메뉴 O O
+B-떡종류 O
+O B-시간 O O O O O O O
+B-고기종류 B-무게 O O
+O B-메뉴 B-수량 O
+B-음식종류 B-동물종류 B-음식종류 O O O O O
+B-재료 O
+B-술 O
+B-옷종류 B-옷부분 B-수선방법 O O O O
+B-메뉴 O O O O O
+B-인원 I-인원 O O O
+B-매물 O O
+O O O O B-비용 O O
+B-신체부위 O B-의약외품종류 O
+O O O O B-기간 I-기간 B-연령대 B-인원 O O O O
+B-떡종류 O
+O O B-색상 I-색상 O O
+B-시간 O O
+B-메뉴 O
+B-화장품종류 B-화장품종류 O O
+B-바게트종류 I-바게트종류 B-수량 O
+B-토핑 B-횟수 I-횟수 O O O O
+B-메뉴 O O
+B-메뉴 B-수량 O
+B-계절 B-제품 O O O
+O B-제품 O
+B-미용종류 B-소요시간 O O
+O B-반찬 O O O O
+B-온도 B-메뉴 B-수량 O O
+O O B-무게 O O
+B-맛 O
+O B-화장품종류 O
+O O O
+B-금액 O O O O O
+O O
+B-돼지고기종류 B-돼지고기종류 B-가격 O O O
+B-배달지 O O
+O O O
+B-스타일 I-스타일 O O O O
+B-반찬 O O
+B-음료종류 B-주문수량 O O
+O O B-날짜 I-날짜 O O O
+O B-성분 O O O O
+B-파이종류 O O
+B-수량 I-수량 O O
+O O O B-사이즈 O O
+B-가격 I-가격 I-가격 O O O O O
+O O
+O B-메뉴 O
+B-미용종류 O
+O O O O O O O
+B-떡종류 O
+B-채소종류 O
+O O B-장소 O O
+B-채소종류 O O
+O B-메뉴 O O
+B-메뉴 I-메뉴 B-수량 O O
+B-메뉴 B-수량 I-수량 O O O O
+O B-메뉴 B-메뉴 O O
+O O O B-수량 I-수량 O O O B-수량 O
+B-메뉴 B-수량 O O
+B-메뉴 I-메뉴 O B-온도 O
+B-부위 O O
+B-화장품종류 O O O
+O O B-의약외품종류 O O O O
+O B-수량 O O
+O O B-양 O
+O O O
+B-온도 O O
+O B-음식종류 O O
+B-고기부위 B-무게 O O
+B-메뉴 O
+O B-이용석 B-이용석번호 B-음식메뉴종류 B-수량 O
+O B-수량 B-금액 O
+B-호칭 B-떡종류 O B-곡물종류 O O O O
+B-열람실종류 O O O O O
+B-이용석수량 O O
+B-특정기간 O O O O O O
+O B-상품 I-상품 I-상품 B-사이즈 O O
+B-약종류 B-개수 O
+B-메뉴 B-온도 O
+O B-메뉴 I-메뉴 O B-시간 O O O O
+O B-수량 O
+B-메뉴 I-메뉴 B-수량 B-메뉴 O
+B-반찬 O O O
+O B-매물 O
+B-원두 B-온도 O B-메뉴 O
+B-매물 O O O O O
+B-대상 I-대상 B-도법 O O O
+O B-당구장비 I-당구장비 O O O O
+B-메뉴 O O
+O B-가격 O O O
+B-방종류 O O
+B-이용시간 O O O
+O O O O O O
+O B-토핑 O O O O
+O O B-이용시간 O O
+B-염색종류 I-염색종류 O O O O
+O
+B-옷종류 I-옷종류 O O O
+O O O O
+O
+O O O O O O O O O O O O
+O
+B-용도 O O
+B-메뉴 O O
+O O O
+O B-일회용컵 O B-컵 O O O
+O B-위치 O
+B-제조방법 O O
+B-시간 O B-연령대 B-인원 O
+B-온도 O O B-금액 O
+B-메뉴 O O B-재료 O O
+B-메뉴 O O O
+B-용도 B-고기종류 O
+O B-무게 O O O O
+B-할인율 O O O B-할인율 O O O O
+B-메뉴 B-수량 O
+B-과일종류 O O O
+B-기간 O
+B-메뉴 O O
+O B-메뉴 I-메뉴 B-재료 B-메뉴 O O
+B-카드종류 O O O
+B-과자종류 O O
+O
+B-이용시간 O O
+O B-결제수단 O
+B-비품 O O O
+O O O O O
+B-토핑 O O
+O O B-재질 O O O
+O B-할부개월 O O O
+B-성별 O
+B-대상 O O
+B-케이크종류 I-케이크종류 I-케이크종류 O O O
+B-메뉴 O
+B-메뉴 B-수량 O O
+B-금액 O
+O O B-이용석번호 B-이용석번호 B-이용석번호 B-이용석 O B-이용시간 O
+O B-빵종류 O
+B-온도 O O
+B-메뉴 O O
+O B-메뉴 B-메뉴 O
+B-이용석번호 I-이용석번호 B-주변기기 O O
+B-날짜 O
+O O B-스타일 O O
+O B-스타일 O
+O B-사이드 O O O O
+B-토핑 O O O O O O
+B-세트메뉴 O O O
+B-메뉴 O O
+B-요일 O
+B-결제수단 O O O
+O B-결제수단 O
+O
+B-색상 O O
+O O O
+O O B-평수 O O
+O B-결제수단 B-결제수단 O B-결제수단 O
+B-옷종류 O B-수선위치 O O O O
+B-온도 O
+O O B-제품 O B-사이즈 I-사이즈 O O O O
+O B-평수 O O
+O
+O B-화장품종류 O O O
+B-미용종류 O B-미용종류 O O
+B-커피종류 B-잔수 I-잔수 O O
+B-온도 B-메뉴 B-수량 I-수량 B-메뉴 B-온도 B-수량 O O
+O O B-메뉴 O O
+B-메뉴 O O
+B-메뉴 O O
+O B-수량 O O
+B-이용시간 O
+B-수선위치 B-길이 I-길이 O O O
+B-제품번호 O
+B-메뉴 B-수량 O O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+B-사이즈 O O O O
+O O O O B-미용종류 O O O
+O B-의류 B-사이즈 O
+B-수량 B-떡종류 B-떡종류 O O O
+B-위탁물종류 I-위탁물종류 O O B-서비스비 O
+O B-메뉴 O O O
+O B-인원 O O
+O O O O
+B-위치 O O O
+B-메뉴 B-재료 O O O
+B-식기 B-수량 O O
+B-약종류 O
+O
+B-양념 O
+B-떡종류 B-떡종류 O O
+B-사이즈 O
+B- B- B- B- B- B-
+O B-미용종류 O B-미용종류 O O
+B-방종류 I-방종류 O O O
+B-.온도 B-메뉴 B-메뉴 O O
+B-메뉴 O
+B-메뉴 O O
+B-커피종류 B-잔수 O O
+B-메뉴 B-수량 O O
+B-메뉴 B-토핑 B-수량 O O
+O O O B-수량 O O
+O B-사이즈 B-사이즈 O O O O
+B-매물 O O
+O B-결제방식 B-할부개월 O O
+B-음료종류 O O O O O
+B-메뉴 I-메뉴 B-토핑 O O
+B-매물종류 O O
+O B-층수 O
+O B-온도 O B-온도 O O O
+O B-시간 B-방종류 B-수량 O
+O O B-신체부위 O O
+O B-메뉴 I-메뉴 O B-수량 O
+O B-메뉴 O O
+B-약종류 O
+B-서비스종류 I-서비스종류 B-서비스비 O O
+B-옷종류 O O O O O
+B- B- B- B- B-
+B-토마토종류 O O O
+O O B-대상 O O O O O O O
+O O
+O O
+B-날짜 B-수량 O O
+B-수량 O
+O B-재료 B-수량 B-재료 B-수량 O
+O B-장식 O O O O
+B-결제방식 O O
+B-메뉴 O B-금액 I-금액 O O
+O O O B-양념 O O O O O
+B-기능 O B-기능 O O
+B-비용 B-비용 O O
+B-토핑 O
+B-방종류 O O
+B-메뉴 O O
+B-고기종류 O O O
+O B-메뉴 B-메뉴 O
+B-메뉴 O
+B-화장품종류 O
+B-의류 O
+B-식기 B-수량 O O
+O B-주거형태 O O O O
+O B-수량 I-수량 O O
+B-옷종류 O O O O O
+B-체인점명 O O
+O B-번호 O O O O
+B-맵기 O O
+B-온도 B-메뉴 B-수량 O
+B-월 B-일자 B-월 B-일자 O O O O O O
+O B-메뉴 O O O O O
+O O
+O O B-고기부위 O
+O B-세트메뉴 I-세트메뉴 B-수량 O B-메뉴 B-메뉴 B-수량 O O
+B-고기종류 B-무게 I-무게 O O
+B-부분 O O O O
+O B-이용시간 O O
+B-메뉴 O B-금액 O O
+B-과일종류 O
+B-시간 O O
+B-미용종류 O
+B-연령대 B-인원 O O O O O O O O O
+B-메뉴 O O
+O B-개수 O O
+B-메뉴 O O
+O B-서류 I-서류 O O O
+B-성별 B-옷부분 O O
+O B-의약외품종류 O
+B-메뉴 I-메뉴 O O O O
+B-요일 B-수량 O O
+B-메뉴 O O
+B-시간 O O
+B-액세서리 O
+B-결제방식 O
+B-영수증종류 O
+B-옷종류 O O
+O
+B-메뉴 O
+O O B-시간 I-시간 O O O O O O O
+O O
+O O
+B-시술 O
+B-메뉴 B-메뉴 O
+B-평수 I-평수 O O O
+B-비품 B-수량 O O
+O B-색상 B-색상 B-가짓수 O O
+B-약종류 O O O
+O B-신체부위 O
+B-침대종류 I-침대종류 B-수량 O O O
+O O O B-제품 O O O O O
+B-메뉴 O O
+B-시간 O O O
+O O O O O
+O O O O O O O O
+O O B-인원 O O O O O
+O B-인원 I-인원 O O
+O O B-특정기간 O O O O
+B-주변기기 O O O
+O O B-재료 O
+B-포장 O
+B-인원 O O O O O
+O O O
+O B-음료 B-음료 O O O
+O B-곡물종류 B-음식종류 O O O
+O B-메뉴 O O
+B-연령대 O O O O O
+B-메뉴 I-메뉴 B-수량 O O
+O B-메뉴 O O O
+O
+B-메뉴 B-수량 O
+O B-과일종류 O
+O B-생활용품 B-결제수단 O
+O B-시간 I-시간 B-요일 B-시간 O O
+B-시간 B-시간 O O
+B-메뉴 B-메뉴 I-메뉴 O O
+O O
+O B-메뉴 B-수량 O
+B-시간 B-대상 O B-횟수 O O
+B-상품 I-상품 I-상품 O O O O
+O B-시간 O O O
+B-성별 O
+O B-음료 B-음료 O
+B-인원 O O O
+B-대상 O O O B-색상 O
+B-음식메뉴종류 O
+B-반찬 B-반찬 O O
+B-차종류 O O O
+B-비품 O O
+B-증상 O O
+B-음식메뉴종류 B-수량 B-음식메뉴종류 B-수량 O
+B-식기 O
+O B-메뉴 I-메뉴 O O O O
+O
+O B-사이즈 O
+B-인원 O O O B-평수 B-평수 O
+O
+B-시기 O O
+O B-생활용품 O
+B-주거시설 O O O
+B-수량 O O
+O O
+O O O B-과일종류 O O
+B-메뉴 I-메뉴 O O O O
+B-떡종류 B-수량 I-수량 O O
+B-메뉴 O O
+O B-제품 O O
+B-메뉴 B-수랴 O O O
+B-색상 B-제품 O O
+O O O O
+B-시간 I-시간 B-시간 O O O
+B-떡종류 O O
+B-떡종류 B-떡종류 B-수량 O O
+O O O
+B-제품명 O O O
+B-집종류 O O O O O O
+B-메뉴 B-메뉴 O
+O
+O O O
+B-메뉴 O B-재료 O
+B-예약일 O O
+O B-가격 O O
+B-국종류 O O O
+B-주거시설 O
+O B-메뉴 O O B-메뉴 O
+B-꿀종류 O
+B-지위 B-색상 O O O O
+O O O
+B-제품 O O
+B-메뉴 I-메뉴 B-토핑 O O O
+B-떡종류 O O O O
+B-미용종류 B-미용종류 O
+B-메뉴 O O
+B-증상 O O O O B-약품 O O
+B-기념일 B-음식종류 O O O O O
+B-메뉴 O O
+O O B-음료종류 O
+O B-시간 O O O O
+B-부위 B-용도 O O
+B-채소종류 B-수량 O O
+B-용품 O O
+O B-색상 O O
+B-과일종류 O
+B-메뉴 O
+O O B-개수 O
+B-메뉴 O O
+B-재료 O O
+B-커피종류 I-커피종류 B-크림종류 I-크림종류 O O O
+B-메뉴 O O O O
+B-빵이름 I-빵이름 O O
+B-과일종류 O
+B-온도 B-메뉴 O O
+B-집종류 O O B-매물정보 O O
+B-시간 O O
+B-메뉴 I-메뉴 B-수량 B-온도 B-메뉴 B-수량 O
+B-메뉴 O O O O O
+B-소고기종류 O O O
+B-사이즈 I-사이즈 O O O O O O
+B-물 O O
+O B-결제수단 O
+O B-제품 O O
+O B-메뉴 O O B-식기 O O O
+B-상품 I-상품 O O
+B-재료 O B-재료 O O
+B-장소 O
+B-요일 B-인원 O
+B-결제수단 O
+B-제품 O O
+O B-색상 O O
+B-결제수단 B-이용시간 I-이용시간 O O
+O O B-위치 B-부품 O B-위치 O B-재질 O
+B-날짜 O O O O
+B-토핑 O
+O B-이용시간 O O
+O O O B-인원수 O O
+B-메뉴 I-메뉴 O O
+B-대상 O O B-시간 B-횟수 O O
+B-메뉴 I-메뉴 B-재료 I-재료 O O
+B-케이크종류 O
+B-호칭 B-과일종류 O
+B-옷종류 O B-재질 O
+B-집종류 O O O O
+O B-임대종류 O O O
+O B-수량 O
+O B-주소 O O
+O B-생활용품 O O
+O B-온도 B-메뉴 B-재료 O O O
+O B-배달지 O
+B-채소종류 O
+B-지역 O O O O O O
+O O B-대상 O O O
+O O O
+B-메뉴 O O
+O O O
+B-메뉴 B-크기 O O
+B-앱이름 O
+O B-결제방법 O
+O B-시간 O O
+O B-계약종류 O O O O O O O
+O B-당구장비 O O
+O B-대상 O O O O O O
+O B-메뉴 I-메뉴 B-메뉴 I-메뉴 O B-수량 O
+O B-특정시간대 O
+B-떡종류 O
+O O B-메뉴 B-메뉴 I-메뉴 B-사이즈 O O
+O O
+B-메뉴 O O O O
+O B-메뉴 B-수량 O
+O O B-제품 O O
+O B-메뉴 I-메뉴 B-음료 O
+B-메뉴 I-메뉴 B-수량 O O
+B-부위 B-중량 O O
+B-집종류 B-평수 O O
+O B-채소종류 B-피부질환 O O O O O O O
+B-메뉴 O B-재료 B-재료 O O
+O O O O
+O B-음식종류 O O
+B-메뉴 B-수량 O O
+O B-요일 O O
+O O B-성별 O
+B-미용종류 I-미용종류 B-미용종류 O O O
+B-수량 I-수량 B-금액 I-금액 I-금액 O B-수량 I-수량 O O O
+B-메뉴 I-메뉴 O O
+B-사이드 O O O O
+B-임대종류 B-가격 I-가격 O O O O O
+O O B-수량 B-수량 O O
+B-제품 B-위치 B-소재 O
+B-증상 O O O O O
+B-토핑 B-횟수 O O
+B-고기부위 B-무게 O O
+O B-제품 O O O
+B-메뉴 O O
+B-색상 B-제품 O O O
+B-메뉴 B-횟수 O O
+O B-메뉴 O
+O O
+O B-메뉴 O O
+B-대상 O O
+B-호칭 O B-원단종류 O
+B-곡물류 O O
+B-사이즈 O O B-조각수 O
+O O B-색상 O B-색상 B-색상 O O
+O B-제품 O O
+B-빵종류 I-빵종류 B-빵종류 O O
+B-음료 O O B-수량 O
+B-고기종류 O
+B-떡종류 B-떡종류 O
+O B-화장품종류 O
+B-메뉴 O O
+B-메뉴 I-메뉴 B-메뉴 B-사이즈 O O
+O B-대상 O B-외국어 O O O
+O O O B-기간 I-기간 O O O O
+B-채소종류 O O
+O B-인원 O O O O O O
+O B-과일종류 O O O
+B-메뉴 O
+B-결제방식 O
+B-재료 B-재료 O O
+B-메뉴 B-재료 O O
+B-온도 B-수량 O O
+B-메뉴 O O
+B-떡종류 B-수량 O O
+B-과일종류 B-과일종류 O O
+B-음식재료 O O O O
+O O B-반찬 O
+B-고기종류 O O O
+O O B-색상 O O O
+B-제품 O O O O O
+O O B-수량 O
+O O O O
+O O O O O O
+O O O O
+O O B-무게 O O
+O O O
+B-메뉴 I-메뉴 B-수량 O
+B-메뉴 B-수량 O
+B-당구장비 I-당구장비 O O
+O B-제품형식 O O
+O O B-수량 B-이용시간 O O
+B-메뉴 O
+O B-계절 O O O O
+B-방종류 B-방종류 O O O O
+B-색상 O
+B-메뉴 B-메뉴 O O
+B-아파트이름 B-평수 I-평수 B-임대종류 O O
+B-의약외품종류 I-의약외품종류 B-횟수 O O O O O
+B-결제수단 O
+B-메뉴 O
+O B-메뉴 B-수량 I-수량 O O
+O O O
+B-이용기간 O
+B-옷종류 I-옷종류 O O
+B-부분 O B-재질 O
+O O B-메뉴 I-메뉴 O O O B-재료 B-제조방법 O
+O O O B-결제발식 O O
+B-제품 O
+B-메뉴 O O O O
+B-기간 I-기간 O O
+B-감기종류 O O O
+B-할인율 I-할인율 O O
+O O
+B-당구종류 O O
+B-메뉴 I-메뉴 B-토핑 O
+B-인원 O O
+B-위치 B-매물 O
+B-이용시간 I-이용시간 O O
+B-메뉴 O O
+B-약종류 O
+B-인원 O
+B-음식종류 O O B-고기종류 O O
+B-시간 O O O O O
+B-메뉴 O O
+O O O B-신체부위 O O O O O O O O O O
+B-제품 O O
+O B-메뉴 B-수량 O
+B-횟수 O
+O B-색상 O
+B-음식메뉴종류 B-수량 O
+O O O O O O O
+B-메뉴 O O B-수량 O O
+O B-과일종류 B-수량 O O
+B-온도 B-메뉴 B-수량 O
+O B-스파종류 O
+O O O O O
+O B-생활용품 O O
+O O
+B-머리카락 O B-염색색상 O O O O O
+B-동물종류 B-고기부위 O O
+B-위치 B-색상 B-제품 B-할인율 O O
+O B-호칭 B-크기 B-수량 O O
+B-토핑 O O
+B-음료종류 O O O
+B-원산지 B-반찬 B-반찬 B-수량 O
+O B-색상 O
+B-빵종류 I-빵종류 O O O
+B-빵종류 O
+B-메뉴 O
+B-과일종류 O
+B-향 O O O
+B-장소 B-장소 O
+B-메뉴 O O
+B-연령대 B-인원 O
+B-금액 I-금액 O O O
+B-색상 O
+O O B-음식종류 O
+B-메뉴 B-재료 B-재료 O O
+O B-아파트이름 B-임대종류 O
+O O O O
+B-재료 O O B-온도 O B-메뉴 O O
+B-할부개월 O
+O O
+B-메뉴 I-메뉴 O O O
+B-비품 O O
+O O O B-위치 O O
+B-제품 O O O O
+B-의약외품종류 I-의약외품종류 O O O O O
+O O O B-금액 B-사이즈 O O O O
+B-음식종류 O O O O
+B-고기부위 B-무게 O O
+O O B-매물 O
+B-당구장비 O O O
+O O
+O O
+B-호칭 B-원단종류 O
+B-가격 I-가격 O B-가격 I-가격 O O O O
+B-떡종류 B-수량 O O O
+O O B-옷종류 O O O
+B-크기 O O
+O B-결제방식 O
+B-장소 O B-시간 O
+B-재료 O O O
+O B-생활용품 B-결제방식 O O
+O B-화장품종류 O
+B-음료종류 O O
+B-사이드 I-사이드 O O O O O
+B-메뉴 O O O O O
+B-요일 O O
+B-위치 O O
+B-온도 O
+B-시기 O O
+O O O
+B-특정시간대 B-증상 O O O
+O B-이용시간 I-이용시간 O O O
+B-신체부위 O O O O O
+B-결제방식 O O
+O O O O O O O
+B-미용종류 O O
+O O B-평수 O O
+B-색상 B-색상 O O
+B-날짜 O O O
+B-메뉴 O O O O
+B-성별 B-제품 O O
+B-반찬 O O O O
+B-용도 O O O
+O O O
+B-당구종목 O
+B-아파트이름 B-임대가격 O O B-가격 O
+O O B-시간 I-시간 O O
+O O O B-제품 O O
+B-영수증종류 O
+B-지역이름 O O
+B-반찬 O O O
+O B-인원 O O O O O
+B-성별 O O
+B-메뉴 I-메뉴 I-메뉴 O O O
+B-온도 B-메뉴 B-수량 B-온도 O B-수량 O
+B-열람실종류 O
+B-메뉴 O O O
+B-횟수 I-횟수 O B-횟수 I-횟수 O O O
+O O B-고기부위 B-무게 O
+B-위치 O
+B-곡물류 B-수량 I-수량 B-떡종류 O O O
+B-수량 I-수량 O O O O
+O O B-개수 O B-개수 O O
+B-메뉴 B-온도 O O
+O B-색상 O
+B-온도 O O O O O
+B-평수 I-평수 O O
+O O O O O O O B-토핑번호 I-토핑번호 O O
+B- B- B- B- B-
+O B-약종류 O B-개수 I-개수 O O O O
+B-결제수단 O O
+O B-평수 O O
+B-배달지 O
+B-과일종류 O O O
+O B-메뉴 B-수량 B-음료 B-수량 O
+B-결제수단 O O
+B-성분 B-성분 O B-의약외품종류 B-약의형태 O O O
+O
+B-메뉴 O
+B-위치 I-위치 O O
+O B-언어 O O O
+B-메뉴 O O
+B-약종류 O
+B-메뉴 O
+O B-화장품종류 O B-수량 O O
+O B-식기 B-수량 O
+O O O O
+B-결제수단 O
+O B-제품 O O
+B-메뉴 O O
+B-커피종류 B-커피종류 O O
+B-개수 O O
+B- B- B- B- B- B- B- B- B-
+O O B-빵종류 O O O O
+O O O O B-제품 O
+B-메뉴 B-수량 O O
+O B-메뉴 I-메뉴 O B-수량 O
+B-고기부위 B-원산지 O O O O O
+B-사이드 B-음료 O
+O B-사이즈 B-사이즈 O O O
+B-맛 O O O
+B-제품명 O
+O O
+B-메뉴 I-메뉴 O O
+B-색상 O O O O O
+O O O
+B-메뉴 B-메뉴 O O
+B-메뉴 I-메뉴 B-수량 O
+O B-수량 O
+O O O B-케이크종류 I-케이크종류 O O
+O O O B-제품 O O
+O O
+B-메뉴 B-메뉴 O O O
+B-세트메뉴 B-수량 O
+B-상품 O O O
+B-메뉴 I-메뉴 B-수량 O
+O B-색상 B-수량 O
+B-주변기기 O O O O O
+O B-동물종류 B-수량 I-수량 O O
+O B-수량 I-수량 O O O
+B-요금종류 O O
+B-온도 B-메뉴 B-수량 O
+B-매매종류 O O
+B-요일 O O
+B-증상 O O
+B-금액 I-금액 O O O O
+B-맛 B-맛 O B-맛 O
+O B-메뉴 O O O
+B-용품 B-온도 O B-수량 O O
+B-서비스 O O
+B-음료종류 B-개수 I-개수 B-음료종류 O
+O O
+B-휴일 O O
+B-기간 O O
+B-메뉴 I-메뉴 B-사이즈 O
+B-단지명 B-지역명 B-단지명 B-매매종류 O
+B-화장품브랜드 O O O O
+O B-떡종류 O
+B-메뉴 I-메뉴 B-수량 O O
+B-메뉴 O
+B-수량 I-수량 B-요금 I-요금 O O O O O
+O B-제품 O O O O O O O O
+B-약종류 O
+B-호칭 B-메뉴 I-메뉴 O O
+O O O
+O B-음식종류 O O O B-음식종류 O
+B-메뉴 O O
+B-제품 B-색상 O O O O
+B-옷종류 B-길이 O O
+O O O O
+B-과일종류 O
+B-식기 O
+B-메뉴 B-수량 O O
+O
+B-옷종류 I-옷종류 B-옷종류 O O O
+B-부위 B-약품형태 I-약품형태 O O
+O B-의약외품종류 O
+B-결제수단 O
+O O B-수량 O
+O B-제품 O
+B- B-
+B-옷개수 I-옷개수 O B-서비스종류 O
+B-메뉴 O O
+B-할인종류 O O
+O B-차종류 B-잔수 I-잔수 O O O B-결제수단 O
+B-결제방식 O O
+B-장소 B-위치 O B-매물 O
+B-메뉴 B-재료 O
+B-할인종류 I-할인종류 O O O
+B-음료종류 B-주문수량 O O
+B-메뉴 B-사이즈 B-수량 I-수량 B-메뉴 O O
+B-대상 O O O
+B-방종류 I-방종류 O O O O O O
+O O O O O
+B-이용시간 O O
+O O O O
+O O O
+O B-시간 O O
+B-집종류 B-평수 O B-가격 O O O
+O B-메뉴 I-메뉴 B-수량 O
+O B-재질 O
+O B-메뉴 O O
+O B-제품 O
+B-호칭 O B-위탁물종류 B-옷개수 I-옷개수 B-서비스종류 O
+B-횟수 I-횟수 O O
+B-스타일 O O
+O O O O
+O O B-중량 O O
+B-과일종류 B-수량 O O
+B-메뉴 O O O O
+O B-색 O B-의류 O
+O O B-전단지개수 O
+O B-메뉴 I-메뉴 B-메뉴 B-금액 I-금액 O B-수량 I-수량 O O O
+B-채소종류 O O
+B-제품명 O O O
+B-케이크종류 O
+O B-신체부위 O O O B-효과종류 O O O O O O O
+O B-메뉴 B-성분 O
+B-메뉴 O B-메뉴 O
+O O B-매물 O
+B-메뉴 O O
+B-수량 O
+B-당구장비 I-당구장비 O O O O
+B-이용시간 O
+B-미용종류 O O O
+O B-사이즈 O O O O
+B-결제수단 O O
+O B-아파트이름 B-평수 I-평수 O O
+B-메뉴 B-디저트 O O O O
+B-제품명 O
+B-과일종류 B-포도종류 B-수량 O
+B-날짜 B-날짜 O B-수량 O O
+O B-메뉴 O O
+B-메뉴 B-수량 O O
+B-인원 O O O O O
+B-가방종류 O
+O B-색상 O O
+B-메뉴 O O
+B-원산지 O O O
+B-메뉴 O O O O
+B-의약외품종류 O
+O B-당구공종류 O O
+B-미용종류 B-머리카락 O O O
+O O B-빵종류 I-빵종류 B-수량 O
+B-소고기종류 B-무게 O O
+B-재료 B-굽기 O B-굽기 O O O
+B-제품명 O
+O B-부분 O O O O
+O O
+B-제품 I-제품 O O O
+B-증상 O B-약품명 O O O
+O O O O
+B-의약외품종류 B-약의형태 B-개수 O
+O B-메뉴 O O B-메뉴 B-사이즈 O O
+B-음식메뉴종류 O O
+B-인원 I-인원 O O O
+B-색상 B-사이즈 O
+B- B- B- B- B- B- B-
+O O B-금액 O O O
+B-대상 O O O O O O
+O O B-섭취횟수 O O
+B-메뉴 B-온도 O O
+B-제품 O O
+O B-미용종류 O O
+O
+B-주거시설 B-임대종류 O O
+O B-횟수 O B-머리카락 O
+B-과일종류 O O
+O B-약종류 I-약종류 B-약종류 O
+B-운영요일 O O O O
+O O O B-제품 O
+O B-과일종류 O O
+B-과일종류 O
+B-메뉴 O
+B-떡종류 O O
+O B-제품 B-부분 O
+B-반찬류 O O
+B-제품 O O O O
+O B-사이즈 O
+B-메뉴 O
+O O B-금액 I-금액 B-떡종류 O
+B-스타일 O B-제품 O O
+O B-수량 B-장종류 B-가격 O O
+B-수량 O O
+B-가짓수 O O
+O O O O
+B-상호 O O O O
+B-횟수 O O
+B-온도 B-메뉴 B-사이즈 O O
+B-사이즈 O O O
+B-제품 B-수량 O O
+B-메뉴 I-메뉴 O O O
+O O B-약품형태 O O
+B-월 O O O O O O
+B-주거형태 O O
+O B-위치 B-매물 O B-수량 O B-시간 O O
+B-예약일 I-예약일 B-예약시간 O O
+B-메뉴 B-수량 O
+B-옷부분 O O O O O
+B-고기부위 O
+O O
+B-행사일정 O O O
+B-음식종류 B-인원 I-인원 O O
+B-기념일 B-음식종류 O
+O O O B-가격 O
+O B-색상 O O
+O O B-색상 O O O
+O B-세트메뉴 O O
+O B-이용시간 O O
+B-메뉴 O O
+O B-화장품종류 O
+B-소부위 O O
+O O B-제품 O
+B-메뉴 O O O
+O O
+O O B-메뉴 O
+B-메뉴 B-온도 B-메뉴 O O
+B-대상 B-과목 O O
+B-메뉴 O O
+B-포인트종류 B-응용소프트웨어종류 B-카드종류 O O
+B-아파트명 B-매매종류 O O O O
+B-온도 B-아메리카노 B-수량 O
+O O B-이용시간 I-이용시간 O O O
+O B-떡종류 B-떡종류 O
+O B-금액 I-금액 O O
+B-비품 O O O O O
+B-연령 O B-메뉴 O
+O O B-제품 O
+B-요일 O O O O
+B-제품명 O
+B-결제방법 O O
+O B-과일종류 O
+B-메뉴 O
+B-결제방법 O O
+B-메뉴 O O O O O
+B-날짜 B-과일종류 O
+O O
+O B-메뉴 O
+O B-메뉴 B-수량 O
+B-대상 O O
+B-고기부위 O
+B-장소 O B-매물 B-계약종류 O O
+B-떡종류 O
+B-옷종류 I-옷종류 O O O
+O B-재료 O O O
+B-고기부위 B-무게 O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+B-메뉴 B-수량 O O
+B-메뉴 O O
+O B-수량 I-수량 O O O
+B-상품 O
+B-헤어스타일 O O
+B-방종류 I-방종류 O B-수량 I-수량 O O O O O O
+O O B-색상 O O
+O O O B-메뉴 O
+B-성별 B-제품 O O O
+B-헤어스타일 O O O O
+O B-결제수단 O
+B-수량 O O O O O O
+O B-되지고기종류 O O
+B-메뉴 O O O
+B-부위 O
+O B-상품 O
+B-옷부분 I-옷부분 O O
+O B-할부개월 O O
+B-날짜 B-제품 I-제품 O B-중량 O O
+O B-재질 O O O B-기짓수 O O B-제품 O O O
+B-옷종류 I-옷종류 B-수선위치 O O O O
+O O O
+O O O O
+B-식기 I-식기 O O O
+B-신체부위 O O B-색 O
+B-온도 B-메뉴 B-토핑 O
+B- B- B-
+B-인원 O O
+B-메뉴 O O
+O O O O O O
+B-병명 O B-성분 O O B-의약외품종류 O
+O O
+B-메뉴 I-메뉴 O O O
+B-메뉴 O O O
+B-약품형태 O O
+O O O O
+B-요일 B-예약 O O O O
+O B-해물류 O
+O B-과일종류 O O B-과일종류 O O O
+B-약종류 O
+O B-수량 O B-과일종류 O O O
+B-수량 O O
+B-특정기간 O O O O B-의약외품종류 O O O O O
+B-메뉴 I-메뉴 O O
+B-매물종류 O O
+O O O
+O O O O
+B-토핑 O O O
+B-메뉴 O O
+O O O O
+B-과일종류 O O O O
+O B-사이즈 O O O
+O B-등급 O
+B-떡종류 O O O O O
+O B-시간 O O
+O O B-날짜 O B-시간 O O
+O B-떡종류 O O O
+O B-성별 B-색 O O
+B-사이즈 O
+B-메뉴 O O O O
+B-시간 O O B-제품 O O O
+B-고기종류 B-고기부위 O O O
+B-장소 O O O
+B-약종류 O O O
+B-세트종류 I-세트종류 O B-가격 I-가격 O B-세트종류 O O O O
+B-용도 O O
+B-메뉴 B-재료 O
+B-메뉴 B-수량 B-메뉴 B-수량 O O
+B-예약일 I-예약일 B-예약시간 O O
+O O O O O
+B-과자종류 O O O
+B-소 O O
+O B-판매시설 O O O
+B-컵 O
+O O B-제품 B-수량 O O
+B-음식용도 I-음식용도 B-무게 O O
+B-옷종류 O O O
+B-메뉴 I-메뉴 O O O
+B-기간 I-기간 O O O O O O
+B-온도 O O
+O B-제품 O
+B-재료 O O O
+O O O
+B-돼지고기종류 O O O
+B-식기 O O
+B-의약외품종류 B-투여일수 O
+B-메뉴 I-메뉴 B-메뉴 I-메뉴 O O
+B-장소 I-장소 B-위치 O
+O O B-식기 B-수량 O O
+B-토핑 I-토핑 O O O
+O B-수량 O O O O O
+O O B-크기 B-크기 B-크기 O
+B-메뉴 O B-메뉴 O B-메뉴 B-사이즈 O
+B-상자종류 I-상자종류 O O O B-상자종류 I-상자종류 O O O O O O
+B-지역명 O O
+B-고기부위 O O O
+B-메뉴 O O O
+O B-이용기간 O O O O
+B-미용종류 B-미용종류 O O
+B-과목 O O
+O B-재료 O
+B-특정기간 O
+B-메뉴 B-수량 O
+O B-소재 O
+O
+O B-메뉴 O
+O B-제품 I-제품 O O O
+B-메뉴 O
+B-층수 O O O
+B-재료 O B-식감 O
+B-비품 O O
+O O B-부위 O
+B-성분 B-병원 O O O
+O
+B-기간 O O O O O O O O
+B-수량 B-차종류 O
+O O O
+B-제품 O O O O
+B-메뉴 B-수량 O
+B-용도 O
+O B-수량 B-메뉴 B-수량 O O
+O O B-집종류 B-방향 O B-매매종류 B-매매종류 O O O
+O B-온도 O O B-온도 B-메뉴 B-수량 O O O O
+O B-상품 B-상품 O
+B-용품 O O
+B-크기 O O O
+B-시간 O O O
+B-이용석 O
+O O B-계약종류 I-계약종류 O O O O
+O B-장소 O
+B-상품 O O O
+O O O O O O O O B-건축물 O
+O O
+B-용도 O O
+B-메뉴 O
+B-토핑 O
+B-시간 I-시간 O O
+O O
+B-성별 B-인원 O O O
+B-메뉴 O
+O B-성별 O O O O
+B-장소 O O O
+O B-메뉴 I-메뉴 O O B-메뉴 B-수량 O
+B-날짜 O O
+B-반찬종류 O O O O
+B-임대종류 O O
+B-횟수 O O
+B-메뉴 O O O
+O B-의류 O
+O B-이용시간 O
+B-스타일 B-색상 B-색상 O B-제품 O
+O B-재료 B-수량 O
+O O
+O O O B-기간 I-기간 O O O
+B-머리카락 O
+B-메뉴 O O O O
+B-미용시술종류 B-호칭 O O O O O O
+B-금액 O
+B-과일종류 O O O
+B-메뉴 B-재료 O O O
+B-결제방법 O
+B-의약외품종류 B-개수 O
+B-고기종류 B-음식종류 O O B-고기부위 O
+O B-수량 O
+B-메뉴 O O O
+B-시간 B-방종류 O O
+B-아파트이름 B-비용 O
+B-기간 I-기간 O O O O O O O
+B-제품명 O
+O O O O O
+B-과일종류 O O O O
+O O B-전화번호 O B-횟수 O O
+O O O O
+B-소스 O O O
+O B-포장 B-포장 O O
+O O B-메뉴 O
+O O O O B-위치 O O
+B-기간 O O O
+O O
+O B-약품형태 O
+B-대상 O O
+B-메뉴 O O
+B-크기 O B-수량 I-수량 O O
+B-호칭 O B-과일종류 O O O
+B-메뉴 O O O O O
+B-배종류 B-배종류 O O
+B-음식재료 O O
+O O O O
+B-대상 O O
+B-시간 O O
+O O O
+B-색 O B-의류 O
+O B-동물부위 O O
+B-지역 O O O O O
+O B-행사 O O O O O
+B-제품 O O O
+O O O O O O O
+B-방종류 O
+B-메뉴 B-메뉴 O O O
+B-과일종류 O O
+B-인원 O B-인원 O O O O
+O O B-생활용품 O
+B-스타일 I-스타일 O O O
+B-결제수단 O
+O B-메뉴 O O
+O O O O O O
+B-음식종류 O O
+O O O
+B-메뉴 O O
+O
+B-반찬 B-수량 O
+B-용품 O O
+B-매물 O O
+B-제품 O O O
+B-메뉴 I-메뉴 O O
+B-대상 O O O O B-프로그램 B-기간 B-프로그램 O O O
+O O B-가격 O B-가격 O O
+B-학원명 O O O O
+O B-집종류 O
+B-장신구 O
+B-메뉴 O
+O O O O O O
+B-떡종류 B-수량 O
+B-헤어제품종류 O O
+B-고기종류 B-음식용도 I-음식용도 B-무게 O O
+O B-멤버십 O O O B-이용석 O
+B-고기종류 O O
+B-상품 O O
+O B-메뉴 I-메뉴 B-수량 O
+O
+B-케이크종류 O O O
+O B-음료종류 O O O
+B-개수 O
+O O
+B-메뉴 O
+B-약종류 O O
+O B-메뉴 O O
+O O O O O
+B-음료 O O O O O
+O O B-색상 O O B-제품 O O
+B-결제방식 O O
+O O B-가짓수 I-가짓수 O O O O
+B-제품 O
+B-방종류 B-가격 I-가격 B-방종류 B-가격 I-가격 O O O
+B-메뉴 O
+B-과일종류 O O
+B-연령대 O O
+B-휴무일 O O
+O
+B-아파트이름 O O O
+B-메뉴 I-메뉴 I-메뉴 B-재료 O O
+O O B-제품 O O O O O
+B-음식종류 O O O O
+B-용도 O O O
+B-과일종류 O
+O B-메뉴 B-수량 I-수량 O O
+B-개수 O O
+B-메뉴 B-메뉴 B-재료 O O O
+B-스타일 O O
+B-수량 I-수량 B-수량 O O
+O
+O O O O O O
+O O O
+B-수량 I-수량 B-수량 O O
+B-온도 B-메뉴 B-수량 O
+B-사람이름 O O O
+B-층수 O O O O O O O O O O O O O O
+O O O O
+B-크기 O O
+O B-미용종류 O O
+B-음식용도 O O O O
+B-위치 I-위치 O B-제품 O O O
+B-메뉴 O O
+B-과일종류 O O O
+B-수량 O
+O O B-사이즈 O O
+B-메뉴 O O B-맵기 O
+B-인원 O O
+B-온도 O B-수량 O
+O B-토핑번호 I-토핑번호 O O
+O B-건축물 B-방종류 O B-방종류 O O O O O O
+B-메뉴 B-수량 O
+B-용품 O
+B-메뉴 B-수량 O O
+B-파이종류 B-숫자 O O
+B-증상 O
+B-메뉴 O B-수량 O
+B-호칭 O O
+O B-메뉴 B-사이즈 I-사이즈 B-수량 O
+B-인원 O O O O O O
+B-수선위치 O O B-옷종류 O O O O
+B-음식종류 O
+B-메뉴 B-수량 O
+O B-메뉴 B-수량 B-메뉴 B-수량 O O
+B-날짜 B-매물 O O O O O
+O O
+B-반찬 O
+B-옷종류색상 B-위탁물종류 O O
+O B-위치 O B-제품 O O O O
+B-채소종류 B-수량 I-수량 O O
+B-제품 B-수량 I-수량 B-제품 B-수량 O
+O O B-제품 O
+B-고기부위 O O
+B-결제수단 O
+B-찌개종류 O O B-고기종류 O O O O
+O B-수량 O O
+O O O B-수량 I-수량 O O O
+O B-수량 O O
+O O B-예약시간 I-예약시간 O O O O O O O
+B-날짜 O B-시간 O O
+O O O O O O
+B-메뉴 O O
+B-수량 O B-수량 O O
+B-메뉴 I-메뉴 B-수량 O B-메뉴 B-사이즈 B-수량 O
+B-원산지 B-용도 O O
+B-신체부위 O O O O
+B-금액 O O
+B-예약일 I-예약일 O O B-위치 O O O O O O
+B-용품 O O O
+O B-서류 O
+B-결제방식 O
+B-케이크종류 O O
+B-후식 B-수량 O O
+O B-제품 O O O O
+O B-색 O O B-피부색 O O
+B-메뉴 B-메뉴 O
+O O B-토핑 O O O O O O O
+O O B-수량 O O O O O O
+B-메뉴 O O O O O
+B-캠핑장야영구역 B-위치 O
+B-메뉴 O O O
+B-사이즈 O
+B-음식종류 O O
+B-제품 O O O O
+B-위치 I-위치 O O
+B-신발종류 O O O
+B-옷종류 B-구획단위 O O O O
+O B-음료종류 B-개수 O
+B-색상 O
+B-이용시간 O
+B-날짜 O O
+B-집종류 B-평수 O O
+B-수량 I-수량 B-금액 B-적립수단 O
+O B-아파트명 B-평수 O O
+O O B-가격 O O
+O B-주거시설 B-임대종류 O O O
+B-수량 O O
+O B-국종류 O O B-고기부위 O O
+B-음식종류 O O O
+B-메뉴 B-메뉴 B-수량 O
+B-머리카락길이 O O
+B-고기부위 O O
+B-갈비종류 O
+B-주거형태 O O O O
+B-바지 B-바지 O O
+B-비용 B-비용 O
+B-온도 O
+B-시간 B-시간 O O
+B-음식메뉴종류 B-수량 O
+O B-색상 O O O
+B-소재 O O
+O O O
+O B-인원 O
+B-금액 I-금액 O O O
+B-메뉴 B-수량 O
+B-시간 B-시간 O O
+B-고기부위 O
+B-시간 O O O
+O B-제품 O O
+O B-주거형태 B-비용 O
+O B-지명 O O O O
+O O O O O
+O B-인원 O O O O O
+B-인원 I-인원 B-가격 I-가격 O O
+B-사이즈 O B-부분 O O
+O O B-음식종류 O O O
+B-예약일 O
+B-음료 B-수량 O O O
+O O B-상품 O O O
+O B-매물 O O O
+B-케이크이름 O O O O
+B-계약종류 O
+B-메뉴 O
+B-음료종류 I-음료종류 B-덩이뿌리식물 B-전자제품 O O O
+B-메뉴 O O
+O O B-메뉴 B-수량 B-메뉴 B-사이즈 O
+O O O
+B-호칭 O B-음식종류 O O
+B-결제수단 O O
+B-메뉴 B-음료 O
+O B-매매종류 O O
+B-재료 O O O
+B-성별 O
+B-연령대 O O O O
+O B-특정시간 O O O O O
+B-날짜 O O
+B-의약외품종류 O
+O O O
+O B-메뉴 O
+B-인원 O O
+O O O O
+B-고기부위 B-무게 O O
+O B-인원 O O
+B-고기부위 B-무게 O O
+B-메뉴 O O
+B-장소 B-위치 O O
+B-쿠키종류 I-쿠키종류 B-식물종류 O O
+B-고기부위 O
+O B-메뉴 B-수량 O
+B-떡종류 O O O O
+B-메뉴 B-수량 O
+B-주거형태 O O O
+B-메뉴 O
+O B-고기부위 O
+B-적립수단 O
+B-용도 O O O O
+B-고기부위 O O O O
+B-음료 B-수량 O
+O B-메뉴 O O
+B-횟수 I-횟수 O O
+O O B-인원 O O O O O O
+B-메뉴 O
+O B-메뉴 O O
+B-메뉴 I-메뉴 O O
+B-시간 I-시간 B-시간 O O
+O O O O O O O O O
+O O O O O
+B-포장 O
+B-아파트명 O O
+O B-이용시간 O O
+O O O O O
+B-고기종류 O
+O O B-색상 O
+O O B-의약외품종류 O O
+B-의류 B-의류 O O O
+B-메뉴 O O
+O O O O O
+B-약품 O
+B-시간 I-시간 O O
+O B-제품 O
+O O B-계절 O O O O
+O B-평수 O O O
+O O B-수량 I-수량 O O
+B-메뉴 I-메뉴 O O O
+B-메뉴 I-메뉴 O O B-금액 O B-메뉴 B-금액 O B-메뉴 O B-금액 B-메뉴 B-메뉴 O O O B-금액 O O
+B-고기부위 O O
+O B-제품 B-소재 O O O O O
+B-날짜 O O
+O B-체험시설 O
+O O O O O
+B-병명 O O
+B-음식종류 O O O O O O
+O O O B-미용종류 O
+B-메뉴 B-메뉴 O
+O B-제품 O O O O
+B-채소종류 O
+B-메뉴 I-메뉴 O O
+O O B-조리법 O O O
+O B-용도 B-고기부위 O O O
+B-제품 O O O O O
+B-휴일영업 O O B-요금 O O
+O O B-방향 B-방향 O O O
+O O
+O O B-색상 O
+O O O B-제품 O O O O O O O O
+O O B-수량 O O
+B-음식메뉴종류 B-수량 O O
+O O B-수량 O
+B-토마토종류 I-토마토종류 O O O
+B-약종류 O O
+B-화장품종류 O
+B-음료 O O O
+O O
+B-고기부위 B-무게 O
+O B-비품 O O B-위치 O O
+B-횟수 I-횟수 O O
+B-제품 O O
+O O O
+O
+B-용도 B-고기종류 O
+O B-색 O O
+B-소부위 O
+O O O
+B-메뉴 B-수량 B-메뉴 B-사이즈 B-수량 B-메뉴 B-수량 I-수량 O O
+B-수량 O O
+O B-제품 O
+B-과일종류 B-원산지 O O
+B-예약일 O O O O O
+B-메뉴 I-메뉴 B-재료 O
+B-인원 O O O O O
+B-병명 O O O O O O
+B-매물 O O O
+O
+B-음료 O
+B-인원 I-인원 B-인원 I-인원 O O O
+B-떡종류 B-금액 O
+O O B-일자 B-숙박처종류 O O
+O B-평수 O
+B-원산지 O
+O O O
+B-화장품종류 O
+B-과자종류 O
+O O B-수량 I-수량 O O
+B-음식메뉴종류 O
+B-아파트명 O O
+B-반찬 O O
+O O B-온도 B-메뉴 B-수량 O
+B-위치 I-위치 B-재료 O O O O
+B-주변기기 O O O O
+B-호칭 O B-원단종류 O
+O O O O B-장소 O O O O O
+B-메뉴 O
+B-신체부위 O O O O
+B-호칭 O B-과일종류 O
+B-재료 B-재료 O O O O
+B-메뉴 I-메뉴 B-수량 O B-양념치킨 B-수량 O
+B-온도 B-메뉴 B-수량 O
+B-온도 O O
+B-떡종류 O
+B-재료 B-재료 O O
+B-온도 B-메뉴 O
+B-시간 O O O
+B-메뉴 B-수량 O
+O O O
+O O B-개수 O O
+B-시간 O O O O O
+B-메뉴 I-메뉴 O O O O
+B-수업 O O O
+O O
+B-빵종류 O O
+O B-메뉴 O
+B-수량 I-수량 O O O O
+B-영수증종류 O
+B-음식종류 O O B-빵종류 O O
+B-메뉴 O B-온도 B-메뉴 B-사이즈 O O
+O O O O B-서비스 O O
+B-세트상품 B-횟수 O O
+O B-음식종류 O O
+B-메뉴 O O O O
+B-의약외품종류 O
+B-메뉴 B-수량 O
+B-시간 I-시간 O O
+B-돼지고기종류 O O O O O
+O O O O O O O O
+B-동물부위 O O O
+B-과일종류 B-과일종류 O
+O B-비품 B-수량 O O
+B-고기부위 O O
+O
+O B-외국어 O
+B-매물 B-서류내용 O B-서류 B-시간 O O
+B-시간 B-시간 O
+B-특정시간대 I-특정시간대 O O
+O O O O
+O B-수량 I-수량 O O
+O B-생활용품 O O
+O O B-메뉴 B-메뉴 O B-사이드 O O
+B-고기부위 B-고기부위 B-무게 O
+B-의류 O
+O B-평 O
+O B-결제수단 B-적립수단 B-결제수단 O
+O B-색상 B-색상 O
+B-수량 I-수량 O B-결제방식 O O O
+O O O
+O B-메뉴 I-메뉴 O B-토핑 O O O O O
+B-고기부위 O O
+O B-요일 O O
+O B-온도 O O O O O
+B-온도 O
+O B-메뉴 O B-메뉴 O
+B-제품 B-수량 O
+B-상품 O O
+O O B-사이즈 O
+B-옷종류 B-수선위치 O
+O O B-연령대 O O O O O B-화장품종류 O
+O
+B-제품 O O
+B-고기부위 O O
+B-메뉴 O
+O O O O B-성별 O O O O O O O
+O B-평수 O
+B-결제수단 O
+O B-감종류 B-그릇종류 O
+B-화장품종류 O O O
+O B-메뉴 O B-메뉴 O O
+O O B-케이크종류 O O
+B-메뉴 B-온도 B-수량 I-수량 O O O
+B-기념일 B-음식종류 B-주문방식 O O
+B-화장품종류 O O O
+B-케이크종류 I-케이크종류 O O O
+B-온도 O O O
+B-음식종류 O O O
+B-식기 O O
+O O B-과일종류 O O
+B-메뉴 I-메뉴 I-메뉴 O O O
+B-빵종류 O O O O
+B-메뉴 O O B-메뉴 O
+B-떡종류 B-금액 O O
+O O O O O O O
+O B-제품 O O
+O B-화장품종류 O O O O
+O B-수량 O O
+B-아파트이름 B-아파트이름 O B-임대종류 O
+O B-주거시설 O O B-임대종류 O
+O O O O
+B-과일종류 B-수량 O O
+O O O
+O B-시간 O O O O
+B-화장품종류 O O O
+O B-메뉴 O O B-재료 B-양념 O O O O
+B-쿠키종류 O O
+B-곡물종류 O O O B-수량 I-수량 O O O
+B-메뉴 B-음료 O
+B-포인트 O O
+O O O O O O
+O O B-스타일 O O
+B-빵종류 B-수량 O B-빵종류 I-빵종류 O O B-수량 O
+O B-제품 O O
+B-메뉴 O B-메뉴 O
+B-계절 O O O O O
+B-제품 B-제품 O
+B-연령대 O O
+B-메뉴 O
+B-메뉴 B-온도 O B-수량 O
+O O O O O
+B-대상 I-대상 B-도법 O O O
+B-수량 O O
+O O O B-평수 O
+B-메뉴 I-메뉴 O O
+O O
+B-소재 B-제품 O O
+B- B- B- B- B-
+B-대상 I-대상 B-성별 B-도법 B-기간 I-기간 O O O
+O B-온도 B-온도 O O O O
+O O B-배달지 O B-메뉴 O O
+B-메뉴 B-메뉴 O
+B-연령대 B-성별 O O O O O O
+O O B-음료종류 O O
+B-메뉴 B-맛 O
+B-온도 B-메뉴 B-사이즈 O
+O B-메뉴 O
+O B-세트메뉴 O B-수량 O
+B-제품 O B-제품 O O O O
+B-메뉴 B-수량 O
+O B-화장품종류 O
+B-비품 O O
+O B-메뉴 B-사이즈 O B-수량 O
+O B-위치 O O
+O O O O O O O
+B-음료 O
+O B-메뉴 O
+B-기간 I-기간 O O O
+B-반찬 I-반찬 O O O O
+B-음료종류 B-음식종류 B-수량 I-수량 O O
+O B-포장 O B-재료 O O
+B-시간 O O O O O
+B-고기부위 B-조리법 O O B-무게 I-무게 O O O
+O O B-제품 O O
+B-매물종류 O O
+O B-온도 O
+O B-메뉴 B-수량 B-메뉴 B-수량 O
+O O
+B-위치 O O
+O O B-맵기 O
+B-온도 O O
+O B-행사 O O O
+B-직업 B-기간 O O
+B-특정시간 O O O O O
+B-소재 O O O O
+B-뼈종류 O O
+B-할인율 O
+O B-제품 O
+O B-대일밴드 O O
+B-골프용품브랜드 O
+B-온도 B-메뉴 O O O
+B-메뉴 I-메뉴 B-수량 O
+B-옷부분 O O O
+B-시간 O O
+O O O
+B-가격 I-가격 O O O
+B-인원 O O
+O B-장식 O O O O
+B-재료 O O O
+B-제품 O O
+B-약종류 B-음료종류 O O
+B-음식종류 O O O
+O O B-위치 O B-제품 O O
+O B-투여일수 I-투여일수 O O O
+O O O O O
+B-반찬 B-수량 I-수량 O O
+O O O O B-온도 B-재료 O O
+B-메뉴 O O
+O O O B-특정기간 B-신체부위 O O
+B-화장품종류 O O O O
+B-메뉴 I-메뉴 B-수량 O O
+O O O O O O O O
+B-시술 O O O O
+B-시간 B-시간 I-시간 O O
+B-성분 B-성분 O O O
+B-메뉴 O O O
+B-귤종류 O
+B-제품 O
+B-메뉴 O O O O O
+O O
+B-예약시간 B-인원 O O O
+O O B-머리카락 O
+O O B-시간 O O O O O O B-수량 O O O O
+B-위치 B-장소 B-장소 O O
+B-온도 O
+O B-평수 O O
+B-대상 I-대상 B-과목 I-과목 O O
+B-화장품종류 O O
+B-음료 O O
+B-크기 O
+B-메뉴 O
+O B-메뉴 B-맛 O O O
+O B-음료종류 B-수량 I-수량 O O O
+B-빵종류 O O O O O
+B-채소종류 O
+O O
+B-기간 O
+B-커피종류 O O
+O B-증상 O
+B-과일종류 B-원산지 O
+O B-빵종류 O O O O
+O O B-사이드 O
+B-약종류 B-색 O O O
+O O B-개수 O
+B-객실 I-객실 O O
+B-옷종류 O
+O O B-의류 O O
+B-제품 O O O
+O B-메뉴 I-메뉴 O O O
+B-빵종류 B-균종류 O
+O B-수량 O O
+B-메뉴 B-재료 O O O O
+O O O O O O
+B-옷종류 O O
+B-고기부위 B-무게 O O
+O O O
+B-음료종류 B-과일종류 O O
+O O
+B-메뉴 B-수량 O
+B-주소 B-메뉴 O O O
+O B-메뉴 I-메뉴 O O
+O B-예약일 B-시간 O O O
+O B-식사종류 B-음식종류 O O O
+B-메뉴 B-인원 I-인원 O O O O
+O O
+B-이용시간 O
+B-결제방식 O O O
+B-집종류 B-매물종류 O O O B-단지명 B-층수 B-매물주변교통 O O O
+B-온도 O O
+O O B-기능 O O O O O
+B-음식메뉴종류 B-수량 O
+B-브랜드명 O O
+B-떡종류 O
+B-메뉴 B-토핑 O
+O B-과자종류 O
+B-과일종류 O O
+B-메뉴 O O O O O
+O O B-메뉴 I-메뉴 O O O O
+O B-메뉴 B-시간 O O O O O
+B-이용시간 O
+B-메뉴 O B-재료 O O O
+O O O O
+B-옷종류 B-길이 I-길이 O O
+B-포장 O O
+B-건물명 O B-가격 O O
+B-제품 O O
+B-금액 I-금액 B-재료 O O
+O O B-금액 B-층수 I-층수 O O O
+B-날짜 B-시간 O
+B-의약외품종류 B-개수 O
+B-온도 O O
+B-재료 O O
+O B-결제수단 O O
+O O O
+O
+O B-약품 O O O
+O B-상품 B-상품 O O
+B-빵종류 O O O O
+B-장소 B-장소 O O
+B-메뉴 B-온도 O O
+B-의약외품종류 O O O O O
+B-비율 B-색 O
+B-색상 O
+B-일자 O O O
+B-부위 B-수량 O
+B-음식종류 O O O O
+B-세트메뉴 O O O O
+B-과일종류 O
+B-호칭 B-제조방법 O O O
+O B-화장품종류 O O
+B-호칭 O O
+B-온도 O O
+B-화장품종류 O O O O O
+B-메뉴 B-온도 O B-온도 O O O O O O O O
+B-메뉴 O B-횟수 I-횟수 O O O
+O B-메뉴 O O O O
+B-피부상태 O O O O
+B-메뉴 B-재료 B-수량 O O
+O B-염색종류 I-염색종류 O O O
+B-용도 O O O B-상품 O
+O B-가방종류 O
+B-메뉴 O
+O B-수량 O O
+B-시간 O O
+O B-예약자 O O
+B-미용시술종류 O O O
+O O O B-행사 O O O O
+B-이용석 O O
+B-이용시간 O
+B-기간 I-기간 O O
+B-소재 O
+B-메뉴 B-맵기 B-맵기 O O
+B-식빵종류 I-식빵종류 B-수량 O
+O O O O
+B-호칭 B-재료 I-재료 B-토핑 O
+O O O B-염색색상 O O
+O B-장소 O
+O O O O B-음식종류 O B-가격 I-가격 O O B-음식종류 O
+O O O O O O B-스타일 O O O B-제품 O
+O B-옷종류 I-옷종류 O O O O O
+B-제품 O O
+B-메뉴 O
+B-상품 O
+B-과일종류 B-과일종류 O
+B-약종류 O
+O O B-성질 O O
+O O O
+B-성별 B-옷종류 B-서비스비 O
+O B-제품 O
+O O O B-금액 O O
+O B-제품명 O O
+B-집종류 O
+O B-중량 O O
+O B-증상 O O O O O O
+B-김치종류 B-젓갈종류 O O
+B-결제방식 O
+O B-제품 O
+O B-기념일 O O B-용도 O O
+O O O O B-메뉴 O
+B-메뉴 O O
+B-메뉴 I-메뉴 O O O O
+O O O O
+B-메뉴 O O O
+B-증상 O B-약품 O O O
+O O
+B-고기부위 O O
+O O O
+O O B-수선방법 O O O
+O B-메뉴 I-메뉴 B-수량 B-메뉴 B-사이즈 B-수량 O
+O O O B-가격 I-가격 O O
+O B-제품 O O O
+B-제품 O O O O
+O B-비율 I-비율 O O
+B-차종류 O B-차종류 O O
+B-제품 O O O O
+B-사이드 O O B-세트메뉴 I-세트메뉴 I-세트메뉴 O O O O O O
+B-신체부위 O
+B-사이즈 B-수량 I-수량 O O O O O O
+O B-재료 O O
+O B-장소 O O
+O B-시간 O O O
+O B-화장품종류 O
+O B-맵기 B-수량 O O
+B-음식메뉴종류 O O
+B-메뉴 B-메뉴 O O
+B-투여일수 I-투여일수 O O
+B-메뉴 O O
+B-메뉴 I-메뉴 O O B-맛 I-맛 O O
+B-아파트이름 B-임대종류 O B-평수 O O
+O O B-제품 O
+B-음식메뉴종류 B-수량 O
+O O O O
+B-시간 O O
+B-케이크종류 I-케이크종류 B-빵종류 O
+O O O B-평수 I-평수 O O
+B-온도 B-메뉴 I-메뉴 B-수량 O O
+O B-수량 O O
+O B-메뉴 B-수량 O O O
+O B-인원 I-인원 O O
+B-임대종류 O
+B-메뉴 B-재료 O
+B-고기부위 O O O O O
+O O O B-매물 O O O
+B-수량 O O
+B-방종류 O
+B-용도 O O O O
+B-떡종류 B-수량 I-수량 B-곡물종류 O O O
+B-열람실종류 B-이용기간 O O
+B-메뉴 O O
+O B-시간 I-시간 O O O
+O B-생활용품 O O O
+O O O B-시간 O O O O
+B-메뉴 B-수량 O
+O B-집종류 O
+B-메뉴 O O
+B-브랜드 O
+O B-위치 O O
+B-용도 B-상품 O
+B-메뉴 O B-재료 O O O B-메뉴 O
+B-색 O O
+B-용도 B-상품 O
+O O O O
+B-약종류 O
+B-아파트명 O O
+O B-장소 O O
+O B-수량 O
+B-제품 O
+B-사이즈 I-사이즈 O O O
+B-호칭 B-성별 B-옷종류 B-옷종류 B-옷종류 O O O O
+B-빵종류 B-빵종류 I-빵종류 O O
+O O O O
+B-인원 I-인원 B-수량 I-수량 O O
+B-주소 O O O
+B-떡종류 B-수량 O O
+O B-매물 O O O O O O O O
+B-과일종류 O O B-과일종류 B-수량 I-수량 O O
+O O O
+O O O O O B-반찬 O
+B-재료 O O O O
+B-시술 B-시술 O
+O B-시간 O O
+B-제품 O O O O
+B-토핑 O O
+B-제품 O O O O
+B-재료 O O O O
+B-메뉴 I-메뉴 I-메뉴 O O O O
+B-횟수 O O
+O O O O B-제품 O
+O B-가짓수 O O
+B-돼지고기종류 O B-무게 O O
+B-지역명 B-단지명 O O O
+O B-용기종류 O B-수량 O
+B-고기부위 O O O O O
+B-메뉴 O O
+B-결제수단 O O B-결제수단 O
+B-계절 O O
+O B-결제수단 O
+O B-술 O
+B-대상 O
+B-날짜 B-시간 O O
+O O B-장소 B-위치 O O O
+B-메뉴 B-메뉴 B-메뉴 B-수량 O
+B-메뉴 O O O
+O O O O O O O O O O
+O O
+B-메뉴 O O O
+B-도법 O O O O
+B-과일종류 O O O O
+B-호칭 B-옷종류 O O O
+O B-메뉴 O
+O
+B-사이즈 I-사이즈 O O O
+B-고기부위 B-무게 O O
+B-옷종류 B-옷종류 O O
+B-메뉴 I-메뉴 I-메뉴 B-수량 B-메뉴 B-수량 O O
+O O O
+B-용도 O B-상품 O
+O O O B-수량 B-메뉴 I-메뉴 B-수량 O O
+B-빵종류 I-빵종류 O O O
+B-횟수 O O
+B-색상 I-색상 O B-제품 O
+B-음식종류 O B-수량 B-커피종류 I-커피종류 B-수량 O O
+B-결제수단 I-결제수단 O B-결제수단 I-결제수단 B-서비스비 O O
+O B-메뉴 I-메뉴 B-수량 O B-소스 O
+B-메뉴 B-방향 O O O
+B-사이즈 O B-제품 O O O
+B-제품 I-제품 O O
+B-날짜 I-날짜 O B-인원 I-인원 O O O O O
+B-비타민종류 O O O O O B-증상 B-신체부위 O O
+B-미용종류 O O
+B-약종류 B-약종류 I-약종류 O O O
+B-메뉴 I-메뉴 O O
+B-미용종류 O O
+B-메뉴 O O O
+B-음료종류 B-개수 O O
+O O B-수량 O O
+O B-성분 B-성분 O O O O
+O B-토핑 B-횟수 I-횟수 O O O
+O B-재질 O
+O O O O
+O B-생활용품 O
+O B-제품 O
+B-성별 O O
+O
+O B-휴무일 O O
+B-메뉴 B-위치 B-재료 I-재료 O O
+B-메뉴 B-수량 O
+O B-과일종류 B-수량 B-채소종류 B-수량 I-수량 O O
+B-위탁물종류 B-서비스종류 O O
+O O B-떡종류 B-떡종류 O O O
+B-침대종류 I-침대종류 B-수량 B-침대종류 I-침대종류 B-수량 O O O B-방종류 O O O B-호칭 O O
+B-인원 I-인원 B-수량 I-수량 I-수량 O O O O
+B- B- B- B-
+B-원산지 B-고기종류 O
+B-떡종류 O O
+B-서비스종류 O O O O O
+B-메뉴 O O O
+O O B-가격 O O
+B-당구장비 O O O O
+B-메뉴 B-방향 B-토핑 O O
+B-사이즈 O
+B-음식메뉴종류 B-수량 O O
+O B-커피종류 B-잔수 O O
+B-재료 O
+O O B-사이즈 O O O O O
+B-집종류 O O O O O O
+O B-수량 O
+B-메뉴 O O
+B-박스수량 O
+O B-음식종류 B-과일종류 O O O
+O O B-시간 O O
+O B-수량 O
+B-빵종류 O
+B-가격 I-가격 B-결제방식 O
+O B-사이즈 O
+B-제품 O O O O
+B-음식종류 O
+B-매매종류 B-시세 O O
+B-과일종류 B-과일종류 O
+O B-가방부분 B-수량 I-수량 O O
+B-아파트이름 O B-비용 O O
+B-동물종류 B-음식종류 O B-무게 O O
+O B-중량 I-중량 B-용도 O
+B- B- B- B- B- B- B- B- B- B-
+B-제약회사 O B-비타민종류 O
+O O B-수량 O B-메뉴 B-메뉴 O O
+B-주거시설 O O O O O O
+O O O O
+B-무늬 B-제품 O O
+O B-시간 I-시간 O O
+B-도구 O
+B-계약종류 O O O
+B-과일종류 O
+O O O
+O B-사이즈 B-수량 O
+B-수량 O O
+O B-색상 B-제품 O B-색상 B-색상 O O
+B-제품 O O
+O O B-약종류 O
+B-결제방식 O O
+B-메뉴 O B-재료 B-재료 O
+O B-재료 O O
+B-할인종류 B-회원등급 O O O
+B-집종류 O O O O
+O O O O O O
+B-메뉴 B-수량 O
+B-메뉴 I-메뉴 B-수량 O
+B-메뉴 O O
+O B-색 O O
+B-소재 O
+O O O O O O
+B-과일종류 B-수량 O O
+B-재료 O O
+B-중량 O O
+B-제품 I-제품 O O O
+B-메뉴 B-수량 O
+B-떡종류 O O
+B-메뉴 I-메뉴 B-수량 B-메뉴 B-수량 O
+B-임대종류가 B-가격 O O
+B-메뉴 O O
+B-인원 O O O O
+B-제품 I-제품 O O O O
+O O B-효과종류 O O O O
+O O O O O
+B-숙박처종류 O O O O
+B-사이즈 I-사이즈 B-온도 B-메뉴 O O
+B-메뉴 B-수량 O O B-메뉴 O B-수량 I-수량 O O
+B-건축물 O O
+B-온도 B-메뉴 B-수량 O
+B-사이즈 O O O O O O
+O O B-메뉴 B-수량 O O O O O O O
+B-메뉴 B-사이즈 O O
+B-온도 O
+B-과일종류 B-수량 O O O
+O B-용도 B-상품 O
+B-수량 O
+B-메뉴 O O O O
+B-메뉴 I-메뉴 B-온도 O O
+B-이용시간 O O O
+B-평수 B-평수 O O O
+O O O
+B-메뉴 O
+O B-메뉴 I-메뉴 B-수량 O O
+B-증상 O
+B-컴퓨터프로그램 O O O B-수량 I-수량 O O
+O B-메뉴 I-메뉴 B-재료 O O
+B-부위 B-중량 O
+O B-약종류 O
+O B-장소 O
+B-미용종류 O
+O O O B-음료 O O
+B-비용 O
+B-화장품종류 O
+O O B-미용종류 O O
+B-제품명 O
+O O B-헤어스타일 O O O
+O B-색 O O
+B-메뉴 O O
+B-온도 B-메뉴 B-메뉴 O B-수량 B-온도 B-메뉴 I-메뉴 B-수량 O O
+O B-재료 O
+O O
+B-제품 I-제품 O O
+B-적립수단 O O
+B-호칭 B-빵종류 B-수량 O
+O B-메뉴 O O O O
+B-호칭 B-옷종류 O
+O B-이용시간 O O
+B-메뉴 B-재료 B-수량 I-수량 O B-재료 O O
+B-시간 O O
+O B-색상 B-제품 I-제품 B-수량 O O
+B-온도 B-메뉴 O O
+B-고기종류 O O
+B-돼지고기종류 O O O
+O O O O
+O O B-의약외품종류 O
+O B-메뉴 I-메뉴 B-수량 B-메뉴 O O
+B-옷종류 B-옷종류 O O
+B-메뉴 O O
+B-이용시간 O O
+B-음식종류 O O
+O
+B-제품 O O
+O O O
+B-수량 I-수량 O O B-메뉴 B-수량 I-수량 B-음료 I-음료 B-수량 O
+O O O O
+B-성분 O O O O B-의약외품종류 O
+B-메뉴 I-메뉴 B-수량 O O
+B-연령대 B-금액 B-금액 O O O O O
+O O O
+B-성별 O O
+O B-메뉴 O O
+B-메뉴 B-수량 O
+B-재료 I-재료 O B-메뉴 B-음료 O O O
+B-음식종류 I-음식종류 O O O O
+B-메뉴 B-온도 O B-사이즈 B-수량 O O
+O O O
+B-과일종류 B-수량 O O
+B-약품 O O
+B-반찬 O O
+O O O O O
+B-비용 B-가격 I-가격 O B-임대종류 O O
+O O B-부위 O
+O B-사이즈 O
+O O O O
+O B-무게 O O
+B-미용종류 O
+O B-메뉴 O
+B-옷종류 B-수선위치 O O
+O B-과일종류 O O
+B-메뉴 O O O O
+B-시간 O O
+B-수량 I-수량 O O O O
+B-재료 B-재료 O O
+O B-메뉴 O O O
+B-결제방식 O
+O B-메뉴 O O O
+O O O B-사이즈 O
+B-메뉴 B-수량 O O
+B-옷종류 I-옷종류 B-옷부분 B-옷부분 O O O
+B-고기부위 O O
+B-영업일 B-영업일 O
+B-수량 I-수량 O B-음료 O
+B-고기부위 O
+B-무늬 O O
+O O B-수량 O O
+B-메뉴 I-메뉴 B-수량 O O
+B-화폐 O O O
+B-메뉴 O
+O B-향수종류 O
+B-돼지고기종류 O O
+B-식기 O O
+B-방종류 B-날짜 O O O O
+B-뼈종류 O
+B-지열 O B-달 B-날짜 B-날짜 I-날짜 O O O
+B-열람실종류 O
+B-떡종류 B-수량 O O
+O B-메뉴 I-메뉴 B-사이즈 B-수량 B-메뉴 I-메뉴 B-수량 O
+O O O O
+B-메뉴 O
+B-메뉴 B-온도 O
+B-대상 O O O
+O B-음식종류 B-차종류 O O
+O
+O B-개수 O
+O B-굽기종류 I-굽기종류 O O B-굽기 I-굽기 O O O O
+B-메뉴 O O
+O B-색상 O
+B-브랜드명 B-결제수단 O O
+B-비품 O O
+O B-재질 O B-스타일 O O
+B-음식종류 O O O O
+B-평수 O O
+O O B-음식종류 O O O
+B-학원종류 O O O O O O O O
+B-고기종류 B-음식용도 B-무게 O O
+O B-반찬종류 O O O
+O O O O O O O O
+B-고기부위 B-고기상태 B-무게 I-무게 B-용도 B-무게 O
+O O B-수량 B-메뉴 I-메뉴 I-메뉴 B-메뉴 I-메뉴 O B-맛 O O O O O
+B-색상 B-제품 O O O O O
+O O O
+B-제품 O O
+O O B-제품 O
+B-과일종류 B-과일종류 O O O O O
+O B-제품 O O
+B-차종류 O O O O O O
+B-원산지 O
+B-대상 B-상품 I-상품 O O O
+B-메뉴 I-메뉴 B-수량 O
+B-메뉴 O O
+O B-메뉴 I-메뉴 B-수량 O
+B-과일종류 O
+B-평수 O O
+B-결제방식 O
+O B-제품 O
+O O B-매물 O B-시간 O O
+B-시기 O
+B-세트메뉴 I-세트메뉴 B-수량 O
+B-사람수 O B-사람수 O O O O
+O B-주거시설 O
+O O O O O O O O O B-메뉴 O O
+B-액세서리 O B-횟수 O O
+B-제품 O O
+O B-메뉴 B-사이즈 I-사이즈 B-수량 O
+O
+O O O B-음료종류 O
+B-집종류 O O
+B-인원 O O O O O O O
+O B-수량 O
+B-메뉴 B-메뉴 O O
+O O B-수량 O
+B-날짜 O O B-색상 O B-제품 O
+B-시간 B-과일종류 O O B-과일종류 O
+O O
+B-과일종류 B-수량 O O
+B-반찬 O O O
+O B-음식종류 O
+B-메뉴 B-수량 O
+B-메뉴 O O O
+B-상품 O
+B-메뉴 I-메뉴 O O
+O
+B-토핑 O O
+O B-수량 I-수량 B-수량 O O
+O O O O O O
+B-음료 O
+B-기간 O O O
+O O
+B-버섯종류 O O B-채소수량 O O O
+B-메뉴 I-메뉴 B-토핑 O
+O O O B-반찬 O
+B-고기부위 B-고기부위 O B-무게 O O
+B-수량 O O
+O O O O O O B-수량 O O O
+B-결제방식 O O
+B-제품 O O O
+B-음식종류 B-음식재료 O B-고기종류 O
+O B-결제방식 O O O
+O B-생활용품 O
+B-특정시간 O O O O O
+O B-색상 O
+B-메뉴 O
+B-머리카락 O O B-미용종류 O
+B-약종류 O
+B-매물 B-계약종류 O O O
+B-재료 O B-재료 O O
+B-음료종류 O O O
+O O B-상품 O
+B-대상 O O
+B-메뉴 O O
+O B-수량 I-수량 O B-인원 I-인원 B-수량 I-수량 O O O
+O O O O
+B-음식용도 B-고기종류 O
+O B-메뉴 B-성분 O
+O B-토핑 O
+B-시간 O O O O O
+O B-사이즈 I-사이즈 B-사이즈 I-사이즈 B-가짓수 O O
+B-제품 O O O
+B-헤어스타일 O
+B-약종류 O O
+B-메뉴 B-음료 O O
+B-계약종류 O O O
+B-포장 O O
+B-메뉴 O O O
+O B-제품 O O
+O O
+B-옷종류 O O
+O O O O O O O
+B-계절 O O
+B-갈비종류 O
+O O O O O
+B-과일종류 O O O
+B-메뉴 I-메뉴 B-수량 O O
+B-메뉴 O O O O
+O O O B-소재 O
+O O
+O B-색상 O O O
+B-제품 O O O
+B-사이즈 O
+B-온도 O O
+B-떡종류 B-수량 O O
+B-미용종류 O O O O O O
+B-메뉴 O
+B-음료종류 B-떡종류 O O
+O B-메뉴 B-메뉴 O O
+O B-수량 O O
+O B-색상 O O O
+B-식물류 O
+O O O O B-미용사 I-미용사 O O O
+B-증상 O O
+B-과일종류 O
+B-메뉴 O O
+B-이용요금 O O
+O O B-금액 I-금액 B-금액 O O
+B-바다가보이는쪽 I-바다가보이는쪽 O O
+O B-의약외품종류 O O O
+B-메뉴 O O
+O O
+B-비타민 O O
+B-비품 O O
+B-양념 O O O
+O O
+B-메뉴 O
+B-식기 B-수량 O
+B-재료 O
+B-고기부위 O O O
+B-특정일 O O
+B-토핑 O
+B-시간 I-시간 B-인원 O O O
+O O O O O
+O O O O
+O B-금액 I-금액 B-금액 I-금액 B-매물 O O O O
+O B-결제수단 O O
+B-방종류 O
+O B-용도 O O
+O B-메뉴 B-수량 B-수량 B-메뉴 B-사이즈 B-수량 O
+O B-색 O O
+O B-수량 I-수량 B-결제방식 O O
+B-제품 O O O B-중량 I-중량 B-횟수 O O
+B-메뉴 I-메뉴 B-수량 O
+B-메뉴 B-수량 O O
+B-메뉴 O
+B-생활용품 O
+B-결제방법 B-금액 O O
+O B-메뉴 O O O
+B-메뉴 O
+O B-메뉴 B-수량 O
+O B-생활용품 O
+B-국종류 O O O O O
+B-평수 O
+O O B-음식종류 O B-음식종류 O
+O B-할인종류 O
+O B-색상 O
+O B-음식종류 B-수량 O
+B-색상 O
+B-메뉴 O O
+B-이용시간 O
+B-평수 O O
+B-평 O O O
+O O B-수량 B-메뉴 O
+B-비품 O
+B-연령대 O
+O O B-결제수단 O
+B-메뉴 O
+B-메뉴 O O
+B-대상 I-대상 O O O
+O O O O
+B-메뉴 O
+B-시세 O O
+O B-음식종류 B-햄종류 O
+B-앱이름 O
+O O B-제품 O O O O
+B-소요시간 O O O
+B-매물 O O O
+B-메뉴 I-메뉴 O O O
+O O O
+O B-개수 O
+B-온도 O
+O O B-포장 O
+O B-메뉴 B-재료 O O O
+O B-돼지부위 O O
+O O O O B-장소 O
+B-고기부위 B-인원 O O
+O B-가게종류 O O O O O O
+B-과자류 O O O O O O
+B-시술 O O O B-시술 B-색상 O
+B-수량 O O
+B-컵 O
+B-스타일 B-제품 O O O O O O
+O
+B-시간 O O
+O O O B-메뉴 O
+B-서비스업체 O O O
+B-이용기간 O O
+B-메뉴 O
+B-증상 O O
+O B-떡종류 B-수량 B-떡종류 B-수량 O
+B-수량 B-날짜 O O O O
+B-재료 O
+O B-제품 O O O
+B-매물형태 O O O
+B-인원 I-인원 O O O
+B-멤버십 O O
+B-매물 O O
+O O O O O
+O B-과일종류 O O O
+O O B-이용시간 O O
+O B-아파트명 B-가격 O O
+O B-메뉴 I-메뉴 O O
+O B-메뉴 B-메뉴 O
+B-화장품종류 O
+B-시간 O O
+B-이용기간 O
+B-메뉴 O O
+O B-임대종류 O O O
+O B-주변시설 I-주변시설 O O O O
+B-고기부위 B-무게 O O
+O B-떡종류 O B-떡재료 O O
+B-메뉴 B-수량 I-수량 B-메뉴 B-온도 O B-수량 O
+B-음식재료 O
+B-객실종류 I-객실종류 B-수량 I-수량 O O O
+B-소부위 B-소부위 O O
+B-재질 O O B-색상 B-제품 O O B-횟수 O
+B-화장품종류 I-화장품종류 O O O O
+B-과일종류 O
+B-세트메뉴 B-수량 O
+O B-결제방식 O O
+B-요일 O O
+B-메뉴 O O O O
+O O
+O B-주거시설 O B-주거시설 O O O
+O O O B-인원 I-인원 O O O O
+B-제품 O O
+B-제품 I-제품 O O
+B-온도 O
+B-고기부위 B-무게 O O
+O B-예약일 O O
+B-온도 O O
+O O B-메뉴 O
+B-사이드 O O O
+O B-메뉴 O O
+B-음식종류 O O O
+B-온도 O O O
+O O O O
+B-온도 B-메뉴 B-메뉴 B-수량 O O
+B-나이 O O B-의약외품종류 O O O O
+B- B- B- B- B- B-
+O B-메뉴 B-수량 O O
+O B-메뉴 O O
+B-떡종류 B-수량 O O
+O B-떡종류 O B-색상 O O O O O O O
+B-빵종류 O O O
+B-떡종류 B-수량 B-국종류 O O O
+O O O B-횟수 I-횟수 O O O
+B-적립수단 B-수량 O O O O
+B-영수증종류 O
+B-샌드위치종류 I-샌드위치종류 I-샌드위치종류 O B-수량 O O
+B-횟수 O O
+B-결제수단 O
+O O B-미용종류 O
+B-집종류 B-평수 O O
+B-온도 O O
+O B-색 B-의류 O O
+O O B-약종류 O
+O
+B-메뉴 B-수량 B-수량 O O
+O B-메뉴 O
+B-메뉴 O B-포장 O O
+B-연령대 O O
+B-결제수단 I-결제수단 O O O
+B-날짜 O O O O O O O O O
+B-온도 O B-수량 I-수량 O O O
+B-약품명 O O O O O
+O B-제품 O O
+B-온도 B-메뉴 B-메뉴 B-수량 O O
+O B-평수 O O
+B-고기부위 B-무게 O O
+B-메뉴 O O O
+B-메뉴 B-사이즈 B-수량 O
+B-메뉴 O O
+B-사이즈 O B-크기 O O
+B-요일 B-인원 I-인원 O O O
+B-메뉴 B-수량 O
+O O B-수량 O
+O O B-성분 B-성분 O O B-의약외품종류 O
+B-사람수 I-사람수 O O O
+B-용도 B-상품 O
+B-신체부위 O O O O O
+B-제품 O O
+O B-제품 O O O
+O B-스타일 O O
+O O B-금액 I-금액 O O
+O B-메뉴 B-재료 B-재료 O
+B-지역 O O B-주거시설 O O
+B-떡종류 B-수량 I-수량 B-가격 O O
+B-케이크종류 O
+B-연령대 O O
+B-연령 O B-메뉴 O
+O B-메뉴 I-메뉴 I-메뉴 O O O
+B-의약회사 O O
+B-메뉴 B-수량 B-메뉴 B-수량 B-성분 O
+O O B-수량 O O
+B-제품 O O O O
+B-장소 B-위치 O O O O
+B-재료 O O
+B-메뉴 O O
+B-제품 I-제품 O O O
+B-성분 B-성분 O O O O O O
+O B-수량 O
+B-옷종류 O O O O
+B-옷종류 O
+B-제품 O O
+O B-임대종류 O O
+O B-메뉴 O O O O
+B-제품 B-제품 O O
+B-적립수단 O
+O B-주거형태 O O
+B-수량 O O
+B-약종류 I-약종류 O O
+O B-가격 O
+B-고기부위 B-원산지 O
+B-고기부위 B-고기부위 B-조리법 O O
+B-고기부위 O O O O
+B-당구종류 B-이용시간 O
+B-상품 O O
+B-메뉴 O O
+B-외국어 O O
+O O B-날짜 I-날짜 O O
+O B-떡종류 B-수량 O
+B-미용종류 B-미용종류 O O O
+O B-색상 B-색상 O O O
+B-메뉴 B-재료 O
+B-성분 O O O
+B-결제수단 O
+B-멤버십 O
+B-금액 I-금액 O O O
+B-인원 O O
+O B-메뉴 B-메뉴 O O O
+O B-메뉴 O
+B-메뉴 O O O
+O B-삼겹살종류 O O
+O O O O O
+B-토핑 O
+B-메뉴 B-재료 O O
+O B-제품 O
+B-메뉴 O O
+B-색상 B-사이즈 O O O
+O B-소재 O
+B-시즌 O O O
+B-인원 I-인원 O O O
+O O O
+B-온도 O O
+O O
+B-채소종류 O O
+B-비품 O O O O
+B-원단종류 O O
+O O O O B-수량 I-수량 B-수량 O O
+O O B-음식종류 O O
+B-온도 B-메뉴 B-메뉴 B-수량 O O
+B-제품 O O O
+O O O O O
+B-제품 O
+O B-크기 O O
+O B-시간 O O
+O B-행사일정 O
+O B-메뉴 I-메뉴 O O
+B-메뉴 O
+B-이용수단 O O
+O B-메뉴 B-메뉴 O
+B-방향 O O O
+O O O
+O B-나이 B-수량 O
+B-용품 O O O O
+O B-수량 O
+O O B-수량 O
+O B-금속 B-금속 O
+B-방종류 O O
+O
+B-메뉴 O B-메뉴 O O
+B-메뉴 O O O O
+O B-사람수 O O
+O
+O B-과자류 O B-크림종류 O
+B-숙박처종류 O O O
+B-제품 O O
+B-메뉴 O O
+B-지역이름 O O O
+B-의약외품종류 O O B-개수 O
+B-메뉴 O O
+O O B-주거시설 O
+B-주거시설 O O O O
+O O B-단위 O
+B-메뉴 B-수량 I-수량 B-메뉴 B-수량 I-수량 O O O
+B-위치 B-위치 O O O O
+O B-이용석 O O
+B-제품 I-제품 O O O
+O O O O B-재료 O O
+B-목욕시설 O O O O
+B-세트메뉴 I-세트메뉴 O O
+B-상품 O O
+B-전화기종류 O O
+B-커피종류 O O
+B-금액 O
+B-비품 O O
+B-아파트명 O O
+B-시설 I-시설 O B-식기 B-식기 O
+B-제품 O O O O O
+O O O O
+B-재료 O O O
+B-제품 B-스타일 O O
+B-초등학교이름 O O B-주거형태 B-임대종류 O O
+B-메뉴 B-수량 O
+B-빵종류 O
+B-과자종류 O
+B-제품 O O O
+O B-메뉴 O O
+O O B-사이드 B-메뉴 O O
+O O
+B-호칭 O O O O O B-비용 B-비용 B-비용 O O O O O O O O O
+O
+O B-메뉴 O
+B-세트메뉴 I-세트메뉴 O O O
+B-제품 O O O O
+B-인원 O O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+B-시간 O
+B-적립수단 O O O
+B-화장품종류 O O O O
+B-향수브랜드 O O
+B-메뉴 O O
+B-주거형태 O O
+B-과자종류 I-과자종류 B-수량 O
+O O B-재료 O O O
+O O O O O
+O B-메뉴 O
+O B-크기 I-크기 B-크기 I-크기 O O O O
+O B-제품 O O O O
+B-성분 B-온도 B-메뉴 B-수량 O O
+O O B-금액 I-금액 O O O
+O B-부위 O O
+B-메뉴 B-메뉴 O
+O B-매물 O O O O B-매물 O O O
+B-제품 B-제품 O
+B-날짜 B-시간 I-시간 B-시간 I-시간 B-대상 O O O
+B-화장품종류 O
+B-화장품종류 I-화장품종류 O O O
+B-떡종류 O O O
+B-시간 O O O
+B-메뉴 B-수량 O O
+B-제품 B-제품 O
+B-맛 I-맛 O O O
+B-용량 B-약품 O
+O O O O O
+O B-물 O O
+B-제품 B-제품 O O O O
+O O
+O B-기간 O O
+O B-메뉴 O B-메뉴 O O
+B-메뉴 O O O
+B-재료 O O O
+B-온도 B-메뉴 B-수량 O B-메뉴 B-수량 O
+B-결제수단 O O
+B-재료 O O O O O O O
+B-온도 B-메뉴 B-수량 I-수량 B-메뉴 I-메뉴 B-수량 O
+B-음식종류 B-음식종류 B-수량 I-수량 O O
+B-고기부위 O O
+B-메뉴 I-메뉴 I-메뉴 O O O
+B-빵종류 O
+B-부분 O O O
+B-메뉴 O
+B-날짜 I-날짜 B-날짜 O O O O O
+B-채소종류 O
+B-미용종류 O O O
+B-과일종류 O O
+B-메뉴 O O O O O
+O O B-할인율 O O O
+O O O O B-제품 O
+B-미용종류 O O O
+B-메뉴 O O
+O B-생활용품 O
+O O B-음식종류 O O
+O O O
+B-제품 B-행사 O O O
+O O O O B-메뉴 O
+B-옷종류 O O
+O O O
+B-제품 O O
+B-용도 O
+O B-음료종류 B-수량 B-음료종류 B-수량 O
+B-메뉴 B-온도 O B-수량 O
+B-메뉴 B-수량 B-메뉴 O
+O O O O B-사용연령 B-개수 O B-개수 O
+B-온도 B-메뉴 B-수량 O
+B-떡종류 O O O
+B-약구성형태 O B-약구성형태 O O O
+O B-과일종류 O O
+B-금액 I-금액 O O O
+B-비품 O O O
+B-일자 O O O O
+B-인원 O O O O O
+O B-생활용품 B-가방브랜드 O
+O B-인원 I-인원 O O O
+B-적립수단 B-수량 O
+O
+B-스낵종류 B-스낵종류 B-음료종류 O O O
+B-염색제종류 O
+O O B-메뉴 O O O B-메뉴 O O O O
+B-고기종류 B-용도 O O O O O O
+B-기간 O O
+B-화장품종류 O O O O O O O O O
+B-옷부분 O O O O
+O B-메뉴 O B-메뉴 O O
+B-온도 O O
+B-날짜 O O O
+O O B-색상 B-색상 O O
+B-시간 B-시간 B-시간 O O
+B-용도 O
+B-이용시간 O O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+B-메뉴 B-수량 B-메뉴 O
+B-음식메뉴종류 O O
+O O B-화장품종류 O O
+B-제품 O O
+B-양념 I-양념 O O O
+B-스타일 O O
+B-색상 B-제품 O
+O B-메뉴 O O O
+B-화장품종류 O
+O O B-일자 B-숙박단위 O O O
+B-세트메뉴 I-세트메뉴 B-수량 O
+B-위치 B-부분 O O
+O B-가방종류 O O
+O O B-떡종류 O
+B-금액 B-결제방식 B-결제방식 O O
+B-메뉴 O O
+O B-의류 O
+O B-스타일 O
+B-메뉴 O
+O B-색상 O B-색상 O
+B-메뉴 O O
+O B-메뉴 O B-수량 O
+B-메뉴 O B-메뉴 O O
+B-메뉴 O O
+B-과자종류 O
+O B-음료종류 B-잔수 O O
+O B-아파트이름 O
+O
+O B-제품 O O B-수량 I-수량 O O
+B-맛 B-메뉴 O O O
+B-비용 B-금액 O O
+B-가방종류 O O
+B-맵기큰 O O O B-맵기 O
+B-해물류 O
+O O B-의약외품종류 O
+B-과자종류 O O O
+B-방종류 B-수량 O
+O O O
+B-메뉴 O
+O O
+O O O O O O O
+B-맵기 O B-맵기 O
+B-음식재료 O O O
+B-고기부위 O B-고기부위 O O
+B-메뉴 O
+O O B-수량 O
+B-메뉴 I-메뉴 B-온도 O
+B-증상 O O B-연고개수 O O O
+B-날짜 B-시간 O B-배달장소 I-배달장소 O O
+B-적립수단 O
+B-메뉴 B-수량 O
+O O O O
+B-도구 O O
+B-메뉴 O
+O O
+O B-할부개월 O B-할부개월 O O O
+O O O
+B-판매제품 O O
+B-메뉴 O O
+B-메뉴 O B-메뉴 O O O
+O B-의약외품종류 O
+B-신발종류 O O O O
+B-성분 B-의약외품종류 I-의약외품종류 O B-의약외품종류 O
+O B-과일종류 B-수량 I-수량 O O
+O O O
+O B-수량 O O
+O O O O O O
+O B-사이즈 O O O O
+O B-색상 O B-수량 O
+O O B-세트메뉴 I-세트메뉴 B-수량 O
+O B-메뉴 B-토핑 O
+B-메뉴 O
+O B-바지종류 O
+B-음료종류 O O B-수량 O
+O B-색상 O O
+B-옷부분 O
+O B-무늬종류 O O
+B-증상 O O O
+O O B-수량 O
+B-떡종류 B-떡종류 O O O
+O O
+B-케이크종류 O O
+O B-고기부위 O
+O B-제품 O O
+B-평수 O O O
+O O B-예약인원 I-예약인원 B-예약인원 O O
+B-옷종류 O B-옷종류 O O O O
+B-장도 B-위치 I-위치 B-위치 O O
+O B-수량 O
+B-메뉴 O O
+O B-메뉴 I-메뉴 I-메뉴 B-수량 O O
+B-파스티종류 O O
+O O O
+B-용도 B-고기부위 O O
+B-날짜 O O
+B-성분 B-메뉴 O
+O O O O
+B-의류 O O
+O B-화장품종류 O
+O B-결제방식 O
+O O O
+O O
+B-금액 I-금액 O O
+O O O B-성분 B-성분 O O O
+B-용품 B-용품 O
+B-과일종류 O O O
+O B-제품 O
+O O B-냉각제종류 O
+B-메뉴 O O O O O O
+B-메뉴 O O
+B-메뉴 B-재료 O
+B-용기종류 O B-결제단위 O O O
+B-증서 B-수량 O
+B-토핑 O O
+B-온도 B-메뉴 B-수량 O O
+O B-생활용품 O O B-재질 O
+O O B-평수 O O O O
+B-옷부분 O
+O O O
+B-방종류 I-방종류 O O O
+B-상품 O
+O O O B-재료 O
+O O O O B-미용종류 O
+O
+B-결제수단 O
+B-재질 O
+B-과자종류 O O
+O O B-무게 O
+B-메뉴 O O O O
+O O B-증상 O
+O B-색상 O
+O O B-신발종류 O
+B-재료 O O O O
+B-숙박처종류 O O
+B-감종류 O O
+B-떡종류 O
+O O O O
+B-매물 B-매물 O O O O
+B-재료 B-재료 O O
+O O O O O B-금액 O
+B-증상 O O
+B-배달지 B-시간 O O
+O B-색 B-무늬종류 O O
+B-의약외품종류 O O O
+B-소스 O O
+O O O
+B-메뉴 B-수량 I-수량 O O
+B-연령대 O B-음식종류 O
+O B-방향 B-아파트명 B-시세 O O B-아파트명 O B-집위치 O B-매매종류 O O
+B-날짜 I-날짜 O O O
+B-비용 O O
+B-온도 O
+O B-증상 O O O O O O O O O O O
+B-의약외품종류 I-의약외품종류 O O
+B-계약종류 O O
+O O B-맛 O O O O
+B-적립수단 O O
+B-의약외품종류 B-비타민종류 O O
+O O B-이용시간 O
+B-계약종류 I-계약종류 B-매물 O O O O O O O
+B-화장품종류 O O
+O B-호칭 O O O B-과자종류 O O
+O B-생활용품 O
+B-미용종류 O O O
+O B-메뉴 O
+O B-색 O
+O B-식기 O O O O B-수량 O
+B-메뉴 B-메뉴 O
+B-온도 B-메뉴 O
+O O O
+B-옷종류 O O O O
+O O O B-메뉴 O
+B-증서 B-수량 O
+O O O B-이용가격 O
+B-빵종류 O O
+B-고기종류 B-고기부위 B-용도 O O
+O O B-날짜 B-예약시간 I-예약시간 O O O O
+B-메뉴 O
+B-시간 O O O O
+O B-요일 O
+O B-시간 O O O O O
+B-이용시간 O O
+B-메뉴 O
+B-메뉴 O O
+B-메뉴 B-메뉴 O
+B-미용종류 I-미용종류 B-미용종류 I-미용종류 O O
+B-메뉴 O O O O O
+B-고기부위 O O
+O B-결제수단 O O B-결제수단 O
+O B-메뉴 O O
+B-약품형태 I-약품형태 B-약품형태 I-약품형태 O O O
+B-인원 I-인원 O O O O
+O B-음식메뉴종류 B-음식메뉴종류 B-결제수단 O O O
+B-메뉴 B-금액 I-금액 O O
+B-음료종류 O
+O B-재질 B-할인율 O O
+O O O O B-수량 O O O O O O O
+O B-음식종류 O O
+B-메뉴 O O O
+O O O
+B-부분 O O
+B-날짜 I-날짜 B-시간 O O O O
+B-열람실종류 O O
+B-비품 O O B-메뉴 B-재료 O
+O B-메뉴 B-메뉴 O
+B-토핑 O
+O O O B-머리카락길이 O
+B-메뉴 O O O
+B-색상 O
+B-채소종류 O
+B-사이즈 O O
+B-메뉴 B-메뉴 O O
+B-위치 O O O O
+O O
+B-위탁물종류 O O O O
+B-메뉴 B-온도 O B-수량 B-온도 B-메뉴 O O
+B-시간 B-시간 O O O O O O
+O B-결제방식 O
+B-떡재료 B-떡종류 O
+B-시간 O B-시간 O O O O
+B-메뉴 O
+B-음식종류 O B-고기종류 O O O
+B-인원 I-인원 O O
+B-인원 I-인원 O B-사이즈 B-수량 O O
+B-부분 B-무늬 O
+O O O O O O
+B-음식종류 O O O O O
+B-메뉴 O O
+B-결제수단 O
+B-메뉴 O O
+B-떡종류 O O O O O O O O
+O B-당구장비 O
+B-무게 O O
+B-메뉴 B-메뉴 O
+B-제품명 B-수량 O O
+B-메뉴 O O
+O B-메뉴 B-수량 I-수량 O O O O O O O
+B-집종류 O O
+B-빵종류 I-빵종류 O O O O B-빵종류 O O
+B-메뉴 I-메뉴 O O
+B-아파트이름 B-주소 B-주소 B-주소 O O
+B-날짜 O O
+O B-기간 I-기간 O O
+O O B-옷길이 O O
+O B-메뉴 O
+B-음식메뉴종류 B-음식메뉴종류 O O O
+B-메뉴 B-메뉴 O O
+O O
+B-과일종류 B-가격 O O
+O B-평수 O O
+O B-메뉴 O B-메뉴 O O
+B-위치 O O
+B-메뉴 O O
+B-주거시설 O O B-지역 O B-주거시설 O O O O O
+O
+O B-색상 O O
+O B-고기종류 O
+O B-메뉴 O
+O O
+O B-음식종류 O O O O O O O O O
+B-아파트이름 B-비용 O O O
+O B-미용도구 O O
+B-메뉴 B-맛 B-맛 O O
+B-행사 O O O O O
+B-방수용인원 B-방수용인원 O
+B-제품명 O
+B-국종류 O B-고기부위 O
+B-고기부위 O O O
+O B-무늬 O
+B-메뉴 B-메뉴 B-메뉴 O
+O B-세트종류 I-세트종류 O O O O
+B-제품명 O
+B-맵기 O O
+O B-수량 O O
+B-수량 B-수량 O
+O B-재료 O O O
+B-시간 O O O
+B-온도 O
+O B-개수 O O O O O
+O O O B-재료 B-사이즈 O O
+B-지역 O O O O
+B-과일종류 B-수량 O O O
+B-토핑 B-양 O
+O O
+B-메뉴 I-메뉴 B-재료 O O O
+B-시세 O O
+B-메뉴 B-온도 O
+B-판매방식 I-판매방식 O O
+B-빵종류 B-수량 O O O O
+O O B-재료 O O B-수량 O O
+B-망고종류 O
+B-메뉴 I-메뉴 B-사이즈 B-음료 O O O O
+O O O
+O B-수량 O O
+B-제품 I-제품 O O O
+B-과일종류 O
+O O O B-의류 O
+O B-신발종류 O O O
+B-부품 B-제품 O
+B-재료 O O O
+O O B-재질 O
+O B-제품 O B-앙고라 O O
+B-메뉴 O O O
+B-고기부위 O
+B-결제방식 O O O
+B-고기종류 O O
+B-원산지 O O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+B-재료 O
+O O B-제품 O
+O O O B-매물 B-평수 O O O O
+B-토핑 O O
+B-메뉴 O O
+B-온도 B-메뉴 B-수량 O
+O B-생활용품 O O
+O B-제품 O B-스타일 O B-스타일 O O O O
+O B-개수 O O
+O B-상품 O O O
+B-메뉴 B-사이드 B-사이드 O O O O
+O B-재료 O O O O
+B-사이즈 O O O O
+O O
+B-메뉴 O
+B-메뉴 I-메뉴 B-재료 O O
+O B-수량 O O
+B-메뉴 I-메뉴 I-메뉴 B-재료 O O
+B-떡종류 O
+B-메뉴 B-금액 B-메뉴 O O
+B-반찬 O O
+B-메뉴 B-메뉴 O O
+B-원단종류 O O O O O O
+O B-색 B-생활용품 O
+B-메뉴 B-온도 O B-수량 O O
+B-할인수단 O
+O O B-적립수단 O
+O B-케이크종류 O O
+B-방 O
+B-수량 O O
+O B-떡종류 O B-떡종류 O
+B-사이즈 O B-크기 O
+O B-사이즈 I-사이즈 O O
+O O B-음식종류 O
+O O B-소재 O
+O O B-시간 O O O
+B-성별 O B-제품 O O
+B-날짜 B-매물 O O
+O B-메뉴 B-수량 B-메뉴 B-수량 O
+B-용도 B-고기부위 O O O
+B-주일 O O O
+O B-시간 O O O O O
+B-인원 O O
+B-떡종류 O O O
+O B-파마 O O O O
+B-예약일 I-예약일 I-예약일 B-장소 O O O
+B-메뉴 O O
+B-시간 B-기간 O O B-인원 O
+B-음료종류 O O
+B-맛 O B-사이즈 O O
+O O O B-원두 O O
+B-음료종류 B-개수 I-개수 O O
+B-쪽파종류 I-쪽파종류 B-수량 O O
+O B-옷종류 I-옷종류 B-부자재 O O O O
+O B-매물 O O O O
+B-떡종류 O B-떡재료 O O O
+B-메뉴 I-메뉴 O O
+B-떡종류 O
+O O O O B-약종류 O
+B-공간 O O
+B-날짜 O O O O O
+B-수량 O O
+O B-메뉴 O
+O B-사이즈 O
+O B-신체부위 O O
+B-메뉴 O O
+B-약종류 O O O O
+B-사이즈 I-사이즈 O O
+O O B-수량 I-수량 O B-금액 O
+O B-음료종류 B-개수 O
+O B-제품 O O O
+O O O B-메뉴 O
+B-성별 B-옷종류 O O
+B-음식종류 O O O
+B-고기부위 O O
+O O O B-결제수단 O
+B-메뉴 O O O
+O B-제품 O
+B-메뉴 B-재료 O O
+B-요일 O
+O B-온도정도 O
+O O O O O O B-숫자 B-기간 O B-인원 O O O
+B-수선위치 O O O O
+B-예약일 B-예약시간 B-인원 O O O
+O B-기간 O O O O O
+B-수량 O O O O
+O O O B-결제수단 O
+O B-숙박처종류 O O O O O
+O O O O O O O O
+B-메뉴 I-메뉴 O O O O O
+O O B-수량 I-수량 B-예약인원 O O
+B-메뉴 O O
+B-색상 O B-횟수 O
+B-반찬 O O
+B-과일종류 O O O
+B-메뉴 O O
+O O O O O
+O B-인원 O
+O O O O
+B-미용종류 O O O
+B-과일종류 B-가격 O O
+B-약품 O
+O O B-시간 O O
+O B-과일종류 O
+B-사이즈 O O
+B-샌드위치종류 O O
+B-중량 O O
+B-신체부위 B-병명 O B-신체부위 O O O O O
+B-메뉴 O O O
+O O
+O O
+B-용도 B-비율 B-용도 B-비율 O O O O O
+B-메뉴 O O
+B-병명 O O O O
+B-크기 O O
+O B-수량 I-수량 O O
+O B-금액 O O
+B-침대종류 O O
+B-과일종류 O
+O B-결제방식 O O
+O O O B-생활용품 O
+B-메뉴 O O O
+B-메뉴 O O O O
+B-메뉴 O
+B-옷종류 O O O
+O B-생활용품 O O O
+B-메뉴 B-재료 B-재료 O O
+O B-특정시간 O O O
+B-식빵종류 O O
+B-증상 O O B-약품 O
+B-고기종류 B-용도 B-무게 O O
+B-옷종류 O O O
+B-메뉴 O O O
+B-지역명 O B-아파트명 B-시기 B-가격 O O
+O O O B-인원 O O O O O
+B-미용종류 O O
+B-서비스 O O
+O O O B-색 O O
+O O B-메뉴 O O
+O O B-메뉴 B-수량 I-수량 O O
+B-과일종류 O
+B-메뉴 O B-양 O O B-맛 O
+B-메뉴 O O O B-식기 B-수량 O
+B-금액 I-금액 O O O O B-수량 O
+O O
+O B-약품 O O O
+O O B-곡물류 O
+B-장소 B-위치 I-위치 O O O O O
+B-제품번호 O O O
+B-메뉴 O
+B-메뉴 O O B-토핑 O
+B-주소 O O O O O
+B-메뉴 O O
+O O O O
+O O
+O B-메뉴 O B-메뉴 O
+B-제품 O O O
+B-상품 B-수량 O
+O O O O
+B-메뉴 B-온도 B-수량 O O
+B-수선위치 O O
+B-제품 B-수량 O O
+B-재료 O O
+O B-세트메뉴 I-세트메뉴 B-음료 B-메뉴 O
+O O B-수량 O O
+B-메뉴 O O
+B-메뉴 O
+O B-학교명 O O
+B-옷종류 O O O
+B-메뉴 O B-사이즈 O
+B-고기부위 B-고기부위 B-무게 O O O
+B-세트종류 I-세트종류 O O O O O
+B-인원 O O O O
+B-과일종류 O
+B-지역 O O O O
+B-성별 B-제품 B-용도 O
+B-가격 B-횟수 O O O O
+O O O O O O
+O B-위치 B-장식 O O
+O B-친족관계 O O O B-컴퓨터 O O
+O B-메뉴 I-메뉴 B-수량 O
+B-과일종류 O
+B-호칭 B-이용시간 O
+O B-과일종류 O O
+B-미용종류 O
+B-평수 I-평수 B-가격 I-가격 O O
+B-약종류 O O O
+B-크기 O O O
+B-나이 O O B-메뉴 O
+O B-신발종류 O
+B-아파트이름 B-임대종류 O
+B-시간 O O
+O B-수량 O
+B-위치 I-위치 O O O
+B-메뉴 I-메뉴 B-온도 O
+B-개수 O O
+O B-제품 B-제품 O
+O B-온도 B-메뉴 B-수량 I-수량 B-온도 B-메뉴 B-수량 O O
+B-임대종류 O O O
+B-옷종류 O O O O O O
+B-과자종류 O O
+B-제품 O
+B-제품 O O
+B-온도 B-메뉴 I-메뉴 B-메뉴 B-메뉴 B-수량 O O
+B-메뉴 O
+O B-상품 B-수량 O O
+B-메뉴 O O
+B-반찬류 B-수량 I-수량 B-반찬류 O O
+B-메뉴 B-수량 I-수량 B-메뉴 O
+B-증상 O O
+B-집종류 B-가격 O O O
+B-대상 B-용도 B-제품 O O O O
+B-메뉴 O O
+O O O B-음식종류 O O
+B-약종류 O O
+O B-용도 B-고기종류 O O
+O B-소스 O O O O
+O B-의약외품종류 O O O O
+B-약품 O
+B-빵종류 O
+B-메뉴 I-메뉴 B-맛 I-맛 O O
+B-과일종류 B-수량 O O
+B-메뉴 B-온도 O O
+O B-수량 O O
+O B-약종류 O O O
+B-성분 O O
+B-아파트명 B-층수 O
+B-커피종류 I-커피종류 O O O O
+B-메뉴 B-수량 O O
+O O O O
+O O B-사이즈 O
+B-메뉴 I-메뉴 O O
+O B-가방종류 I-가방종류 O O
+B-과자종류 B-수량 O O
+B-제품 B-재질 O O B-제품 O
+B-재료 O O O O O
+O O B-수량 O O O
+O B-인원 O O O O
+O B-제품 O
+O B-장소 O B-위치 O
+O B-메뉴 O
+B-수량 O O
+O B-용품 O O O
+B-메뉴 O O O
+O B-화장품종류 O
+B-메뉴 B-온도 O O
+B-예약일 I-예약일 I-예약일 O O O
+B-메뉴 I-메뉴 O B-인원 O
+B-온도 O O
+O O O O O O
+B-계절 B-제품 B-제품 O O O O O
+O O O
+B-금액 O O
+O B-메뉴 O O
+O B-음료종류 B-개수 O
+O O O O
+B-성분 B-성분 O B-의약외품종류 O
+O B-메뉴 O O B-방향 O O O
+B-메뉴 O
+B-금액 O B-사이드 O O O
+O B-고기부위 O O O
+B-상품 O O O O
+B-주거형태 B-임대종류 O
+B-음식종류 O O
+O O B-양 O O O
+O O B-옷길이 O O O
+B-사이즈 O
+B-매물 B-계약종류 O O
+B-돼지고기종류 I-돼지고기종류 B-무게 O O
+B-제품 O O O
+B-재료 B-재료 O O
+O B-색상 O O O
+B-고기부위 O O
+B-음료 O O O
+B-빵종류 O O O
+O O O O O
+O B-시간 O O
+B-음식용도 I-음식용도 O B-인원 O O
+B-예약시간 O
+O B-메뉴 B-수량 O
+B-세트메뉴 O O O
+O O O O
+O B-옷종류 B-옷부분 B-수선방법 O O
+B-방종류 I-방종류 O O O O
+B-예약일 I-예약일 B-예약시간 B-인원 O
+B-메뉴 B-수량 O O
+B-업소명 B-이용시간 O O
+B-메뉴 B-사이즈 O O O O O
+O B-성별 O
+B-메뉴 O O
+B-메뉴 I-메뉴 O O O
+B-지명 O O O
+O B-메뉴 I-메뉴 B-재료 B-수량 O O
+O O
+O B-음료 B-사이즈 I-사이즈 B-수량 O O
+B-맛 B-메뉴 O O
+B-빵종류 O O
+O O B-재질 O O
+O O
+B-헤어스타일 O O O
+B-메뉴 O O
+O B-메뉴 B-메뉴 B-메뉴 B-사이즈 O
+B-제품 O
+O O O O
+O B-메뉴 B-크기 O O O
+O
+B-포장 I-포장 B-금액 O O
+O B-메뉴 I-메뉴 O O
+B-고기종류 O B-조리법 O O O O O O
+B-기간 O O O
+O O
+B-제품 O
+B-인원 O O O O O O O
+O
+B-메뉴 O O O
+B-옷종류 I-옷종류 O O O O O O
+O O O
+O O B-미용종류 O O O O O
+B-음식종류 O B-소고기종류 O O
+O B-주거시설 O
+B-색상 O B-색상 O
+B-부분 O O O
+B-메뉴 O O
+O B-인원 O O
+O B-나이 O O O O O O
+O B-매물 O O
+B-온도 B-메뉴 B-수량 O O
+B-인원 O O O O O O
+B-메뉴 O
+O B-화장품브랜드 O O
+B-생활용품 O O O
+B-빵종류 O O
+B-제품 I-제품 O O O
+O B-대상 O B-성별 B-도법 O O O O
+B-비품 O O
+B-떡종류 B-떡종류 O O
+O O O O O
+B-금액 I-금액 B-장소 B-위치 B-매물 O O
+O O B-요일 B-시간 O O
+B-부분 B-부분 B-제품 O
+B-향수브랜드 I-향수브랜드 O O
+B-색상 B-제품 O O O O
+B-옷종류 O O O O
+B-메뉴 O O
+O O B-이용시간 I-이용시간 O O
+O O
+B-부위 B-중량 O
+B-메뉴 O O
+B-빵종류 O
+B-인원 O O
+O B-반찬 B-수량 O
+O O
+O B-신발종류 O O O O O
+O O O
+O B-영업일 O
+O B-메뉴 O
+B-비품 B-수량 O O
+O B-약종류 B-개수 I-개수 B-개수 O O
+O B-계절 B-위치 O O O
+B-메뉴 I-메뉴 O O
+O O O
+B-메뉴 B-수량 O O
+O O O O
+B-달 B-날짜 B-요일 O O O O
+O B-메뉴 O B-수량 O
+B-소 O O O
+B-메뉴 O O
+O B-색상 I-색상 B-스타일 B-제품 O
+O B-매물 B-계약종류 O O O
+B-메뉴 O
+O O O O O
+O O O B-일회용컵 O O O O
+O O B-사이즈 O
+B-이용시간 O O
+O B-빵종류 O
+B-반찬 O O O O O O
+O B-메뉴 B-수량 I-수량 O O
+B-당구장비 O O
+B-부자재 B-금액 O O
+O O O O
+O B-메뉴 B-수량 O O
+B-채소종류 O
+B-고기부위 O O O
+B-쌀종류 B-쌀종류 O O O
+O B-재료 O O O O O O
+O B-할인율 O O
+B-메뉴 B-온도 O
+O O O B-컵 O
+B-사람수 I-사람수 O O O
+B-재료 O
+B-수량 O O
+O O O
+O B-평수 O O
+B-온도 O O
+B-시간 I-시간 B-일자 O O O
+B-방종류 O O
+B-인원 O B-메뉴 O
+B-사이드 B-수프 B-사이드 B-사이드 O O O O
+B-횟수 I-횟수 O O
+O B-메뉴 O
+B-원산지 O
+O O B-수량 O
+B-과일종류 O O O O O
+O O B-평수 O O O
+B-옷종류 O O O O
+O B-빵종류 B-수량 O O
+B-제품 I-제품 O O O
+B-성분 B-의약외품종류 O
+B-기념일 B-음식종류 O O
+B-메뉴 O
+B-메뉴 O O O
+O O B-메뉴 B-온도 O O
+B-시간 I-시간 O O
+B-떡종류 O O
+B-박스수량 I-박스수량 O O
+B-재료 O B-질감 O
+O B-요일 O
+O O O O
+O B-떡종류 B-떡종류 O
+B-메뉴 O
+B-제품 B-재료 O
+B-메뉴 B-수량 O
+O B-커피종류 I-커피종류 O O
+B-메뉴 O O
+B-토핑 O
+O O
+B-메뉴 O
+B-상품 O
+B-사이드 B-수량 O
+B-재료 O O
+B-메뉴 B-토핑 O O
+O B-당구장비 B-이용요금 O O O
+B-메뉴 I-메뉴 O O
+B-인원 O
+O B-박스수량 O
+B-음식종류 O O
+B-메뉴 I-메뉴 O O
+B-화장품종류 O
+B-스타일 O O O
+O O B-수량 B-건축물 O O O O O O
+B-고기종류 O O O O O
+B-메뉴 B-메뉴 O O
+B-온도 O O
+B-수량 O O
+B-음식종류 B-음료종류 O
+B-과일종류 O
+B-월 B-날짜 O O O
+B-사이즈 O
+O O
+O B-신체부위 B-피부상태 O O O O
+O B-수량 I-수량 I-수량 O O O O
+B-숙박시설종류 O O O O O
+B-제품 O O O O O
+O B-당구장비 O O O O O
+O O
+B-날짜 O B-재료 O
+B-수량 O O
+O O B-메뉴 O
+B-메뉴 O O O O O O
+B-박스수량 O O
+B-평수 B-비용 O O
+O B-반찬 B-수량 O O
+B-계약종류 B-계약종류 O O O O
+O B-제품 O
+B-인원수 O O O
+O O O O O O B-사이드 O O O O O
+B-무늬 O O O O O O
+B-메뉴 B-메뉴 O
+B-인원 I-인원 O O O O
+B-맛 I-맛 B-양념 B-색상 O O O O O
+O O
+B-메뉴 B-제조방법 O
+B-제품 O O
+O O
+B-스타일 O O O O
+B-온도 O B-온도 O O O
+O B-음식메뉴종류 O B-음식메뉴종류 B-수량 O
+B-메뉴 O
+O B-가격 I-가격 O O
+B-시기 O O O
+B-메뉴 O O
+O O B-색 O O O O
+B-메뉴 O O O
+B-재료 O B-메뉴 O O O
+B-메뉴 O O
+B-수량 O O
+O O O O O O B-개수 O
+B-병명 O O O O O
+O
+B-온도 O O
+B-떡종류 B-수량 O
+O B-스콘종류 O O
+O O B-음식메뉴종류 B-수량 O
+O O O B-결제수단 O B-결제수단 O
+O O O O O
+O B-제품 O O O
+B-맛 O O
+B-이용연령 O
+B-화장품종류 O
+B-임대종류 B-가격 I-가격 O O
+B-컵 O
+B-원단종류 B-원단종류 O O O
+O B-메뉴 I-메뉴 B-수량 I-수량 O O
+B-상품 O
+B-예약일 O O
+B-메뉴 O O O
+B-메뉴 O B-수량 O
+O O O O
+O
+B-메뉴 B-수량 I-수량 B-포장 O O
+B-메뉴 O O
+O B-액세서리 O O
+B-돼지고기종류 O
+B-층수 O O O
+O O B-제품 B-사이즈 O O
+B-반찬 O O O
+O B-연령대 B-수량 B-용도 O O O O
+O O
+B-성별 B-제품 O O
+B-금액 O
+B-메뉴 O O
+O B-의약외품종류 O
+B-수량 B-금액 I-금액 O O O O O O O O
+B-메뉴 O O
+B-그릇종류 O O O O O
+O O O
+O O O O
+B-옷종류 O O O
+O B-당구종류 O O O O B-당구공종류 I-당구공종류 O O O
+B-브랜드 B-모델명 O
+O
+B-제품 O
+O B-약종류 B-개수 I-개수 B-음료종류 B-개수 O
+B-용도 O O B-상품 O
+B-고기부위 O
+O O O O B-재료 B-수량 O O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+B-재질 B-서비스종류 O
+O B-금액 I-금액 B-계약종류 B-금액 O
+O B-스타일 I-스타일 O O
+B-미용종류 O O O O
+B-세트메뉴 I-세트메뉴 O O O
+B-이용시간 O O
+B-용도 B-무게 O O
+O B-미용종류 O
+O B-미용종류 O
+B-횟수 O O
+O O B-대상 I-대상 O O O O
+B-차종류 O O O
+O O B-결제수단 O
+O O O
+B-제품명 O O
+B-떡종류 B-떡재료 B-떡재료 O
+B-메뉴 I-메뉴 O O
+O B-메뉴 B-수량 O
+B-음료종류 O
+B-메뉴 O B-수량 O O O
+B-이용기간 O
+O B-적립수단 O
+B-메뉴 B-재료 B-재료 O
+B-과일종류 O
+B-식물류 B-빵종류 O
+O O B-음식종류 O
+O B-수량 O O
+B-고기부위 B-무게 O O
+O O O
+O B-중량 O O
+B-용도 B-고기종류 O B-무게 O O
+B-시간 O O O O O O O
+B-증서 O O
+B-결제수단 O
+B-제품 O O
+B-성분종류 O O O
+B-메뉴 O O O
+B-시간 B-기념일 B-음식종류 O O
+O B-사이즈 I-사이즈 B-수량 O O
+B-의약외품종류 I-의약외품종류 O O O O O O
+B-수량 I-수량 O O O O O
+O O O O B-효과종류 O
+B-떡종류 O
+O O O
+O O O
+O B-옷부분 I-옷부분 O O O
+B-맛 O
+O O B-맵기 O
+O O O O B-수량 O
+O B-생활용품 O B-패션브랜드 O
+B-약품형태 O
+B-재료 O O O
+B-사이드 O
+O O O B-맛종류 I-맛종류 O O
+B-메뉴 B-수량 I-수량 O O
+B-식빵종류 I-식빵종류 O O O
+B-메뉴 O
+B-반 O O
+B-시술 O O O
+O O B-색상 O O
+B-날짜 O O O O O
+B-수량 I-수량 O O O O
+B-메뉴 O
+O O O O
+O B-병명 O O B-의약외품종류 O O O
+B-평수 O O O O O
+B-결제수단 O
+B-매매종류 O O
+O O B-모델명 O B-의류제품 O O
+B-당구종류 O
+B-장소 I-장소 O O
+O O O B-수량 O
+B-건축물 B-시간 O O
+B-장소 I-장소 O O
+B-호칭 B-미용시술종류 I-미용시술종류 O O O O O O O O B-기간 O O
+O B-금액 O
+B-메뉴 O O O
+B-메뉴 B-수량 O O
+B-제품 O O O
+B-메뉴 B-음료 B-음료 O O
+B-메뉴 I-메뉴 O O O
+B-메뉴 O B-메뉴 O O O O O
+B-메뉴 B-사이즈 B-금액 B-사이즈 B-금액 O
+B-적립수단 O
+O B-주거형태 O O O O
+B-메뉴 B-수량 O O
+O O O O O O O B-음식종류 O
+O
+B-색상 O
+B-떡종류 B-무게 B-떡종류 B-무게 O O
+B-메뉴 O O O O O
+B-고기종류 O O O O
+O B-생활용구 O O O O O O
+O O B-귤종류 O
+B-집종류 O B-가격 I-가격 O B-가격 I-가격 O O O O O O
+B-약품명 O O O
+O O B-가짓수 O
+O B-화장품종류 O
+B-음식메뉴종류 B-음식메뉴종류 O O O
+B-특정기간 O O O O B-약종류 O O
+B-제품 O O O
+B-메뉴 B-수량 O
+O B-사이즈 O
+O O O O
+B-결제방법 O B-이용석 O
+B-크림종류 O O O
+O O O B-맛 O O O
+O B-이용기간 O
+B-음식종류 O O O O O O O
+B-과일종류 O
+O B-화장품종류 O
+B-제품 I-제품 O O O
+O B-생활용품 B-재질 O O O O
+B-수량 I-수량 O O O O O
+O B-평수 O O O
+B-옷종류 I-옷종류 O B-부위 O O B-서비스비 O
+O B-시간 B-인원 B-수량 O O O O
+B-떡종류 O O
+B-시간 I-시간 B-일자 B-숙박처종류 O O O O O
+B-이용시간 O
+B-메뉴 B-수량 O
+O O O B-음료 O
+O B-시간 O O O O B-메뉴 O O O O O O B-재료 B-수량 O O
+B-음료 B-음료 O O
+O B-평수 O O
+O B-메뉴 I-메뉴 B-수량 O O
+B-인원 O O O
+B-메뉴 B-나이 O B-메뉴 B-수량 O O
+B-행사 O O O O O
+B-과일종류 O O
+B-예약일 B-인원 O O
+B-반찬 O O
+B-수선방법 O O O O
+B-열람실종류 B-가격 B-열람실종류 B-가격 O
+O O O O O B-메뉴 O O
+B-날짜 O O
+B-고기종류 O O
+B-건축물 O O O
+O B-장식 O O O O O
+B-학교단계 O
+B-수량 I-수량 O O O O
+B-대상 B-도법 O
+B-메뉴 I-메뉴 O O
+B-아파트명 O O O
+O O
+O O O
+B-메뉴 O O
+B-미용종류 B-염색종류 O O O
+B-메뉴 B-수량 O
+B-제품명 O O
+B-시간 O O O
+B-과일종류 B-수량 I-수량 O O
+O O
+O B-색상 O O O O
+B-사이즈 B-사이즈 O O
+O B-성분 B-메뉴 O
+B-메뉴 O B-인원 O
+B-제품 I-제품 O B-사이즈 O O
+O B-맛 O O O
+O O O
+O B-메뉴 B-사이즈 B-메뉴 B-수량 B-메뉴 O O
+B-건축물 O O O O
+B-날짜 B-수량 I-수량 O O O O
+B-장소 O O
+B-제품 I-제품 O O O
+B-대상 O O
+O B-인원 O O O
+B-메뉴 O O
+B-메뉴 I-메뉴 O O O
+B-기념일 O O O O
+O B-토핑 O O
+B-부위 B-중량 O O
+B-메뉴 O O
+O
+B-고기종류 B-용도 O
+B-결제수단 O
+B-제품 I-제품 O O O O
+B-재료 O B-양 O O O
+O O B-주변기기 O O O O O O O
+B-과일종류 O O
+B-결제방식 O O
+B-스타일 O
+B-지위 O O O O
+B-부위 B-중량 O O
+B-재료 O O O B-재료 O O O
+B-옷종류 O
+B-화장품종류 B-화장품종류 O B-화장품브랜드 B-효과종류 B-식물종류 O O O B-피부상태종류 O
+O O O
+B-프로그램 O O O O
+O O
+O O O O O O O B-신체부위 I-신체부위 B-의약외품종류 O O O
+B-소부위 O
+B-미용종류 O O
+B-호칭 B-메뉴 I-메뉴 I-메뉴 O O O
+O B-메뉴 I-메뉴 B-수량 O O O
+B-메뉴 B-재료 B-수량 I-수량 O O O
+O B-의약외품종류 O
+B-기간 O
+B- B- B- B-
+O B-결제방식 O
+O B-메뉴 B-초밥 B-가짓수 I-가짓수 O O
+O B-제품 O O
+B-층수 O O
+B-신체부위 O
+B-메뉴 O O
+B-부위 O O O
+B-메뉴 O O
+O B-메뉴 B-수량 O
+B-장소 B-평수 O O
+B-대상 B-사이즈 O B-사이즈 O
+O O
+O O O O B-색상 O O
+B-수량 O O
+O O
+O O O
+O B-증상 B-신체부위 O O
+B-소고기종류 B-소 O
+B-과일종류 O O
+O B-요일 O
+B-재료 B-원산지 O
+O O B-화장품종류 O
+B-결제방식 O
+B-고기종류 B-원산지 O
+B-약종류 O
+O O
+O
+B-차종류 O O O
+B-매물 I-매물 I-매물 I-매물 O O O O O O
+B-메뉴 O O O O
+B-떡종류 O
+B-메뉴 B-위치 B-메뉴 O O
+B-식기 O
+O B-원두종류 O O
+O O B-메뉴 I-메뉴 B-메뉴 O
+B-떡종류 O O
+B-헤어스타일 O
+O O O
+O B-결제수단 O
+B-메뉴 O
+O
+O B-박스수량 O
+B-미용시술종류 B-미용시술종류 O
+B-재질 O
+B-떡종류 O
+O O O O
+B-매물정보 O B-매매종류 O O B-매매종류 O O O
+O B-메뉴 B-수량 O O
+B-재질 B-제품 O
+O O O
+O B-메뉴 I-메뉴 B-금액 O
+B-국물 O O O O O O
+B-미용종류 O O O
+B-떡종류 O O
+O O B-시간 I-시간 O O
+B-세트메뉴 I-세트메뉴 B-수량 O
+O O
+B-메뉴 B-온도 O
+O O
+O O
+O O O O O
+O B-시간 O
+B-메뉴 I-메뉴 O B-메뉴 O
+B-채소종류 B-수량 O O
+B-메뉴 B-메뉴 O
+B-옷부분 O O O O
+B-성별 B-제품 O O
+B-호칭 B-음식용도 O O
+B-화장품브랜드 B-화장품종류 O O
+B-약종류 O O O
+B-성별 B-옷종류 O O
+B-이용시간 O O O
+B-토핑 O
+B- B- B- B- B- B-
+O O B-상품 O O
+O O O O
+B-이용시간 O O
+B-세트제품 O B-결제방식 O
+B-과일종류 B-과일종류 B-수량 O O
+B-시간 O O
+B-떡종류 O
+B-악기 O O O
+B-방종류 B-시간 O
+B-영수증종류 O
+B-메뉴 I-메뉴 O O
+B-메뉴 O O O
+B-메뉴 O O O
+B-시술 O
+O O
+B-시간 O
+B-대상 O O
+O B-이용수단 O O
+O B-주거형태 O O
+O O B-수량 O
+B-대상 O B-인원 O O O O
+B-인원 O
+B-화장품브랜드 B-화장품종류 B-화장품종류 O
+B-증상 O
+B-메뉴 I-메뉴 O O
+B-매매종류 O O
+O B-결제수단 O
+B-미용종류 O O
+O O O
+O B-시간 O
+B-이용시간 O
+B-제품 O O
+B-메뉴 B-수량 O O
+O O O O O O
+B-아파트이름 B-임대가격 O O
+B-머리카락 O O
+B-빵종류 O O O O O
+O O B-음식종류 O O O
+B-메뉴 B-메뉴 O O O
+O B-수량 O
+B-메뉴 O O
+O O O
+O B-결제방식 O
+B-메뉴 B-메뉴 B-메뉴 O O O O O
+B-시간 I-시간 B-요일 O O
+B-가격 O B-기간 O O
+B-식빵종류 O O
+O O O B-층수 O O
+B-토핑 O
+O B-떡종류 B-떡종류 O
+B-방종류 I-방종류 O O
+O B-수량 O
+B-일자 O O O
+O B-비품 O
+B-사이즈 O O
+O B-일회용컵 B-포장 O
+B-성분 B-약종류 O O O
+B-미용종류 O O O
+B-무게 O O
+B-호칭 O O O
+B-메뉴 B-온도 O
+B-과일종류 O
+O B-세트제품 O
+B-대상 O O O
+B-온도 B-메뉴 O
+O B-당구종류 O
+O B-비품 O
+O B-비율 O O
+B-메뉴 I-메뉴 O O O
+B-제품 O O O
+O B-제품 O
+O B-메뉴 O O
+B-제품 B-수량 O O O
+B-결제방식 O
+B-이용시간 O
+B-메뉴 O O O
+B-세트메뉴 I-세트메뉴 B-수량 O
+O O
+O B-사이즈 B-음료 B-수량 O O O
+B-메뉴 B-수량 O O
+B-메뉴 I-메뉴 O O
+B-이용시간 O O O O O O O
+B-고기부위 O
+O
+O O B-메뉴 O
+O B-연령대 O O O O O
+B-메뉴 I-메뉴 O O O O O
+B-등급 O O
+B-메뉴 B-메뉴 O O O
+O B-메뉴 I-메뉴 I-메뉴 B-수량 O O
+O O B-매물형태 O O O
+O O
+B-사이즈 O
+B-인원 O B-수량 I-수량 O O O O O O
+B-요일 O
+O O O
+B-메뉴 B-재료 O O
+B-매물 O O O O O
+B-색상 B-제품 O
+O O O O O O B-사이즈 O O
+B-제품 O O O O O
+B-동물종류 B-고기종류 O
+B-반찬 I-반찬 O B-수량 O
+B-장소 O
+B-메뉴 B-메뉴 O O
+O B-이용시간 I-이용시간 O O
+B-음료 O O
+B-시간 B-과일종류 O
+B-주거시설 B-층수 B-임대종류 O O
+B-집종류 B-매매종류 O O O
+B-과일종류 O
+B-횟수 O
+B-메뉴 O
+O O B-음료종류 O O
+B-시간 I-시간 O O
+B-날짜 B-매물 O O O O
+B-비품 B-수량 O
+B-대상 O O
+O B-생활용품 B-결제수단 O O O O O O
+B-매물종류 O
+O O
+O B-반찬 B-반찬 O
+O O O B-산이름 O O O O
+B-메뉴 B-재료 O B-메뉴 B-재료 O O O O O
+B-과일종류 O
+B-아파트명 O
+O O O
+B-메뉴 O
+O B-색 B-의류 O
+B-메뉴 B-맛 O O
+B-제품 O O
+B-비품 O
+O O O O O O O O O O O B-메뉴 O
+O B-생활용품 O
+O B-기간 O O
+B-임대종류 B-비용 O O O
+O O
+B-메뉴 O
+O O O O O O B-토핑 B-횟수 O O
+B-고기부위 B-조리방법 O O O
+O O O
+O O B-맛 B-수량 O
+O B-미용종류 O O
+O B-식기 B-수량 O O
+O O O
+B-떡종류 O
+O O O
+O O B-예약시간 O
+B-메뉴 O B-메뉴 O O
+B-커피종류 B-잔수 I-잔수 B-용기종류 O
+B-시간 O O
+B-토스트종류 O O
+O B-부품 O
+B-수량 O
+B-임대종류 O O O O O B-통신수단 O
+O B-사이즈 O B-인원 I-인원 O O
+B-메뉴 I-메뉴 O O O B-메뉴 O O
+B-메뉴 O O
+B-제품 O O O
+B-수량 O O
+B-음식메뉴종류 B-수량 B-음식메뉴종류 O
+B-쿠키종류 I-쿠키종류 B-수량 O O
+B-제품 B-제품 B-제품
+O B-음료 B-사이즈 O O
+B-메뉴 B-메뉴 O
+O O B-메뉴 O O
+B-제품 O O
+B-메뉴 O O O O
+B-사이즈 I-사이즈 B-온도 B-메뉴 B-수량 O
+O O O O B-미용종류 O
+B-메뉴 B-메뉴 B-수량 B-메뉴 O O
+B-쿠키종류 I-쿠키종류 B-수량 O
+B-시간 O O O
+B-약종류 O O
+B-메뉴 B-수량 O
+B-이용시간 O
+B-비품 O
+B-메뉴 I-메뉴 B-온도 B-메뉴 O
+O B-수량 I-수량 O O O O
+B-사이드 O O O
+B-메뉴 O O
+O B-메뉴 B-수량 B-메뉴 O
+O
+B-증상 B-증상 O O
+B-평수 O O
+B-약의형태 O
+B-신체부위 O O O O
+O B-호칭 O O O O O
+B-음식메뉴종류 B-수량 O
+B-방종류 O
+O O O B-비용 O O
+O O O B-제품 O
+O
+B-재료 O O O
+B-의약외품종류 B-개수 O
+B-재료 O
+B-식기 O
+O O O
+B-사이즈 B-제품 O
+B-메뉴 B-수량 O
+O O B-빵종류 O
+O B-가게종류 O O O
+B-제품 O O
+O O B-제품 O
+O B-수량 O
+B-재질 O O B-제품 O
+B-메뉴 O O O O
+B-온도 B-메뉴 O O O O
+O B-약의형태 I-약의형태 B-약의형태 O O
+B-제품 O
+O B-떡종류 B-인원 O
+O O O B-제품 O O
+O B-성분 O O O
+B-떡종류 O
+B-카드종류 I-카드종류 O O O
+B-시간 O O
+B-당구장비 O O O
+O B-결제방식 O
+B-세트메뉴 O
+B-결제방식 O O
+B-메뉴 B-온도 O B-수량 O B-메뉴 I-메뉴 O O
+B-메뉴 I-메뉴 O O
+B-방종류 B-방종류 O O O O
+O O O O
+O B-색상 O O
+B-시간 O O B-음료종류 O O O O O
+B-연령대 B-인원 I-인원 B-방종류 O O
+B-임대종류 O O
+B-요일 O
+B-신발종류 O O O
+B-집종류 B-매매종류 O B-매매종류 O O
+O O B-제품 O
+O O B-숙박시설종류 O O O O
+O O O O
+O B-제품 O O O
+B-용품 O O
+O B-케이크종류 I-케이크종류 B-크기 O
+O O
+B-제품 O
+O O B-기간 I-기간 B-숙박시설종류 O O O O
+B-날짜 O O
+B-반찬 O O O
+O B-제품 O
+B-시간 B-기간 O O
+B-미용종류 O O
+O B-색 B-의류 O
+O O
+B-매매종류 O O
+B-온도 O O O
+O O B-수선부위 B-수선부위 O O
+B-시간 B-시간 O O
+B-음식종류 O O
+B-메뉴 O O
+B-사과종류 O
+O B-메뉴 O O O B-수량 O B-메뉴 I-메뉴 O O
+O O O O O B-음식종류 O
+O O O O O B-제품 O
+O O O
+O O B-이용시간 O
+B-위치 O B-미용종류 O O O O O O O O
+B-메뉴 B-메뉴 O
+O B-메뉴 B-수량 I-수량 O O O
+B-옷종류 B-금액 O
+B-메뉴 O O O
+O B-메뉴 O O O O O O
+B-차종류 B-차종류 O O O
+B-비품 O O
+O B-용품 O O
+B-커피종류 O O
+B-메뉴 O
+B-예약일 I-예약일 B-예약일 O O O O
+O O O
+O O O O O O O O
+O B-비품 B-수량 O
+O O O
+O O O B-정액제 O
+O B-화장품종류 O
+B-메뉴 O
+B-멤버십 O
+O B-생활용품 O O
+B-시간 O O
+B-장소 O B-수량 I-수량 O O
+O B-음식종류 O O
+O O B-영수증종류 O
+B-제품 O O
+B-제품명 O O O
+O O B-시기 O O
+B-매물 O
+B-당구종류 B-이용시간 O O
+B-떡종류 O O
+O B-집종류 O O O O O O
+B-위탁물종류 B-서비스종류 O
+B-결제수단 O
+B-메뉴 I-메뉴 B-토핑 O O O
+O B-위치 B-토핑 O O
+O B-원단종류 O O
+B-떡종류 O O O O
+B-대상 O
+B-매물 O O
+B-용도 B-무게 O O
+B-케이크종류 O O O
+O B-의류 O O
+O B-성분 O O O O O
+O O
+B-메뉴 O O O
+B-식물종류 O B-떡종류 O
+B-제품 O O
+O B-메뉴 I-메뉴 B-수량 O
+B-중국집메뉴 B-주문수량 B-중국집메뉴 I-중국집메뉴 B-주문수량 O
+B-날짜 I-날짜 O O
+O B-브랜드 O
+O B-횟수 B-이용요금 O O
+B-증상 O O O O O O O O O
+B-개수 I-개수 O O O
+B-메뉴 O B-메뉴 O O
+O B-수량 O
+B-반찬종류 O
+B-성별 O O O O
+O B-신체부위 B-피부타입 B-피부타입 O O
+B-약종류 O O O
+O O B-인원수 I-인원수 B-매물정보 B-평수 O O
+O O B-금액 I-금액 O O
+B-메뉴 O O O
+O O B-약구성형태 O O O
+B-친족관계 B-인원 I-인원 B-시간 O O O
+B-반찬 O O O
+B-메뉴 O
+O B-날짜 O O
+B-토마토종류 O
+B-떡종류 B-수량 I-수량 O O
+B-메뉴 B-수량 O O
+O B-화장품종류 O O O O O O O
+B-상품 O O O
+B-의약외품종류 O O O B-가격 I-가격 O O B-의약외품종류 O
+B-장소 O
+B-과일종류 O O
+O O
+O O O
+B-식물류 O O O O O
+B-날짜 O O O
+O B-제품 O O
+O O O O
+O B-제품 O O
+B-화장품성분 O O O O
+B-커피종류 O
+B-여성 O B-신체부위 O O O O O O
+O B-시술 O
+B-떡종류 B-떡종류 O O
+O O
+B-재료 O B-재료 B-재료 O
+O B-의류 O O O
+O B-평수 O O
+B-메뉴 O
+B-제품 O O B-제품 O
+B-비품 O O
+O B-화장품종류 O
+O O O
+O O B-시간 O
+O B-메뉴 B-재료 O O
+B-메뉴 B-수량 O O
+B-미용종류 O O O O
+O O B-개수 O O O
+B-사이즈 B-사이즈 I-사이즈 B-사이즈 O O
+O B-장신구 O O O O O O
+B-메뉴 O O O O O O
+B-재료 O O
+O B-질감 O
+B-메뉴 B-ㅅ O O
+B-영수증 O O
+B-인원 O O O O B-요일 O O
+B-제품 O O
+B-제품명 O O
+O O
+B-사이즈 O O
+B-이용가격 O
+B-비품 O O
+O B-과일종류 B-수량 O
+B-숫자 O B-평수 O O O O O
+O B-메뉴 B-메뉴 I-메뉴 B-수량 O O
+B-메뉴 B-메뉴 O O O O
+O O B-국가 O
+O B-제품 O
+O
+B-횟수 O O
+O B-빵종류 B-식물류 O O
+B-채소종류 O
+B-화장품종류 O O
+B-날짜 O O
+O B-떡종류 O
+B-미용종류 O B-미용종류 O O O O
+B-음료종류 B-수량 I-수량 B-빵종류 O O
+B-제품 O
+O O B-돼지고기종류 O O O
+O B-생활용품 O O
+B-토핑 B-양 O O O
+B-김치종류 B-무게 O
+B-제품 O O O O O
+B-차종류 O
+B-헤어스타일 O O O O O O O
+O B-제품 O
+O B-메뉴 B-수량 B-메뉴 B-사이즈 B-수량 O
+B-메뉴 O O
+B- B- B- B- B- B- B- B- B-
+O O B-수량 O
+B-떡종류 O
+O O O O
+O
+O B-제품 O O
+O B-사이즈 O O O
+B-시기 B-비용 O O O
+B-메뉴 B-수량 O
+O B-인원 O O
+B-음료종류 O
+B-수량 O O
+B-이용요금 I-이용요금 O O
+B-옷종류 B-서비스비 O B-옷종류 O
+B-이용시간 O O
+B-색상 B-제품 O
+O O O O O O O O O O O
+B-온도 B-메뉴 O O
+O B-대상 B-수업 O O O
+O B-소스 O
+B-결제수단 O
+B-커피종류 B-수량 O
+B-메뉴 O O
+B-메뉴 B-수량 O
+B-제품 O
+O O O
+B-온도 B-메뉴 O B-맛 O
+B-메뉴 I-메뉴 I-메뉴 O O B-메뉴 O O O O B-메뉴 O
+B-과목 B-과목 O O O O
+B-메뉴 B-수량 O O
+O O B-제품 O
+O O B-케이크종류 O O
+O B-떡종류 O O O
+O O B-음료 B-수량 O
+O O B-메뉴 O O O
+B-포인트카드종류 O O
+B-반찬 O O O
+B-커피종류 B-커피종류 O O
+O O O O O O O O O O B-재료 O O O O O
+O B-음료 B-사이드 O O O O
+B-이용시간 O O
+B-주거시설 O O O
+B-이용시간 O
+O B-메뉴 B-수량 O O
+B-의약외품종류 O O
+O O O B-생활용품 O
+O B-시간 O O O
+O O O O O O
+B-약종류 O O
+B-인원 O O
+B-메뉴 I-메뉴 B-온도 B-수량 O
+B-메뉴 I-메뉴 B-음료 O O
+B-온도 B-메뉴 O
+O B-스타일 O O
+B-식기 O O
+O O B-장소 O O
+B-기간 O
+B-음식종류 O O O O B-제작방식 O O
+B-대상 B-제품 I-제품 O O
+B-인원 O O O O O
+B-호칭 O O
+B-날짜 B-예약시간 I-예약시간 O O
+B-계약종류 O O O O
+B-약종류 B-개수 O
+B-메뉴 B-메뉴 O O O B-맛 I-맛 O O
+O O O O O
+O O O
+O O B-매물 O
+B-시간 O O
+B-장소 O O
+B-메뉴 B-수량 O
+O B-메뉴 O O
+O O O O O B-부분 B-수량 O O O
+O B-인원 I-인원 B-인원 I-인원 O O O O O O
+O B-음식종류 O
+B-제품 O
+O O B-생활용품 O
+O
+B-위치 O O
+O
+B-고기부위 B-무게 O O
+B-할부개월 O O
+O O O B-소재 O
+O O B-메뉴 I-메뉴 B-수량 B-메뉴 O O
+O O B-떡종류 O
+O B-화장품종류 O
+O B-토핑 O O
+B-단지명 O O O
+O O O O O
+B-떡종류 O O
+B-떡종류 B-곡물종류 O B-곡물종류 O
+B-이용시간 I-이용시간 B-이용가격 I-이용가격 B-게임종류 I-게임종류 O O O
+B-할인율 O
+O O O O B-계약종류 O O O O O O O
+B-수량 O
+B-부품 B-부품 O
+B-메뉴 B-온도 O
+O B-커피종류 I-커피종류 O O O
+B-지정기간 O B-지정일 O O O O
+O B-수량 O
+O B-메뉴 B-메뉴 O
+B-사이즈 I-사이즈 B-포장 B-메뉴 O
+B-인원 O
+B-회원카드 B-회원카드 B-회원카드 O O
+B-성별 O
+O B-결제방식 O
+B-메뉴 O
+B-메뉴 B-수량 O
+B-제품 O O
+O O O O
+O B-제품 O
+B-시간 O O
+B-용품 O O O O
+O O O O O B-염색종류 O O
+B-메뉴 O O O
+O O B-수량 O
+B-당구장비 B-개수 O O
+O B-제품 O O
+O B-숙박처종류 B-대한민국도단위행정구역 B-강원도에있는행정시 O O O
+B-수량 I-수량 O O O
+B-원산지 B-고기부위 O
+B-메뉴 B-수량 O O
+O B-소스 O O O
+O B-메뉴 O
+B-메뉴 O O
+O O O
+B-제품 O O
+O O O O
+B-달 O O
+B-메뉴 B-수량 I-수량 O O O
+B-떡종류 O O O
+B-머리카락 O O
+B-메뉴 I-메뉴 O O
+B-고기종류 B-무게 O O
+B-지정기간 I-지정기간 O O O O
+O O O B-과일종류 O
+O B-결제수단 O
+B-메뉴 B-메뉴 O O
+O O O
+O O O O
+B-메뉴 O O
+O B-옷종류 O O O
+B-재료 O O O O B-재료 I-재료 O O
+B-온도 B-메뉴 B-수량 O O
+O O B-가구유형 O O O O O B-매물 O
+B-시간 O O O
+O B-맵기 I-맵기 O O
+O O O O
+B-옷종류 O O O
+B-재료 O O O
+O O B-음식종류 O O
+B-재료 B-수량 O O
+O O B-수량 O
+B-수량 O O
+O B-제품 O
+B-방종류 I-방종류 O O
+B-메뉴 B-온도 B-수량 O
+B-나물류 O
+O B-생활용품 O O
+B-제품명 O
+O
+B-메뉴 O O B-메뉴 O O
+B-메뉴 O B-수량 O
+B-음식메뉴종류 B-음식메뉴종류 O
+B-비품 O O
+B-날짜 O O
+B-대상 O O
+B-과일종류 O O O O O O
+B-위탁물종류 B-서비스종류 O
+O B-메뉴 B-위치 B-소스 O O O
+B-고기부위 O O
+O B-생활용품 O
+O B-의류 O O
+O B-인원 O B-인원 O O O
+O O B-원산지 O
+O B-매물 O B-수량 O O O O
+B-임대종류 O O O O
+B-메뉴 B-재료 O O
+O B-제품 O O
+B-장소 I-장소 O O
+B-부위 B-피부형 O O O O O
+O B-약품형태 B-약품형태 O O O
+B-메뉴 O O
+O O B-특정기간 B-증상 O O O O
+B-재료 O B-메뉴 O O
+B-옷종류 B-옷종류 O O
+B-양념 O O
+B-향수종류 O O
+O O B-메뉴 B-수량 O
+B-메뉴 B-재료 O
+B-호칭 B-제품명 B-개수 O
+B-횟수 I-횟수 O B-횟수 O O
+O O O
+B-날짜 O B-상품 O
+B-스타일 O O O
+O B-메뉴 B-수량 O O O O O O O
+B-성별 O B-성별 O
+O O O B-금액 O O
+O B-수량 O O O
+O
+B-이용석 B-음식메뉴종류 B-수량 O
+B-인원 O B-메뉴 O
+B-인원 B-인원 O O O
+O B-방종류 O
+B-메뉴 O
+B-시간 B-메뉴 O
+O O B-금액 O
+B-온도 B-메뉴 B-수량 O
+B-음료종류 B-크림종류 O O
+B-용도 O O
+O O
+B-떡종류 O
+O B-염색종류 O O O
+B-사이드 B-메뉴 O O
+B-예약시간 O O
+O B-개수 O
+O B-의약외품종류 B-개수 O O
+O O
+B-메뉴 I-메뉴 O O O O O B-사이드 O
+B-제품 O
+B-색상 O B-색상 O O O O O
+B-제품 O O
+B-결제방식 O
+B-이용석 O O
+B-음료 O O
+B-부위 B-부위 O O
+B-반찬 O
+B-길이 B-머리카락 B-미용종류 O O O
+O B-이용시간 O
+B-시간 O O O
+B-떡종류 O
+B-화장품특성 B-화장품종류 O O O
+B-메뉴 I-메뉴 O O O
+O B-의약외품종류 O O O
+O O B-가격 O O O O O O O
+O O O O O O O O O O
+B-수량 O O
+B-메뉴 B-수량 O
+O B-반찬 B-수량 I-수량 O O O O
+B-평수 O O
+B-평수 B-매물 O
+B- B- B-
+B-국종류 O B-고기부위 O O
+O B-재료 O
+B-소재 O
+O O O
+B- B- B-
+O O O O O
+B-호칭 B-채소종류 O B-음식종류 O O B-고기종류 O
+B-수량 O O
+B-메뉴 O O O O O B-메뉴 O
+O O O O
+B-인원 O O B-인원 O O O
+B-메뉴 B-온도 O B-온도 O O O O
+O B-기간 I-기간 O O B-옷종류 O O O
+B-메뉴 O O
+O B-수량 O O
+B-수량 O O
+B-사이즈 B-수량 O O
+B-메뉴 O B-온도 B-재료 B-수량 O O
+O B-생활용품 O
+B-연령대 O O O O O O
+O O O O
+B-음료 O O O
+O O O O O
+O B-재료 B-메뉴 B-수량 O O
+B-건축물 O B-인원 O O
+O O O B-장소 B-위치 O O
+B-제품 O O O
+O B-가격 O O O O O
+B-열람실종류 B-이용기간 O O
+O B-의약외품종류 B-개수 B-약의형태 O
+O B-색상 B-가짓수 O O O
+O B-교통수단 O O O
+B-메뉴 O B-재료 B-가짓수 O O O O
+O B-장소 O
+B-성분 B-성분 O O B-의약외품종류 O B-신체부위 O O O O
+B-고기종류 B-음식용도 B-저장법 O O
+B-제품번호 O O
+B-메뉴 O B-사이즈 I-사이즈 B-수량 O
+O O B-포장 O
+B-의류 O
+O
+B-메뉴 I-메뉴 B-재료 O O O
+B-증상 O
+B-부위 B-중량 O
+O B-제품 O
+B-제품 B-색상 O O O O O O
+O B-이용시간 O
+B-결제방식 O O
+O B-메뉴 O
+B-떡종류 O
+O O B-매물 O O B-계약종류 O B-매물 O
+B-반찬 O O
+B-수량 O O
+O B-크기 O O
+B-효과종류 O O B-화장품종류 O
+B-제품 B-순도 B-순도 O O O
+B-머리카락길이 O
+B-주거시설 B-층수 O O
+O B-금액 B-수량 O
+B-과자종류 O B-균종류 O
+B-수량 I-수량 O O
+O O B-자리 O
+B-온도 B-메뉴 O
+B-연령대 I-연령대 B-메뉴 O O O O
+O B-식기 O
+O O O
+B-고기부위 O
+O O O O
+B-온도 B-메뉴 O O
+B-인원 I-인원 O O
+B-스콘종류 I-스콘종류 B-수량 O O
+B-상품 O O B-상품 O O O
+B-시간 I-시간 O O O O
+O O O O O
+O O B-색상 O
+B-위치 O O
+B-제품 O O
+O B-의류 O
+B-과일종류 B-수량 O O
+B-메뉴 O
+O O O O O
+O B-온도 B-메뉴 B-수량 O
+B-메뉴 O
+B-메뉴 B-수량 B-금액 O O O
+B-메뉴 I-메뉴 O O
+B-시간 O O O O
+B-메뉴 O O
+B-메뉴 I-메뉴 O O
+B-메뉴 O
+B-개수 O
+O O B-돼지고기종류 O B-돼지고기종류 O
+B-의약외품종류 O O O
+B-임대종류 O
+B-인원 O O
+B-시간 B-장소 O O O O O
+B-메뉴 O B-결제종류 O
+B-제품 O O O O
+O B-메뉴 B-수량 I-수량 B-메뉴 B-메뉴 B-메뉴 I-메뉴 O O
+O B-일회용컵 B-수량 O
+O O O
+O O O O B-색상 B-색상 O
+B-떡종류 O O B-수량 O
+O B-매물 O O O
+B-음료 B-수량 O
+B-메뉴 B-토핑 O O O
+B-제품 O
+O B-제품 O
+O O O B-사이즈 O
+O O B-요일 O O
+O B-헤어스타일 O O O O O
+B-위치 O O
+B-온도 B-메뉴 B-수량 O O
+B-조각수 I-조각수 O O O O O O O
+O O O O O B-장소 O
+B-온도정도 O O
+O B-온도 B-메뉴 B-메뉴 O O
+O B-금액 I-금액 O O O
+B-당구종류 O
+B-메뉴 O
+B-케이크종류 I-케이크종류 B-크기 O
+B-소스 O O O O
+B-미용종류 O O O
+B-미용종류 I-미용종류 O O
+O B-포장용기 O O O
+O O B-메뉴 O O
+O O O O
+B-화장품브랜드 O O
+O O B-필기구 O O
+B-메뉴 O O O O
+O O O
+B-약종류 O
+O O
+B-고기부위 B-무게 O O
+B-제품 O O
+O O B-색 O
+B-제품 O
+O B-메뉴 O O O
+O B-제품 O O
+O B-제품 O O O O
+B-약품 O
+O B-이용시간 I-이용시간 O O O
+B-메뉴 B-메뉴 O O O O O
+B-메뉴 O
+B-메뉴 O
+B-온도 O O O
+B-위치 O O O
+B-메뉴 O O
+O O O
+O O O
+B-커피종류 O O
+B-이용시간 O O
+B-연령대 O O
+B-결제수단 O
+B-메뉴 I-메뉴 O O
+B-당구장비 O
+B-메뉴 B-수량 O O
+O O O O
+O O B-지명 O
+B-색상 I-색상 O O
+B-호칭 O O O
+O B-멤버십 B-멤버십 O O O
+O B-횟수 O O
+O O B-부품 O O B-재질 O
+B-메뉴 B-메뉴 O O
+B-열람실종류 B-이용기간 O O
+B-과일종류 O O O
+B-성분 O O O O O
+O B-크림종류 O O O O B-가격 O O O
+B-온도 B-메뉴 B-수량 O O
+B-토핑 O O O O O
+O B-메뉴 O
+B-대상 O B-제품 I-제품 O O B-제품 O O O O O
+B-메뉴 B-수량 O O
+B-재료 B-재료 O
+O B-메뉴 I-메뉴 B-재료 B-재료 B-수량 O O
+O B-제품 O O O O
+O
+O O
+O B-화장품용기 O
+B-메뉴 O O O
+B-메뉴 B-수량 O O
+O B-제품 O O
+B-메뉴 B-수량 O
+O B-토핑 O O O O
+B-결제방식 O
+B-의약외품종류 O O
+B-연령대 B-연령 O O
+B-시간 O O B-매물 O B-매물 O
+B-매물 O O O O
+B-이용기간 O O
+B-제품 O O
+O B-크림종류 O O O
+O B-메뉴 O O B-사이드 O O O
+O O O O O B-이용시간 I-이용시간 B-이용요금 B-결제방법 O O O
+B-과일종류 B-수량 O O
+B-메뉴 O O
+O O B-기간 O O
+B-커피종류 O
+B-재료 O O B-재료 O
+O
+B-메뉴 O O
+B-화장품종류 O O
+B-수량 I-수량 B-음료 B-수량 O O
+B-제품 O
+B-메뉴 O O O
+O O B-세트메뉴 B-수량 O
+O O O O B-음식종류 O
+O O
+O
+O B-비품 O O
+O B-메뉴 O B-메뉴 O B-메뉴 B-사이즈 O
+B-메뉴 B-메뉴 B-메뉴 O
+O B-성분 O O
+B-제품 B-수량 O O
+B-예약일 I-예약일 O O
+B-메뉴 O O
+O B-부분 O B-용도 B-제품 O O O
+B-제품 O O
+B-아파트이름 O O O O O
+B-메뉴 O
+O B-재료 O B-반찬 O
+O B-재료 B-수량 I-수량 O O
+B-메뉴 B-음료 O O O
+O O O O O
+B-반찬 O O O O O O O
+B-수량 I-수량 O O O
+B-반찬 B-수량 O O
+B-치즈종류 O O
+B-제품 O O
+O B-적립수단 O
+O O B-당구종류 B-당구종류 B-이용요금 O O O O
+B-날짜 O O
+B-신발종류 O O
+B-영수증종류 O O
+O B-재료 B-재료 O B-세트메뉴 I-세트메뉴 O O O O
+B-시간 B-야채종류 O O O O O
+O O O O O O O
+B-수량 I-수량 O B-수량 I-수량 O O O
+O B-평수 O O
+O B-비품 B-수량 O O
+O B-과일종류 O O O O O O
+B-재료 O O
+B-병명 O O O O
+O B-스타일 O O O O O O O
+O O B-메뉴 O O
+B-메뉴 I-메뉴 B-수량 O
+B-메뉴 O
+B-반찬 I-반찬 O O B-반찬 O
+B-시기 B-시기 O O O O
+B-과일종류 B-무게 B-과일종류 O O O
+B-메뉴 O O
+B-방향 O O O O O O O
+B-음식종류 O O
+O
+B-화장품종류 O O O
+O B-제품 O
+B-사이즈 O O
+O O O B-매물 O O O O
+B-인원 O O
+B-화장품브랜드 O O
+B-수량 O
+B-메뉴 I-메뉴 O O O
+O B-증상 O O O O O O
+B-과일종류 O
+B-소재 O
+O O B-결제방식 O O
+O B-매물 B-매물 O
+B- B- B- B- B- B- B- B-
+B-메뉴 O O
+O B-수량 O O
+O O O
+O B-제품 O O
+O O B-임대종류 O O
+B-수량 O O
+O B-생활용품 O
+B-떡종류 O O O
+B-수량 O O O O
+O B-의약외품종류 O O
+B-메뉴 O O
+O B-객실종류 O
+B-방종류 O
+O B-메뉴 O O
+O B-장소 B-메뉴 O O O
+B-빵종류 I-빵종류 B-수량 O O
+B-성분 O O O O O O
+B-색상 O
+B-대상 B-외국어 O
+B-음식종류 O O O
+O B-옷부분 O O O
+B-온도 B-메뉴 I-메뉴 B-사이즈 I-사이즈 O O
+B-생크림종류 O O
+B-시간 O O O O
+O B-메뉴 O O
+B-연령대 O O
+B-커피종류 O O O O
+B-메뉴 I-메뉴 O B-수량 O
+B-가방종류 O
+B-시간 O O
+B-세트메뉴 I-세트메뉴 O B-금액 O O O
+B-대상 I-대상 B-과목 O O O
+O B-메뉴 O O O
+O O O B-대상 O O
+O O B-옷종류 B-옷종류 O O O
+O B-미용종류 B-미용종류 O O O O O
+B-위탁물종류 I-위탁물종류 B-서비스종류 O
+B-결제수단 O O O B-호칭 O O O
+B-세트메뉴 I-세트메뉴 I-세트메뉴 B-세트메뉴 I-세트메뉴 B-수량 O
+B-상품 O O O O
+O B-이용시간 O
+B-색상 O O
+B-메뉴 O O
+O O B-대상 O O O O
+B-집종류 O
+B-옷종류 O O
+B-방종류 O O
+O B-인원 O
+O B-떡종류 B-수량 O
+B-제품명 O
+O O O
+B-온도 B-메뉴 B-수량 B-메뉴 O
+B-메뉴 I-메뉴 B-수량 B-온도 B-메뉴 B-수량 O O
+B-제품 O O O
+B-용도 B-고기종류 O O
+O O O O O
+O B-멤버십 B-정액제 O
+B-의류 O O O O O O O O O O
+O O O O B-약종류 O
+O B-상품 B-수량 O B-상품 B-수량 O O
+B-아파트이름 O O
+B-메뉴 O
+B-메뉴 I-메뉴 O O
+B-메뉴 O O O O O O O O O O
+O B-이용요금 O
+B-상품 B-수량 B-상품 B-수량 O
+B-용품 B-금액 O
+O B-예약일 B-예약시간 O O
+O B-가게종류 B-음식종류 B-미생물종류 O
+O B-색상 O
+B-가격 I-가격 O O
+B-메뉴 I-메뉴 B-메뉴 I-메뉴 B-수량 O O
+O B-대상 B-중량 O O
+B-아파트이름 O O
+O O O
+B-메뉴 I-메뉴 B-수량 O O
+B-온도 O
+B-기념일 B-음식종류 O O
+B-인원 O O O O
+B-음식메뉴종류 B-수량 B-음식메뉴종류 I-음식메뉴종류 O O
+O O O
+B-위치 B-집종류 O O
+O B-메뉴 I-메뉴 B-수량 O O O
+B-재료 O
+B-대상 O O O O O O O
+B-아파트명 B-평수 O O O O
+B-투약일수 O O
+B-호칭 O B-주변기기 O O O
+B-결제수단 O
+O O O
+O B-포장용기 O
+B-메뉴 O O
+B-메뉴 B-수량 O O
+B-온도 O O
+B-메뉴 B-재료 O O
+B-안원 O O O O O
+B-수량 O O
+B-수선위치 O B-옷종류 B-수선위치 O O
+B-고기부위 O O O O O O
+B-재질 B-위탁물종류 B-위탁물크기 O B-서비스종류 O O
+O B-생활용품 O
+B-신분 B-신체부위 B-피부상태 O O O O
+B-음식종류 O O
+B-떡종류 O
+B-결제방식 O
+O B-성분 O O
+O B-할인종류 O O
+O O
+O
+B-예약시간 O O
+O B-제품 O O
+O B-결제수단 O
+O B-재료 O O O O
+B-약종류 O O
+B-제품 O O
+B-재료 I-재료 O O
+B-집종류 O O O O O
+O B-나이 B-기능 B-제품 O O
+O B-제품 O O O
+B-약품 O
+O O O B-이동수단 O
+B-통신가 I-통신가 O O O O
+O B-반찬 B-반찬 O O
+B-대상 O O O O
+B-음료종류 O O O O
+B-요금종류 O O
+B-채소종류 O O O
+B-재료 O
+B-빵종류 O O
+B-시간 I-시간 O O
+B-메뉴 I-메뉴 O O O
+O B-비용 O
+O O B-종류 O O
+O O
+B-스타일 I-스타일 O O O O B-횟수 O O
+B-헤어제품종류 O
+B-음료 O O O
+B-방종류 O O O
+B-날짜 O O
+B-메뉴 O
+O O B-수량 O
+B-이용시간 O O
+B-메뉴 O
+O O O O O O
+B-제품 O
+B-운동시설 O O O
+B-소부위 O O
+O B-과자종류 B-쌀종류 O O
+B-메뉴 I-메뉴 B-메뉴 O O
+O O O O
+B-음식종류 O O O O O O
+B-날짜 O O O O O O O O
+B-과일종류 O B-그릇종류 O O
+B-대상 B-제품 I-제품 O O O O O
+B-음식재료 O O
+B-수량 O O O
+O B-과일종류 O
+B-토핑 B-방향 O
+B-제품 O O O O
+B-떡종류 O O O
+B-메뉴 O
+B-음료종류 B-개수 O O
+O B-색상 O
+O O B-인원 O O O O O
+O B-온도 O O
+B-메뉴 I-메뉴 B-조각수 B-인원 O O
+B-재료 O O
+B-메뉴 O O
+B-고기부위 O O
+B-메뉴 B-온도 O
+O O
+O O B-수량 O O
+B-떡종류 O O O
+B-주거시설 O O
+O O
+B-이용시간 O
+B-술 B-수량 O O
+B-메뉴 O B-메뉴 O O
+B-과일종류 O
+B-위탁물종류 O
+O B-재료 O O
+B-메뉴 O O O O B-메뉴 O O
+B-이용시간 O
+O O B-미용시술종류 B-미용시술종류 O
+O B-메뉴 I-메뉴 B-수량 O
+B-결제방식 O O
+B-용품 O O O
+B-도로종류 O
+B-메뉴 B-수량 O O
+B-옷종류 O O O
+B-음식종류 O O O O O O O O O
+O B-당구장비 B-개수 I-개수 O O
+B-김치종류 B-반찬종류 B-반찬종류 O O
+O B-수량 O
+B-제품 O O O
+O B-가게종류 B-음식종류 O B-곡물종류 O O
+O O
+B-메뉴 O O
+B-숙박시설종류 O O
+O B-서비스 O
+O O O B-색상 O
+O O O
+O O B-사이즈 O O
+B-귤종류 O O
+B-채소종류 O
+O B-원산지 O
+O O B-투자 O O
+O B-사이드 B-반찬 O O O O O
+O O O B-기간 O
+B-개수 I-개수 B-약의형태 O O O O
+O B-메뉴 O O O
+B-메뉴 B-온도 O B-수량 O
+O O B-수량 O
+O O
+B-메뉴 O
+O O O O B-주문수량 O
+B-방종류 O B-방종류 O
+B-수량 O O
+B-사람수 O O
+B- B- B-
+B-이용시간 O O
+O B-재료 O O O O
+B-과일종류 O
+O B-색 B-의류 O
+B-수량 O O
+B-서류 I-서류 O O O
+B-약종류 I-약종류 O O
+B-계절 O O O O
+O B-이용시간 O
+O
+O B-빵종류 O
+O B-메뉴 O O
+B-위치 O B-주거형태 B-임대종류 O O
+B-매물 O O
+B-위치 B-미용종류 B-미용종류 O O
+B-과목 O O O
+O B-생활용품 O O O
+B-메뉴 O O O
+B-메뉴 I-메뉴 O O O
+B-금액 I-금액 O O B-금액 O
+B-온도 B-메뉴 B-수량 B-온도 B-메뉴 B-수량 O
+B-고기부위 B-조리도구 O O
+O O O O O O
+B-음식종류 O O O
+B-과일종류 O O
+B-메뉴 O O O
+O B-사이즈 O O O O
+B-수선위치 O O O O O
+B-메뉴 B-금액 O
+O O O O B-약종류 O O
+B-할인수단 O
+O B-결제수단 O
+B-메뉴 I-메뉴 O O O O
+B-상품 O O O B-수량 O O O
+B-메뉴 O O O
+O O O O O O B-가격 B-가격 B-가격 O O B-가격 O
+O O
+B-재료 O O
+B-색상 O
+O B-주거시설 B-평수 B-평수 O
+O B-메뉴 B-재료 O O
+B-메뉴 O O
+B-재료 B-메뉴 O O O
+B-가격수 O O
+B-대상 O O
+O O B-과일종류 O O
+B-결제수단 O
+O O B-화장품종류 B-화장품부품 O O O
+B-예약방법 I-예약방법 O O O O O
+B-머리카락 O
+O B-재질 O O O
+B-임대종류 O O
+O O
+O B-떡종류 B-떡종류 B-떡종류 O O O
+O O O O O B-평수 I-평수 O O B-매매종류 O O B-횟수 I-횟수 O O
+B-평수 B-평수 O O O O
+B-금액 B-결제수단 O
+B-병명 O
+B-장소 B-제품 O O
+O B-이용가격 O
+O B-고기부위 O
+B-머리카락 O O
+B-고기부위 O O
+O B-의류 O
+O B-재질 B-제품 O
+B-상품 I-상품 B-재료 O
+O O O B-기간 I-기간 O O O O O O
+B-메뉴 O O O
+B-메뉴 I-메뉴 B-수량 O
+O O
+B-메뉴 I-메뉴 O B-수량 O
+O B-메뉴 O O O
+O B-부속물 O
+B-메뉴 O O O O
+B-시간 B-인원 O
+O B-수량 I-수량 O O O
+O B-수량 O O O
+B-색상 I-색상 O O O O
+B-영수증종류 O
+B-메뉴 O B-사이드 O O O O
+B-고기종류 O
+B-색 B-색 O
+O O B-인원 O
+B-결제방식 O
+O B-결제방식 O O
+B-인원수 O O
+O O B-수량 O
+O B-의류 O
+B-대상 O
+B-위탁물종류 B-서비스종류 O O O
+B-제품 O
+B-메뉴 O
+B-중국집메뉴 B-주문수량 O O
+B-제품 O O
+B-메뉴 O
+B-팩종류 O B-피부질환 B-수량 I-수량 O O O O
+B-시간 O O O O
+O B-떡종류 O O
+O B-음료 O O O
+B-결제수단 O O
+B-온도 B-메뉴 O O O
+B-카드종류 O O
+B-색상 O O O O
+B-장소 O O
+B-메뉴 B-수량 B-메뉴 O
+B- B- B- B- B-
+O B-수량 O O
+B-대상 B-제품 O O
+B-온도 B-메뉴 B-수량 O
+O B-수량 O O
+B-장소 B-위치 O O B-위치 O O O
+O B-제품 O O
+B-온도 O
+B-달 B-날짜 O O O
+B-재료 B-재료 O B-수량 O
+O B-음식종류 B-음식종류 O O O
+B-이용시간 O O
+B-운동시설 O O O
+B-비품 O O
+B-반찬 O O
+B-메뉴 B-수량 I-수량 O B-수량 I-수량 O B-음료 O
+B-음료 O O
+B-평수 B-매물 O O
+O O O O O O O
+B-메뉴 I-메뉴 O O O O
+B-메뉴 O O
+O O B-음식종류 O
+O O B-수량 I-수량 O O
+B-날짜 B-예약시간 O
+O B-메뉴 I-메뉴 O O O
+B-멤버십가격 O O
+B-평수 O O O B-매물 O
+B-메뉴 B-수량 O
+B-제품 O
+O B-사이즈 O
+O
+O O O O
+B-제품 O O
+B-수량 I-수량 O O O O
+O O O
+B-신체부위 O O
+B-소스 O
+B-실내 O O O O
+B-색상 O B-부품 O B-제품 O O O
+B-메뉴 B-수량 O
+O
+B-위탁물종류 O O O O
+O B-제품 O O O
+B-메뉴 O O
+O O O O
+B-성별 B-성별 O
+B-메뉴 B-금액 O O
+O B-머리카락길이 O
+B-메뉴 O O O O O
+B-비품 O O O
+O B-이용석번호 B-음식메뉴종류 B-수량 B-음식메뉴종류 B-수량 O
+B-메뉴 B-사이즈 O O
+B-고기부위 O O
+B-요일 O O
+O O O O B-수량 O
+B-예약일 O O
+B-결제수단 O
+B-세트메뉴 O O
+O B-색상 O
+B-시간 O O O O
+O O O O
+B-메뉴 O
+B-메뉴 O O
+O O B-맛 O
+B-메뉴 B-수량 O
+O O
+O B-색상 O O
+O O
+B-제품 O O
+B-과일종류 O O
+O B-메뉴 B-수량 I-수량 B-메뉴 I-메뉴 B-수량 O O
+B-떡종류 O O
+B-커피종류 B-용기종류 O B-액체종류 O O O
+B-메뉴 O
+B-구획단위 O O O
+B-중량 I-중량 O O
+B-재료 O O O
+B-커피종류 B-잔수 O O
+O B-제품 O O O
+O O O O
+O
+O O O
+B-음료종류 O O
+B-호칭 O B-염색종류 O
+B-과일종류 O O
+B-과일종류 O O O O
+O B-화장품종류 O
+B-메뉴 O
+B-옷종류 O O O
+B-메뉴 O O O
+O B-수량 O
+B-사이드 O O O O
+B-아파트명 O
+B-조리법 O O
+O B-수량 O O
+O O B-과일종류 B-과일종류 O O
+B-옷종류 O O O
+O B-메뉴 O O O O O
+O O O O B-금액 O
+B-메뉴 I-메뉴 B-재료 B-재료 B-수량 I-수량 O O O O
+B-메뉴 B-재료 O
+B-장소 O O
+B-인원 O O
+O O O B-가방종류 O
+O O B-금액 B-할부 O
+O O O B-메뉴 B-수량 B-수량 B-메뉴 O O O
+B-재질 O B-색상 O O
+B-인원 O O O
+B-대상 O O O O
+B-메뉴 I-메뉴 B-사이즈 O O
+O O O O
+B-소재 O O
+B-케이크종류 O O
+B-성분 B-성분 O B-의약외품종류 O
+O O B-메뉴 B-수량 O
+B-메뉴 B-수량 O
+B-커피종류 B-수량 O O
+O B-대상 B-제품 O O
+B- B- B- B- B- B- B-
+B-진도 I-진도 O O
+O B-평수 O O
+B-시간 O B-떡종류 O
+B-옷종류색상 B-위탁물종류 B-서비스비 O
+O B-의류 O
+B-고기부위 O
+O B-소재 O O
+O B-반찬 O O O
+O B-메뉴 B-재료 O O
+B-아파트이름 I-아파트이름 B-임대종류 O
+B-카드종류 I-카드종류 O O O
+B-반찬 O O
+B-과일종류 O
+B-메뉴 O O
+B-케이크이름 O O O O
+B-정해진장소 I-정해진장소 O B-개수 O O O O O O O
+O O B-횟수 O O
+O O B-제품 O
+O B-가짓수 O
+B-제품 O O
+B-예약인원 O O O O
+O O O O
+O O B-이용시간 O O
+B-이용시간 O
+O O B-소재 O O
+B-빵종류 O O
+B-성분 B-메뉴 O
+B-투여일수 I-투여일수 B-가격 O
+O B-메뉴 O O O
+B-메뉴 O
+O B-의류 O
+B-채소종류 O O
+O B-제품 O
+B-곡물종류 O B-비용 O O
+O B-외부 O B-매물 O O
+B-시간 B-시간 I-시간 O O
+B-메뉴 O O
+B-과일종류 O O O O O
+B-용도 O O O
+O B-피부상태 B-화장품종류 B-수량 O
+O O O B-수량 O O
+B-나이 O O O
+O B-상품 O O
+B-아파트명 O
+O B-메뉴 I-메뉴 B-재료 O O
+O O O
+B-일회용컵 B-수량 O O O
+O O O B-스타일 O
+B-색상 O B-색상 O
+B-이용기간 O
+O O B-토핑 O
+O B-반찬 I-반찬 B-수량 O O
+B-커피종류 B-잔수 O O
+B-메뉴 O O
+O B-메뉴 O O O O
+O O O B-층수 O
+B-음료종류 O O O
+B-과일종류 O O O
+B-음식용도 I-음식용도 O O O O
+O O O
+O B-음료 O O O
+O B-인원 O B-기간 O O B-방종류 O O
+B-메뉴 O O
+B-메뉴 O O O
+B-메뉴 B-수량 O O
+O O B-제품 O
+B-결제방식 O
+O O
+B-메뉴 O O O
+B-증상 O O O O B-특정기간 O O
+B-온도 O O
+B-메뉴 O O
+B-약구성형태 O O O
+O O O O O B-위치 O O O O
+B-아파트이름 O O O O O O
+O B-온도 B-메뉴 B-사이즈 I-사이즈 B-수량 O O
+O B-색상 I-색상 B-횟수 I-횟수 O O O
+B-메뉴 I-메뉴 O B-수량 O
+O O
+B-날짜 I-날짜 B-기간 O O O
+O O B-온도 B-메뉴 B-메뉴 O O
+O B-의류 O O
+O B-수량 I-수량 O O
+B-영수증종류 O O
+B-음식메뉴종류 O
+O B-색상 O
+B-약종류 O
+B-메뉴 I-메뉴 B-메뉴 O
+B-시술 I-시술 O O
+B-평수 I-평수 O O O
+O B-돼지고기종류 O
+B-과일종류 O O
+B-음식종류 O O B-고기종류 O O O
+B-미용시술종류 O B-미용시술종류 O O O O
+B-기간 O O O
+O B-머리카락길이 O O O
+B-시간 O O
+O O B-순도 O O
+B-집종류 B-매물종류 B-가격 O O O
+O B-재료 O O
+O B-과일종류 O O O O O O
+B-메뉴 O O
+O B-케이크종류 O O O O O O O O
+B-제품 O O O O O O
+O B-재료 O
+B-수량 O
+O B-색 B-신발종류 O
+B-메뉴 B-수량 B-메뉴 B-수량 O O
+B-카드종류 O O
+B-화장품종류 B-화장품종류 B-화장품종류 O
+O O O
+B-메뉴 B-음료 B-음료 B-사이즈 O
+O B-원두종류 O
+B-음식종류 O
+B-메뉴 O
+O B-의약외품종류 O
+B-평 O O B-아파트명 B-가격 O O O O
+O B-할인율 O O O O
+B-인원 O O O
+O O
+O B-메뉴 O
+B-메뉴 O B-재료 O
+O O O O
+B-임대종류 O O O
+B-메뉴 O
+O O O O O B-주거형태 O O
+B-비품 O
+B-과일종류 O O O O
+O O O
+B-부위 O O B-약품 O O
+B-색상 B-횟수 O O O
+B-매물정보 O O
+O B-대상 O
+O O O B-메뉴 O
+B-장소 O O O O O
+B-비품 B-수량 O
+B-시간 O O O
+B-제품 O O
+B-비타민종류 I-비타민종류 O O
+B-숙박처종류 O O
+O O B-반찬종류 O O O O
+B-악기 O O
+B-사이즈 B-사이즈 B-수량 O O
+B-사이즈 O
+B-메뉴 O O B-재료 O O
+B-메뉴 O O O
+B-가짓수 O O O O O
+O O O B-용도 O B-과자종류 O
+B-메뉴 O O
+B-스타일 O O O
+O B-무게 O
+O B-중량 O O
+O O O
+B-떡종류 B-쌀종류 O O
+B-비품 O O
+B-토핑 O O B-금액 O O O
+B-메뉴 B-수량 O
+O O O
+O B-화장품종류 B-화장품종류 O O
+B-메뉴 B-수량 O O
+O O O O
+B-사이즈 O O
+B-메뉴 B-수량 O O
+B-방종류 O O
+B-토핑 O O
+B-결제방식 O
+O B-사이즈 O
+B-호칭 B-음식종류 B-음식종류 B-음식종류 O B-음식종류 B-수량 O
+B-월 B-일자 O O
+O B-수량 O O
+B-바지종류 O
+B-음식종류 I-음식종류 O O
+B-단지명 B-매매종류 O
+B-제품명 O O O O
+B-생강식품 O
+B-가구종류 B-가구종류 B-가구종류 O O O O
+O
+B-사이드 O O O
+O B-약종류 O O
+B-계절 B-제품 B-제품 O
+B-메뉴 I-메뉴 O O
+B-메뉴 I-메뉴 O B-수량 O
+B-제품명 O
+B-금액 I-금액 O O
+O O O
+B-약종류 O O O
+B-메뉴 I-메뉴 O O
+B-시술 O
+B-음식종류 O O O O
+B-방종류 B-가구종류 B-수량 O O O O O O O O O O O O
+O B-메뉴 B-수량 O
+B-옷종류 O O
+O O B-제품 O
+O O O
+B-장식 O O O O
+O
+B-메뉴 O O
+O B-이용시간 O O
+B-수량 O B-과일종류 O B-과일종류 O O
+O O O B-메뉴 O O O
+O B-음식종류 B-수량 O O
+O B-사이즈 B-사이즈 O O O
+B-용품 O
+B-메뉴 I-메뉴 O O
+O B-과일종류 O O B-과일종류 O O O
+B-메뉴 O O
+B-색상 O
+O B-메뉴 O
+B-성별 B-제품 I-제품 B-수량 O O
+B-메뉴 B-포장 O O
+B-메뉴 B-수량 O
+O B-메뉴 O
+B-방종류 B-방종류 O O O O
+B-메뉴 B-재료 O O O
+B-메뉴 O
+O B-재료 O B-재료 O
+O B-메뉴 B-수량 O
+B-메뉴 B-수량 O
+B-열람실종류 O O
+B-약의형태 O O
+B-이용요금 O O
+B-주거형태 B-비용 O O B-임대종류 O O O O
+B-위탁물종류 B-수량 O O O O O
+O O O O B-재질 O O O O O
+O O O O
+B-메뉴 O O O O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+B-옷종류 B-수선위치 O O O O
+O B-빵종류 O O O O O O
+B-음식종류 O O O
+B-시간 I-시간 B-요일 O O
+O O B-채소종류 O O
+O O O O
+B-과일종류 O O
+O O B-미용종류 O
+O
+O B-엑세서리 O
+B-과일종류 O B-그릇종류 O
+B-온도 B-메뉴 O O B-수량 O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+B-요일 O
+B-의약외품종류 O O
+O O O O O
+O O O O
+B-메뉴 O
+B-메뉴 B-재료 O O O O
+O O
+B-장소 O O O B-메뉴 I-메뉴 O O
+B-메뉴 B-맵기 O O O
+B-기간 O O
+B-음식가격 O
+B-고기부위 B-무게 B-용도 O O O
+B-옷부위 O O O O
+B-음식종류 O O O O
+B-메뉴 B-메뉴 O
+B-스타일 O O
+B-평수 O O O O
+B-재료 O O O
+B-초종류 I-초종류 O O O
+B-메뉴 O O O
+B-메뉴 B-메뉴 B-수량 O O
+B-메뉴 B-메뉴 O B-인원 O O O O
+B-채소종류 B-수량 I-수량 O O
+O B-수량 I-수량 O O
+B-메뉴 B-메뉴 B-메뉴 B-메뉴 B-수량 I-수량 O O O O
+O B-메뉴 O O
+O B-메뉴 B-수량 O
+B-제품 O O
+B-금액 O
+B-온도 O O
+B-직업 B-가격 O
+B-메뉴 O
+B-맛 O O
+B-중량 I-중량 O O O
+O O O O
+B-부위 O O B-약품 O
+B-색 O O
+O B-음식메뉴종류 B-수량 O
+B-이용기간 I-이용기간 O O
+O B-날짜 O O O
+B-비품 O O O O
+O B-미용종류 O O O
+O B-고기종류 O O O
+O B-재질 O
+B-박스수량 O O
+B-사이즈 O O
+B-메뉴 O O O O
+B-단계 O O
+O B-의류 O O B-사이즈 O
+B-제품 O
+O O B-결제수단 O
+O O O B-수량 O
+O B-시간 O O
+B-음식종류 O B-음식재료 O O
+O B-바지종류 O O
+B-반찬 O O O
+B-메뉴 I-메뉴 B-수량 O
+B-메뉴 O O
+B-사이드 O
+B-시술 O O O O
+O O O O
+O O O
+B-서브메뉴 O O
+B-메뉴 B-재료 O
+B-온도 O O
+O B-평수 I-평수 O B-가격 O O
+O B-충전재 O
+O B-수량 O
+B-시세 I-시세 O O
+O B-시간 B-시간 I-시간 O O
+O B-성별 O O O B-성별 O B-인원 O
+B-메뉴 B-수량 O
+B-메뉴 O B-위치 B-재료 O
+O B-음료 O O
+B-메뉴 B-수량 O
+B-증상 B-제품명 O O O O O
+O B-온도 O O O
+O O O O
+O O O B-수량 O
+O B-메뉴 O B-온도 O
+O B-메뉴 B-메뉴 B-수량 O
+O O O
+B-토핑 O O
+B-수량 I-수량 B-가격 O
+B-음식메뉴종류 B-수량 O
+B-메뉴 I-메뉴 O O O
+B-메뉴 B-온도 O
+O O B-스타일 O O O B-스타일 O O O
+B-요일 O O
+O B-인원 O B-미용사 O B-시술 O
+O B-평수 O O
+B-메뉴 I-메뉴 O O
+B-사이즈 B-사이즈 I-사이즈 B-수량 O O O
+O B-음료종류 B-주문수량 B-음료종류 B-주문수량 O
+O B-제품 O
+B-제품명 O
+O B-생활용품 O
+B-과목 B-수강료 O O
+B-상품 B-중량 O O
+B-이용시간 O
+B-메뉴 O O
+B-이용시간 O
+B-영수증 O O O
+B-고기종류 B-용도 B-무게 O O
+B-횟수 I-횟수 O O
+B-메뉴 O O
+B-옷종류 O O O O
+O O
+O B-음료 O O O
+B-돼지고기종류 B-무게 O O
+B-떡종류 O
+B-메뉴 B-수량 O
+B-메뉴 O O O
+B-기간 I-기간 O O O O O
+B-온도 B-메뉴 I-메뉴 B-수량 O
+B-메뉴 O O
+O O B-결제방법 O
+O B-색상 B-사이즈 B-수량 O
+B-메뉴 I-메뉴 O O
+B-업소명 O B-이용시간 O O
+O B-의류 O
+O B-메뉴 I-메뉴 O O
+B-케이크종류 I-케이크종류 O O O
+O B-수량 O B-메뉴 B-수량 O
+O O B-가격 O O
+B-메뉴 I-메뉴 O O O O O O
+B-옷부분 O O
+B-메뉴 O
+B-메뉴 B-온도 O
+O B-가격 O O
+B-메뉴 O O O
+B-세트메뉴 O
+B-반찬 B-식기 B-수량 O
+O O
+B-약품형태 O O B-약품형태 O O O
+B-색상 O O
+O O O
+O B-메뉴 I-메뉴 B-사이즈 B-수량 O
+B-온도 B-메뉴 O
+O B-커피종류 O O
+B-소고기종류 O O O
+B-빵종류 O
+B-샐러드 I-샐러드 B-재료 O O O
+B-메뉴 O
+B-옷종류 I-옷종류 O O O B-옷종류 O O O
+O B-제품 O
+B-떡종류 O O O O
+B-메뉴 I-메뉴 B-수량 O
+O O O O B-제품 O O
+B-식기 O O
+O O O B-수량 O O B-수량 O O
+B-포장봉투종류 O O O O
+O O B-시간 I-시간 O O
+B-기간 O O O
+B-사이즈 O O O
+B-수량 O O
+B-메뉴 O
+O B-배달지 I-배달지 O O O O
+B-온도 O O O
+B-메뉴 O
+B-메뉴 I-메뉴 O O O O
+B-제품 O O
+B-메뉴 O O
+O O
+B-인원 O O O
+B-이용시간 B-이용방법 O
+O B-온도 O O O
+B-제품 O O O
+B-건축물 O O O B-건축물 O
+O O O B-음료종류 O O
+O B-사이즈 O O
+O O O
+B-상품 O
+O B-재질 O
+B-메뉴 B-사이드 O
+B-메뉴 O O O O O O O
+B-메뉴 O O
+O B-토핑 O
+O B-대상 O
+B-메뉴 O O
+B-과일종류 O
+O O B-커피종류 I-커피종류 O O
+B-토핑 O
+B-컵 O O
+B-화장품성분 B-화장품종류 O
+O B-메뉴 O
+B-화장품종류 O O
+O O O B-음식종류 O O O O O
+B-메뉴 O
+B-호칭 B-옷종류 O O O
+O B-메뉴 B-메뉴 B-메뉴 O B-음료 O O
+B-결제수단 O O O
+B-메뉴 B-수량 O O
+B-시간 O O
+O O B-과목 B-과목 O O O
+O B-수량 O
+O O
+O B-색 O O O
+O B-장소 O O O
+B-용기종류 O O
+O O B-수량 I-수량 B-메뉴 B-사이즈 O
+B-시간 O O O
+B-재료 O
+O B-음식메뉴종류 B-수량 O O
+B-맵기 O O
+O O O O O
+B-고기부위 B-원산지 B-원산지 O
+B-집종류 B-평수 O O
+B-반찬종류 B-전종류 B-나물종류 O
+O O
+O B-떡종류 O
+B-날짜 B-시간 O B-제품 B-제품 O B-제품 O O
+B-상품 I-상품 O O O
+B-시간 I-시간 B-시간 O O
+B-소스 O O O
+B-옷종류 O O B-수선위치 O O B-수선방법 O O
+O B-반찬 B-수량 O
+O O O
+B-메뉴 I-메뉴 O O O O O O O
+B-금액 B-사이즈 O O
+B-제품 O O O O
+B-수량 O B-채소종류 O O O
+B-용도 O O O
+B-인원 O O O B-방종류 O O
+B-증상 O O O O O O
+O B-떡종류 O
+O O
+O O B-당구종류 O O O
+O O O O
+O B-당구공종류 O O
+O B-결제수단 O
+B-호칭 O O O
+B-양념 B-양념 O B-양념 O
+O O
+B-메뉴 B-수량 O O
+O
+B-메뉴 O B-메뉴 O O B-맛 O O
+B-반찬 O O O
+B-메뉴 I-메뉴 B-수량 O O
+B-화장품종류 O O
+O O B-무게 O
+O O B-온도 B-메뉴 O
+B-메뉴 I-메뉴 B-수량 O O
+B-메뉴 B-수량 O
+B-매물형태 B-전세금 O O O
+O O B-메뉴 B-수량 O
+B-메뉴 I-메뉴 O O O O
+O B-매물 O
+B-결제수단 O
+O
+B-음료종류 O O O
+B-식기 O O
+B-온도 O O O
+O B-제품 O
+O B-메뉴 B-재료 B-재료 O
+B-과일종류 O
+B-위치 O
+O B-온도 B-메뉴 O
+O B-약구성형태 O
+O O B-결제방식 O O
+B-메뉴 B-수량 B-메뉴 B-수량 B-메뉴 O O
+O B-색 B-생활용품 O
+O O
+B-메뉴 B-수량 O O
+O B-메뉴 O
+B-의류 O
+B-메뉴 I-메뉴 B-재료 O O O
+O B-색상 O
+O O O O O O
+B-평수 O
+B-메뉴 O
+B-음식종류 O O O O O O
+O B-메뉴 B-수량 O O
+B-맛종류 O O
+B-대상 B-상담 O
+B-메뉴 B-수량 O
+O O
+B-온도 O
+B-기간 B-열람실종류 B-가격 B-열람실종류 B-가격 O
+B-온도 B-메뉴 B-메뉴 O O
+B-메뉴 O O
+O B-제품 B-제품 O
+O O B-컵종류 O
+O O B-색상 O
+B-증상 O O
+B-시기 O O
+O B-증상 O O O O B-계절 O O O O
+B-성별 O
+B-시간 O O
+B- B-떡재료 O
+B-메뉴 B-온도 O O
+O B-이용시간 B-이용가격 O
+B-온도 B-메뉴 B-수량 O O
+O O O
+O O O O B-색상 O O O O
+B-소요시간 I-소요시간 O O
+O O B-빵종류 O O B-빵종류 O O
+O B-귤종류 O
+B-메뉴 B-음료 O O
+B-돼지고기종류 O O O
+B-색상 O
+B-메뉴 O
+O B-대상 O O
+O O
+O O B-제품명 B-개수 O
+B-메뉴 B-재료 O
+O O O O O O O B-메뉴 O O O
+B-과일종류 B-수량 O
+B-부위 O
+O O B-방종류 O
+B-행사 O O O
+O B-의류 O
+O B-귤종류 O
+B-식기 O O O O O O O
+B-토핑 B-재료 O
+B-식기 O O
+B-인원 O O
+B-제품 O B-위치 O O
+O
+O O O O O O
+B-재료 B-재료 O
+B-화장품제품이름 O O
+B-떡종류 O O O
+O B-미용종류 B-미용시간 O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+B-결제방법 O O
+O O B-인원수 O O
+B-빵종류 O O
+B-메뉴 B-메뉴 B-음료 O
+B-재료 O
+B-화장품종류 I-화장품종류 I-화장품종류 O O O O
+B-메뉴 I-메뉴 O O
+O B-수량 O O
+O O O B-평수 O O
+O B-사이즈 O
+B-메뉴 O O
+O B-과자종류 O
+B-온도 B-메뉴 B-수량 O O B-수량 O
+B-재질 O O
+B-메뉴 B-수량 O
+B-대상 B-성별 O
+B-과일종류 O O O
+B-대상 O O O O B-나이 O O
+B-이용형태회원 O O O
+O O B-음식종류 O
+B-성분 B-성분 O B-의약외품종류 O
+B-음식용도 B-돼지고기종류 O O O
+B-메뉴 B-메뉴 O O O
+B-아파트이름 O O B-주거시설 O O
+O B-수량 O B-재료 B-재료 O
+B-비품 O O O
+B-메뉴 O O
+O B-수량 O O
+O B-이용시간 O O
+B-크기 O B-수량 O
+O O O
+B-제품 O
+B-옷종류 O O
+B-메뉴 O
+B-술 B-술 B-술 O
+B-마카롱종류 B-수량 O
+B-음식종류 O O B-무게 O
+B-반찬 O O O
+O B-입지정보 O O O O O B-장소 B-매물 O O O
+O B-할인수단 O
+O O B-증서 O
+O O B-제품 O
+B-시기 O O B-주거시설 O O O O O O
+B-인원 I-인원 O O O
+B-당구종류 B-이용요금 O
+B-요일 O
+B-예약일 O B-요일 O
+B-수량 I-수량 O O
+O B-증상 O O
+B-위치 B-위치 O O
+O B-장소 O B-위치 O O O O
+B-반찬 I-반찬 O O O
+B-메뉴 I-메뉴 O O
+B-증상 I-증상 O O O O O
+O O O O B-매물 O
+B-메뉴 O O O
+B-지역 O O O O
+B-장소 O O O O
+B-세트메뉴 O
+B-메뉴 B-금액 B-수량 O
+B-인원 O O O
+O O O
+O O
+B-메뉴 B-온도 B-수량 O
+O B-제품 O
+B-메뉴 O O
+B-소재 O O
+O B-금액 B-수량 O O
+B-빵종류 B-빵종류 I-빵종류 B-수량 O O
+O O O
+B-아파트이름 O O O
+B-메뉴 I-메뉴 B-수량 B-음료 O
+O O O
+O B-장소 O B-평수 B-장소 O B-평수 O
+O B-빵종류 O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+O B-조각수 B-조각수 O
+B-성별 B-옷종류 I-옷종류 O O
+B-메뉴 O O O
+B-메뉴 I-메뉴 O O O
+B-부위 O O
+B-메뉴 O
+O B-할인종류 O O
+O O B-금액 O O O
+B-메뉴 I-메뉴 B-수량 I-수량 O O O
+B-음료종류 O
+B-떡종류 B-수량 O O
+B-주거시설 O
+O O B-메뉴 B-맛 O
+B-시간 I-시간 B-요일 O O O O
+B-뷰종류 B-뷰종류 I-뷰종류 O O O O
+O O O
+B-크로켓종류 I-크로켓종류 O O
+B-식기 B-수량 O
+B-메뉴 O O O O
+B-재료 B-온도 B-메뉴 B-수량 O
+B-떡종류 O
+B-메뉴 I-메뉴 I-메뉴 B-재료 O O
+O O O B-수량 O O
+B-가방종류 O O
+O O B-소재 O O
+O B-제품 O O O O
+O O O O
+O
+B-신체부위 O O O
+O B-용도 O O
+O
+O B-감종류 O O
+B-의류 B-의류부재료 O O O O
+B-반찬 O O O
+B-메뉴 B-메뉴 O
+B-떡종류 O
+O B-수량 I-수량 B-가격 O O
+O B-예약일 O O
+B-미용종류 O B-미용종류 O
+O O O O O B-예약시간 O O
+O B-제품 O B-제품 O
+B-재료 B-재료 O O
+B-과일종류 O O O O O O O
+B-금액 O O O O O O O
+B-음식종류 O O O O
+B-세트메뉴 O
+O B-결제방식 O
+B-메뉴 O
+B-빵종류 O O O O O O O
+B-제품 O O O O
+B-떡종류 O
+B-방향 O O B-위치 O O B-장소 O
+O B-시간 O
+B-메뉴 I-메뉴 B-수량 O
+O B-가방종류 O O
+O
+B-식기 O O O
+B-옷종류 O O O
+O
+O B-음식종류 O O
+O B-립제품 O O O O
+B-비품 O O O
+B-메뉴 O O
+B-화장품종류 O O O
+B-대상 O O
+B-고기부위 O
+B-아파트명 O O
+O B-도구 O O O O O O O O O O
+B-제품 O O
+O O B-이용시간 I-이용시간 O O O
+O O O
+B-국종류 B-수량 O O
+B-옷종류 B-옷종류 O O O O
+B-옷종류 I-옷종류 O O
+O B-시간 O
+B-화장품브랜드 O
+B-메뉴 B-메뉴 O
+B-온도 B-메뉴 B-온도 B-메뉴 O O O
+O O
+B-결제수단 O O
+O B-위치 B-주거시설 O O B-아파트이름 O
+B-사람수 O O O
+O B-이용시간 O O
+O B-제품 O O
+B-제품 B-소재 O O
+O O O O O O
+B-구획단위 O O
+B-스낵종류 B-스낵종류 B-음료종류 O
+O O O O O O B-위치 O O O
+B-제품 O O O
+B-채소종류 B-수량 O O
+B-식기 O O O
+B-옷종류 O
+B-돼지고기종류 B-무게 O O
+B-메뉴 B-재료 O O O
+B-고기부위 O B-가격 O O
+B-객실종류 O
+B-가짓수 O
+O B-국가이름 B-음식종류 O O O
+O B-인원 O O
+O O O
+B-메뉴 O O
+O B-메뉴 B-인원 I-인원 O O O B-메뉴 O O
+B-고기부위 O O
+B-메뉴 B-수량 O O
+O O
+B-사이드 O O
+B-메뉴 O O
+B-메뉴 O O
+O O O O O B-아파트명 O
+B-약종류 O O O
+B-메뉴 I-메뉴 B-수량 O O
+B-장소 O B-위치 B-장소 B-위치 O O O
+B-식기 B-수량 O
+O B-평수 O O O B-수량 O O O O O
+O B-의류 O
+O B-제품 O O O O
+B-집종류 B-매매종류 O O O O O O
+B-토핑 O O O O
+B-제품 O
+O O O
+B-메뉴 I-메뉴 O O O O O
+B-제품 O O
+B-아파트이름 B-평수 O O O O
+B-음식용도 B-원산지 O O O
+B-과일종류 O O
+B-아파트이름 I-아파트이름 O O
+O O O O O O O
+O O O O B-시간 O O
+B-매물 O O O
+B-연령대 B-인원 O O O O O O
+O B-부위 O
+B-용도 O
+O B-메뉴 B-수량 O
+B-인원수 B-이용시간 O
+B-사과종류 O
+B-날짜 O O B-수량 O
+O O
+B-메뉴 B-수량 I-수량 B-메뉴 B-수량 O O
+O B-제품 O
+B-곡물류 O O O O
+O B-생활용품 O B-생활용품 B-재질 O
+B-차종류 O O
+B-가격 O O
+O B-재배방식 O
+O B-색상 B-색상 O O
+B-비품 O O
+B-수업 I-수업 O O O
+B-반찬 O O O
+O O O B-수량 O
+B-옷종류 O
+B-제품 O O O
+B-날짜 B-반찬 I-반찬 I-반찬 O O O O
+O B-의류 O
+B-생활용품 B-수량 O
+O B-메뉴 O B-농도 O O O
+B-방종류 O O
+B-떡종류 B-가격 O B-곡물종류 O
+O O O O
+O O O O O
+O B-대상 O O O O
+O B-제품 O
+B-커피종류 B-잔수 O O
+B-고기종류 O O O O O O
+B-메뉴 O O
+B-옷종류 O O B-옷종류 O O O O
+O B-이용시간 O
+B-맛 O B-메뉴 O O O
+B-메뉴 B-수량 O
+O O O B-수량 O O
+O B-횟수 O O
+B-빵종류 O O O
+B-제품 O O
+B-메뉴 B-수량 O O
+B-장소 O O
+O B-메뉴 O O
+B-나이 O O
+O B-의류 O
+B-과일종류 O
+O B-토핑 O
+B-메뉴 B-온도 O O
+O B-메뉴 B-수량 O
+B-방종류 O O O O
+B-메뉴 O O O
+B-적립수단 O O
+B-시간 I-시간 B-요일 O O
+O B-메뉴 O O O
+O O B-사이즈 O O
+B-이용시간 I-이용시간 O O
+B-메뉴 O O O B-일회용컵 O O
+O O O B-기간 B-횟수 O O
+B-장소 O
+O O O
+O O B-금액 O O
+B-메뉴 O O
+B-과일종류 B-수량 I-수량 B-과일종류 B-수량 O O
+B-이용시간 O O O
+O B-인원 O O O O
+B-계약종류 O
+B-아파트명 O O O B-가격 O O O
+O B-음식종류 O B-식물종류 O O O
+B-인원 O O O O O O O
+B-온도 B-메뉴 B-수량 O O
+O B-매물 O O
+B-제품 O O
+O O O B-기간 I-기간 B-연령대 B-인원 O O
+B-소재 B-중량 I-중량 I-중량 B-제품 O O O
+O O O O B-재료 O O B-재료 O O O O O
+O B-색상 B-캐릭터 B-제품 O
+O B-쿠키종류 I-쿠키종류 O O O
+B-메뉴 O O
+B-메뉴 B-재료 O
+O O O
+O O O O O B-주거시설 O
+B-메뉴 O O O O O O O
+B-온도 B-메뉴 B-수량 O O
+O B-결제방식 B-결제방식 O O
+O O O O B-업소명 O O
+O O B-색상 B-수량 O
+B-비품 O O
+O O O
+O O O B-수량 O O B-수량 O
+B-메뉴 B-온도 B-수량 O
+O O B-메뉴 O O O O
+B-시세 O O
+O B-수량 O O
+B-메뉴 I-메뉴 O O B-음료 O O
+B-과자종류 B-연령대 O
+O B-떡종류 O O O
+O O B-제품 O
+O O O O B-수량 O
+B-상품 B-수량 O O
+B-당구종류 B-이용시간 O O
+O B-이용시간 O
+B-가짓수 I-가짓수 O B-증상 O
+O O O B-미용종류 I-미용종류 O B-미용종류 I-미용종류 O O O
+B-인원 B-기간 O O
+B-온도 B-메뉴 B-수량 B-메뉴 B-수량 O
+B-온도 B-메뉴 B-수량 I-수량 B-메뉴 O O O
+B-신체부위 O O O
+B-제품 B-수량 O
+B-떡종류 B-떡종류 O
+B-제품 I-제품 O O
+B-제품 I-제품 O O
+O B-수량 O O
+B-재질 O O O O
+B-신체부위 B-신체부위 O
+B-사이즈 O O
+O B-색상 O O
+B-대상 B-제품 O O
+B-고기부위 O
+B-메뉴 B-수량 O
+B-메뉴 B-맵기 I-맵기 O O
+B-반찬 O
+B-과일종류 B-수량 I-수량 B-과일종류 O O O
+B-제품 O O
+B-메뉴 O O
+B-반찬 O O O
+O O B-수량 O O
+B-온도 B-메뉴 O
+O O B-제품 O
+O B-가격 I-가격 B-의류 O O O
+B-위치 B-집종류 O O O
+B-특정시간대 O O O O O
+B-시간 O O
+O B-메뉴 B-수량 O O
+O B-예약시간 O O
+B-토핑 B-토핑 I-토핑 B-토핑 O O O
+B-재료 O O
+B-고기종류 B-용도 B-무게 I-무게 O O
+O O
+B-메뉴 O O
+O O B-평수 I-평수 O O B-평수 I-평수 O O
+B-메뉴 O O O
+B-온도 B-메뉴 O
+O B-색 B-의류 O
+B-달 B-시간 I-시간 B-시간 O O B-요일 B-수량 B-날짜 O O
+O B-과일종류 B-과일종류 O B-음식종류 O
+O B-호칭 B-수량 O O O O
+O B-의류 O
+O B-수량 O O O
+O B-메뉴 B-재료 O
+B-과일종류 O
+B-화장품종류 O B-화장품종류 O O O
+B-재질 O O
+B-메뉴 B-사이즈 O
+O B-의류 O
+B-메뉴 I-메뉴 B-수량 O O
+B-적립수단 O
+B-메뉴 O
+B-재료 B-수량 O O
+B-이용시간 O
+O B-행사 O O O O O
+O O
+B-떡종류 O O
+O B-메뉴 O O
+O O B-수량 O O
+O O
+O B-색상 O
+B-식빵종류 I-식빵종류 B-시간 O O O
+B-성별 B-용도 O
+B-재료 I-재료 O O O
+O B-머리카락 B-머리카락길이 B-미용종류 O O O
+B-제품 O O
+O B-제품 B-스타일 O O
+O B-시간 O O
+B-평수 I-평수 O O O O
+O B-제품 O
+O O B-주변기기 O O
+B-온도 B-메뉴 B-수량 O
+B-호칭 B-소부위 O O O O
+B-메뉴 O
+B-인원 O O
+B-결제수단 O B-결제수단 O O
+B-메뉴 B-메뉴 B-메뉴 B-메뉴 O O O
+O B-음식재료 O O O O
+B-임대종류 O
+B-반찬종류 B-개수 O O O
+B-피부상태 O O B-수량 O
+O O B-매물 O O O
+O O O
+O O
+O O
+B-미용종류 O
+O O O O
+B-메뉴 B-토핑 O
+O O O O
+O O B-맵기 I-맵기 O O O O
+O B-메뉴 B-수량 O O
+B-당구장비 B-개수 O O O O
+B-음료 O
+O B-메뉴 B-수량 O
+O O O O O O
+O O O
+O B-메뉴 O
+O O O
+B-고기부위 O O
+B-메뉴 O
+B-대상 O O
+B-빵종류 O O
+B-메뉴 O O O
+B-음식종류 B-크기 O
+B-재질 B-위탁물종류 B-옷개수 B-서비스종류 O
+B-제품명 O
+B-검색사이트 O B-음식종류 O B-고기종류 O
+B-메뉴 O
+B-옷종류 B-옷종류 B-수선위치 O O O
+O B-결제방식 O O
+O B-재료 O
+B-제품 O
+O O B-음식종류 O
+B-사이즈 O O O O
+B-제품 I-제품 O O O
+O O O O B-색상 O
+B-색 O B-소재 O O O
+B-금액 O O O
+O B-옷종류 O O O
+O O
+B-메뉴 O O O
+B-음식종류 O O O O
+O O B-색상 O O
+B-호칭 B-옷종류 O O O
+O B-평수 O
+O B-메뉴 B-수량 O
+O O O B-매물 O O O O B-목적 O O
+B-인원 O O B-장소 O O O
+B-메뉴 O O
+O B-부위 O
+B-메뉴 O O
+O B-결제방식 O
+B-시간 O O O O
+B-수프 O O O
+O O
+B-메뉴 O
+O B-매물 O O O O
+O B-수량 I-수량 O O O
+B-고기부위 B-인분 O O
+O B-메뉴 I-메뉴 O O
+B-제품 I-제품 O O O
+O O B-금액 O
+B-옷종류 O O
+O O
+B-약종류 I-약종류 O O
+B-케이크종류 I-케이크종류 B-수량 O
+B-식기 B-식기 O
+O O B-메뉴 O
+B-커피종류 I-커피종류 B-유제품 O
+O O O O O O B-생활용품 O
+B-제품 O O
+B-피부상태 B-화장품종류 O O
+B-약품 O O
+B-메뉴 O O B-소스 O
+B-결제수단 O
+O O O O
+O B-매물위치 B-집종류 B-가격 O O
+B-떡종류 O O O
+B-온도 B-메뉴 O
+O B-메뉴 I-메뉴 B-수량 O
+B-기간 O O
+B-날짜 O O O
+B-메뉴 O
+O O O B-부분 O
+B-쿠폰 O O
+B-증서 B-수량 O
+B-화장품종류 O O
+B-객실종류 I-객실종류 B-시간 B-날수 O O
+O O
+O B-사이즈 O O
+B-당구장비 O O
+B-메뉴 I-메뉴 B-메뉴 O O O
+B-면적 O B-평수 O
+B-옷종류 O B-금액 O O
+O O O O B-제품 O B-장소 O
+O O B-위치 O
+O O B-재료 I-재료 O O
+B-머리카락 O O O
+O O
+B-재료 O O O
+O O
+B-미용시술종류 O O
+B-성별 B-제품 O O
+O O B-재료 I-재료 O O O O
+B-메뉴 I-메뉴 O O O
+B-떡종류 O
+O B-메뉴 B-메뉴 O
+O O O O B-부품 O O O
+B-이용시간 O
+B-메뉴 O O O
+O O B-부품 O O O O O
+B-예약일 I-예약일 O O
+B-제품번호 B-제품번호 O O
+B-주거시설 O O B-주거시설 O O
+O B-재료 O O
+O B-이용시간 O O
+B-메뉴 O B-재료 O O O
+O O O O B-수량 O
+B-과일종류 B-가격 B-과일종류 B-수량 O O
+O O O
+B-색상 O
+B-사이즈 B-재료 O O O
+B-고기부위 B-무게 O
+B-호칭 B-옷종류 O
+B-과일종류 O
+O B-돼지고기종류 O O O O O O O
+B-신체부위 O O B-비타민종류 O
+O O
+O B-온도 O O B-직업 O B-메뉴 O O
+O O B-헤어스타일 O O
+B-대상 O B-시간 I-시간 B-횟수 O O
+B-재료 O O O
+B-메뉴 I-메뉴 B-재료 O O O
+O B-수량 O O O
+O B-떡종류 O
+O O O B-금액 O
+O B-식물류 O O O
+B-아파트이름 B-비용 O O
+B-제품 O O O O O
+B-결제방식 O
+O B-과일종류 B-수량 O O
+B-제품 O O O
+B-떡종류 O O
+O O B-교환권 O
+B-메뉴 O O
+O B-색상 O O O O
+B-제품 O O O O
+O B-수량 I-수량 O O
+B-메뉴 O
+O O B-색상 I-색상 O O O
+O O B-숙박시설 O
+B- B- B- B-
+B-지역 O O
+B-약품명 O
+O O O
+B-장소 B-평수 O
+B-용품 I-용품 O O
+B-메뉴 I-메뉴 O O O
+B-요일 B-요일 O
+B-제품명 O O O O
+O O O
+B-이용석수량 O
+B-부분 I-부분 O O O O O
+O B-메뉴 O O
+O B-매물 O O O O O
+B-결제수단 O
+O O O O O O B-약구성형태 O
+B-당구장비 O O
+O B-가짓수 O O
+O B-재료 O
+O O O
+O B-음식종류 O B-곡물종류 O
+B-과일종류 O O
+O B-수량 O
+O B-금액 I-금액 O O O
+B-음식종류 O O O O
+O B-개수 O
+O B-시간 O O
+O O B-기간 I-기간 B-연령대 B-인원 O O
+O B-제품 I-제품 O O O O
+B-메뉴 O O
+B-온도 O O
+B-가격 I-가격 O O O
+B-반찬 B-수량 I-수량 B-반찬 B-수량 O
+B-사이즈 I-사이즈 O O
+O B-용도 B-상품 B-중량 O O O
+B-메뉴 B-수량 O O
+B-토핑 I-토핑 O O O O
+B-메뉴 B-온도 O O
+O B-제품 O O O
+O B-부위 O
+O B-매물 O
+O B-도구 O O O O B-도구 O
+B-빵종류 O O
+O O
+O O O B-인원 O O O O O O O
+O B-결제방식 O
+O B-시간 O O
+O O B-메뉴 O O O
+B-반찬 O O
+B-메뉴 O O O
+B-차종류 O
+B-결제방식 O
+B-서비스 O O
+O O B-층수 B-건축물 B-건축물 O O O B-건축물 O B-컴퓨터 O B-건축물 O
+O O O O O
+B-대상 O O
+B-제품 O O
+B-메뉴 B-방향 O O
+O B-비율 I-비율 O O
+B-아파트이름 O O
+B-온도 O O
+O O
+B-용품 B-수량 O O
+O B-생활용품 O O
+B-서비스 O O
+O B-피부상태종류 B-크림종류 O O O O O
+B-세트메뉴 O
+B-메뉴 B-음료 B-음료 O O O
+B-메뉴 B-수량 O
+B-메뉴 O O
+O O B-메뉴 B-수량 O
+B-메뉴 B-수량 O
+B-메뉴 I-메뉴 B-수량 O
+B-음식메뉴종류 B-수량 O O
+B-메뉴 B-수량 O
+B-메뉴 O O
+B-메뉴 B-메뉴 O
+B-시간 I-시간 O O O O
+B-메뉴 O O
+B-색 I-색 O O
+B-메뉴 O O
+B-영수증종류 O
+O B-매물 B-날짜 O O O O
+B-토핑 B-재료 O
+O O O
+B-시간 O O O O O
+O O O B-시간 O
+O O B-과일종류 O O O O O
+B-결제방식 O O
+B-색 O O
+B-예약시간 I-예약시간 O O O
+O O O
+B-고기부위 B-무게 O O
+O O O
+B-메뉴 B-메뉴 O B-제조방법 O O
+B-메뉴 O
+O O O O B-스타일 O
+B-메뉴 O
+B-메뉴 O O
+B-메뉴 O
+B-귤종류 O
+B-수량 I-수량 O O B-수량 I-수량 O O O O O O
+B-제품 O O
+B-의약외품종류 O
+B-고기부위 B-무게 O O
+B-직업 O O O O
+O O O O
+B-재료 I-재료 B-방향 O
+B-색상 O O
+O B-개수 O
+B-결제수단 O B-결제수단 O O O
+O B-음식종류 O O
+B-과일종류 O O
+O O
+B-집종류 B-매물정보 O
+B-색상 O O O O O
+B-메뉴 B-온도 O O
+B-메뉴 I-메뉴 B-재료 O O
+O O O O O B-메뉴 B-수량 O
+O B-제품 O
+B-메뉴 I-메뉴 B-수량 I-수량 O O O
+O O O O O B-기간 O O O O
+B-메뉴 B-수량 B-메뉴 I-메뉴 B-수량 O
+O O B-재질 B-제품 O
+B-비품 O O
+O B-반찬 B-음료 O O
+B-메뉴 O O
+B-용도 O O B-용도 O O
+B-식기 O
+O B-수량 O O
+O
+B-주변기기 O
+B-메뉴 O
+O B-재료 O O O B-재료 O B-사이드 O
+B-약종류 O O
+O O B-요일 O O
+O B-화장품종류 O O O
+B-메뉴 O O
+O B-금액 O O O O
+O O O O B-염색종류 O
+B-개수 O O
+B-미용종류 B-횟수 I-횟수 O O O O O O
+O B-약구성형태 O
+B-메뉴 B-수량 O
+B-음료종류 O
+B-이용기간 O O O O
+B-시간 B-매매종류 O O O O O
+O O B-양념 O O O
+B-고기부위 B-무게 O
+O O O O O
+B-음료종류 O
+O B-메뉴 B-음료 B-사이즈 O O
+B-금액 I-금액 O O O O O
+O O
+B-반찬 O O O O O
+B-이용시간 O O O O
+O O B-음료 O
+B-고기부위 B-고기부위 O O O O
+O B-예약시간 O O
+O B-의류 O O O
+B-색상 O B-사이즈 O
+B-위치 B-매물 B-매물 B-계약종류 O O O
+O B-장식 O O
+O O O B-인원 O
+B-식감 O O
+B-화장품종류 O O O
+O O O O O O
+O O B-가격 O O O O
+B-사이드 O
+B-고기종류 B-음식용도 I-음식용도 B-무게 O O
+O
+O B-예약시간 O
+O O B-음료 B-수량 O
+B-메뉴 B-수량 O B-수량 O
+B-과일종류 O
+B-의약외품종류 O O B-개수 O
+O O O
+B-수량 I-수량 B-금액 O O O O O O O O O O O O
+O B-제품 O O O
+O B-메뉴 I-메뉴 B-메뉴 O O O O O
+O O O B-메뉴 O
+B-사이즈 O
+B-성분 B-의약외품종류 B-개수 I-개수 O O O
+B-수량 I-수량 O O
+B-동물부위 B-소고기종류 B-돼지고기종류 B-음식종류 O O
+B-메뉴 O O O
+B-숙박시설종류 O O
+B-예약일 B-예약시간 O O
+O O O B-미용종류 O
+O B-평수 O
+B-시간 O O
+B-방수용인원 O
+B-요일 O O
+B-메뉴 O B-메뉴 O
+B-위치 B-주거형태 B-주거형태 O O O
+O O O O O O O O O
+B-할인수단 I-할인수단 O B-결제수단 O
+B-의약외품종류 I-의약외품종류 B-성별 O B-성별 O O
+O O B-음료종류 O
+B-메뉴 O O
+B-메뉴 B-사이즈 B-수량 O
+B-토핑 O
+O B-음료 O O O O B-음료 O
+O B-신발종류 O
+B-과자종류 O O O O
+B-토핑 O O B-메뉴 B-인원 I-인원 O O O O
+B-빵종류 B-빵종류 O
+O B-적립수단 O
+O O B-색상 O
+B-재료 O
+B-커피종류 I-커피종류 O O
+B-빵종류 O O
+B-과일종류 B-수량 I-수량 O O
+O O O
+O B-음식종류 B-곡물종류 O
+B-재료 O O O B-재료 O
+O O B-용품 O B-용품 O
+B-악기 O O O O
+B-메뉴 O O B-온도 O O
+O O O O O
+O B-재료 O O O O O O O
+B-영수증종류 O
+B-음식종류 O O O O O
+B-토핑 O O
+O B-제품 O O
+O B-상품 B-수량 O
+O B-제품 O
+O B-수량 I-수량 O O O O O
+B-클렌징종류 O O O O O O
+O O B-육류 O
+B-메뉴 O O B-메뉴 O O O
+O O O O B-사이즈 O
+O B-메뉴 B-수량 O
+B-메뉴 I-메뉴 I-메뉴 B-토핑 O O O
+B-인원 O O O
+B-인원 O O O O
+B-메뉴 O O
+B-반찬 O B-수량 I-수량 O O O O
+B-메뉴 B-수량 O
+O O B-수량 I-수량 O O O
+B-메뉴 I-메뉴 O O
+O O B-색상 I-색상 O O
+O B-화장품종류 O
+B-평수 I-평수 O O
+B-인원 O O
+B-일자 B-일자 B-시간 O O
+O O O
+B-온도 O
+O B-수량 O O
+B-재료 B-재료 O O O
+O O O O O
+B-재료 O B-상품 O
+B-메뉴 O O O
+O O O
+B-중국집메뉴 B-주문수량 O
+O
+B-영수증 O O
+O O O O O O O O
+O O O
+O B-반찬 B-반찬 O O
+B-메뉴 O O
+B-수프 O
+O
+B-요일 O O
+O B-바지종류 O B-소재 O
+O O O O O B-스타일 O O
+B-당구공종류 O O
+O B-평수 O O
+B-연령대 B-수량 B-연령대 B-인원 I-인원 O B-방종류 O
+B-메뉴 B-온도 B-메뉴 B-메뉴 O O O
+O B-스타일 O
+O B-재료 O O O
+O B-색상 O B-제품 O
+B-투여일수 O O
+O O B-수량 B-평수 I-평수 O O
+O O O B-메뉴 I-메뉴 O O O
+B-기능 O
+B-의약외품종류 O O
+O B-생활용품 O
+O B-개수 O O O O
+B-제품 O O
+B-화장품종류 O O O
+B-메뉴 O O O O O O O O
+B-미용종류 O O O
+O O B-메뉴 I-메뉴 O O O
+O B-온도 B-메뉴 B-수량 I-수량 B-온도 B-메뉴 B-수량 I-수량 O O
+O B-신발종류 I-신발종류 O O B-계절 O O O O O
+B-음식재료 B-고기종류 O O
+B-메뉴 B-수량 I-수량 B-메뉴 B-수량 O
+B-호칭 B-옷종류 I-옷종류 O O O O
+O B-의류 O O
+B-떡종류 B-곡물종류 O O O O O
+B-메뉴 O O
+B-장소 O B-매물 O
+B-시간 B-업체명 O O
+B-시간 I-시간 B-일자 B-일자 B-일자 B-기간 I-기간 O O O
+O O B-적립수단 O
+B-평수 B-계약종류 O
+O B-옷종류 I-옷종류 O O O O O
+B-예약시간 O O O O O
+B-호칭 B-옷부분 O O O O
+O B-개수 O O
+O B-방향 B-크기 O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+O B-재료 O B-메뉴 O
+B-온도 B-메뉴 O
+B-옷종류 B-금액 O O
+B-메뉴 B-온도 B-제조방법 O
+O O B-메뉴 O
+B-수량 O
+O O O B-굽높이 O O O
+B-메뉴 I-메뉴 O B-양 O O O O
+B-소스 O O O
+O B-평수 O
+B-음료종류 O O
+B-옷종류 O O
+O B-음료종류 B-음료종류 O O O
+B-음식종류 O O O O O O O
+B-생활용품 O O O
+O B-수업방향 O O O O
+B-포장 O
+B-재료 B-종류 I-종류 O O O O O O
+B-연령 O O O B-메뉴 O
+B-수량 O O
+B-원단종류 O
+O B-재질 O
+B-신체부위 O O O O O
+O O B-결제방식 O
+B-사이즈 O
+B-재료 B-재료 I-재료 B-재료 I-재료 O O O O
+B-메뉴 O B-재료 O O O
+B-빵종류 B-수량 B-빵종류 B-수량 O O
+O B-온도 O O O
+B-주거시설 O B-평수 O O
+B-과목 O
+B-소스 B-수량 O O
+O O B-제품명 O B-증상 O O
+B-동물부위 O
+B-메뉴 O O
+B-메뉴 I-메뉴 O O
+O B-온도 B-메뉴 B-수량 I-수량 O O
+O B-반찬 O B-소스 O
+O B-메뉴 O
+B-음식종류 O B-빵종류 O O
+B-횟수 O O
+O O B-온도 O O
+O O
+O O O B-미용종류 O O O O
+B-메뉴 B-결제수단 O
+B-염색제종류 O O B-색 O
+B-옷종류 I-옷종류 O O O
+B-날짜 O O O
+B-성분 B-메뉴 O
+O B-음료 B-음료 O O O
+B-동물부위 B-수량 I-수량 B-수량 I-수량 O O
+B-제품 O O
+O B-약종류 O O O O O
+B-머리카락 O
+B-메뉴 O
+O B-맛 O B-정도 O O O
+O B-신발종류 O O
+B-시간 B-시간 O O
+B-메뉴 B-수량 O
+B-증상 O O B-의약외품종류 O
+O B-수량 O
+B-고기종류 B-원산지 O
+B-열람실종류 B-횟수 I-횟수 O O O
+O O O
+O O B-색상 B-수량 O
+O B-약종류 O O
+O B-메뉴 O O
+B-사이즈 O B-사이즈 O
+B-제품 B-기능 O O
+O B-제품 O
+O B-사이즈 O
+B-이용시간 O
+O O
+B-기간 O O O
+O B-세트종류 I-세트종류 B-시간 I-시간 O O O O O O
+B-빵종류 O
+O O B-시간 O O
+B-옷종류 B-옷종류 O O O
+B-메뉴 O
+O B-메뉴 I-메뉴 B-재료 O O
+B-고기종류 B-고기부위 B-무게 O O
+O B-인원 I-인원 O O O O O O O O
+O B-소스 O O O
+O O O B-사이드메뉴 O O O
+O O O O
+B-떡종류 O O O
+B-재료 O O O
+O B-메뉴 I-메뉴 B-메뉴 B-수량 B-메뉴 O O
+B-떡종류 O O O
+B-호칭 B-메뉴 B-크기 I-크기 O O
+B-메뉴 O O
+B-매물 O B-평수 O O
+O
+B-과일종류 O O
+O B-메뉴 O
+O B-주변기기 O O
+O O O
+O B-메뉴 O
+O O O O O B-미용종류 O O
+B-온도 O O
+B-결제방식 O
+O B-대상 O B-과목 O O
+B-메뉴 B-횟수 I-횟수 O B-수량 I-수량 O B-수량 I-수량 O O
+O B-빵종류 O O O
+B-메뉴 I-메뉴 O O
+O B-화장품종류 B-피부색 O O O
+O B-무게 I-무게 B-가격 O O
+B-연령대 B-인원 O O
+B-떡종류 O O O O
+B-재료 O O O O
+B-메뉴 O
+B-직업 B-기간 O
+B-메뉴 I-메뉴 O O
+O O O O O O O O
+B-메뉴 O
+B-제품 O O
+O O B-수량 I-수량 O O O O O O O
+O
+O O O O
+O B-장소 O
+O B-할인율 O O
+B-시간 B-시간 B-시간 O O O O
+B-장소 B-위치 O O O
+O B-음식메뉴종류 B-수량 O O
+O B-반찬 O O
+O B-제품 O
+B-중량 O O O
+B-시간 B-기간 O O O O O
+O B-미용종류 B-미용종류 O
+B-시세 B-금액 I-금액 I-금액 B-매물 O B-평수 O O
+B-메뉴 I-메뉴 B-수량 O
+B-온도 B-메뉴 B-방향 B-토핑 O
+B-장소 B-위치 O B-매물 B-계약종류 O O
+O O B-세트메뉴 I-세트메뉴 B-수량 O
+O O B-수량 O O
+O O O
+B-용도 O B-손질방법 O O O
+B-금액 O O O
+O O B-수량 O
+O B-음료종류 O
+B-술종류 O O
+B-재료 O O
+B-반찬 B-수량 I-수량 O O O O
+O B-색상 O
+B-부품 O O
+O O B-생활용품 O
+B-이용시간 O
+O B-과목 O O O O
+O B-메뉴 B-수량 O
+B-토핑 O O
+B-제품 I-제품 O O O O O
+B-메뉴 B-수량 O B-온도 O O
+O O O B-사람수 I-사람수 O O O
+O O B-수량 O
+O O B-대상 O O O O
+B-메뉴 O O O
+O B-가격 I-가격 O O O O
+B-재료 O
+B-메뉴 B-제조방법 O
+B-메뉴 I-메뉴 B-금액 B-토핑 O B-금액 O
+B-신체부위 O O B-화장품종류 B-수량 O
+B-인원 B-메뉴 O O
+O B-스타일 I-스타일 B-대상 O O O B-제품 O
+B-고기부위 O O O
+B-횟수 O O
+O B-메뉴 O O O
+O B-개수 O B-음료종류 I-음료종류 O O
+B-제품 O O O
+B-제품 O O B-제품 O
+B-재료 O O
+B-음료종류 B-개수 O
+B-위탁물종류 I-위탁물종류 B-위탁물종류 O O
+O O O
+B-옷부분 B-옷종류 B-수선위치 O O O
+B-시설 O
+B-원산지 B-중량 O
+B-메뉴 I-메뉴 B-수량 O
+B-제품 O
+O O B-과일종류 O O B-과일종류 O
+B-떡종류 O O O O O O O
+B-매물 O O O O O
+B-메뉴 O O O
+O B-재질 O O
+B-음료 B-수량 O
+B-국가기념일 O O
+B-사이즈 O
+B-요일 O
+O B-수량 O O
+B-상품 B-중량 O
+B-옷종류 O
+B-메뉴 I-메뉴 O O
+B-빵종류 I-빵종류 B-시간 O O O O O
+B-빵이름 I-빵이름 I-빵이름 O O O O
+O B-부위 O O O B-부위 O O
+B-비품 O
+O B-집종류 O O O O
+O O
+O B-메뉴 O O O
+B-화장품브랜드 O
+B-메뉴 O O
+B-재료 B-재료 O O
+O
+O B-수량 O O
+B-방종류 B-수량 O
+O B-결제방식 O
+B-귤종류 O B-수량 O O
+B-메뉴 B-메뉴 B-수량 O
+B-위탁물종류 O O O
+B-재료 O O O O O
+B-기간 I-기간 O O
+B-결제방식 O O
+O B-소스 I-소스 O O
+B-메뉴 B-재료 O O O O
+O B-음식종류 B-수량 I-수량 O O
+B-수량 O
+B-고기부위 O O
+B-음식메뉴종류 B-음식메뉴종류 B-수량 O
+O B-메뉴 O
+B-크기 O O
+B-맵기 I-맵기 O B-재료 O O
+B-동물부위 O O O O O O O
+B-집종류 B-매물종류 O O B-가격 O O O
+O O B-색상 B-제품 O
+O B-수량 O
+B-메뉴 O O B-인원 O O O
+O O O B-머리카락길이 O O O
+B-위치 B-매물종류 B-가격 O O
+B-메뉴 O O
+B-제품 O O O
+B-메뉴 O
+B-이용시간 I-이용시간 O O
+O B-작성 O
+B-가짓수 I-가짓수 O O O O
+B-과자종류 O O
+B-반찬 O O O
+B-커피종류 O
+O B-참고수단 O O O
+O O B-매물 O O
+O O O O
+B-메뉴 O O
+B-빵종류 I-빵종류 B-식물종류 O O O O
+O B-사이드 O O B-수량 I-수량 O O
+O O O B-인원 O O O
+B-대상 O O O O O
+O O
+O O O O O
+O B-상품 B-수량 B-상품 I-상품 B-수량 O
+B-메뉴 O
+O B-재료 O O
+O O B-매물 O O O
+O B-메뉴 O
+B-성분 O
+O O B-요일 B-시간 O O O O
+O B-증상 O
+B-약품 O
+B-메뉴 B-수량 O O
+B-메뉴 O O
+B-고기부위 O O
+O O B-위치 O O
+O O O O O O
+O B-메뉴 O O
+B-메뉴 O
+O B-금액 I-금액 B-계약종류 B-금액 I-금액 O O O
+O B-성별 B-옷종류 O O
+B-메뉴 I-메뉴 O O
+O B-인원 I-인원 O O O B-메뉴 O O B-메뉴 O O
+B-떡종류 O
+B-메뉴 O
+B-장식 O O O O
+B-메뉴 B-재료 O O O
+B-인원 O O O
+O O B-위탁물종류 B-서비스비 O
+B-식빵종류 I-식빵종류 B-시간 O O
+O B-색상 O O O O O O O
+B-시간 I-시간 O O
+O B-사이즈 O
+O B-과일종류 O O
+O O
+B-인원 O O
+B-평수 B-금액 I-금액 O O O
+O B-메뉴 O O O
+O B-장소 O O
+B-세면도구종류 B-세면도구종류 O O
+B-집종류 B-매매종류 O O B-결제수단 B-가격 O O
+B-기간 O O O O O
+B-떡종류 B-수량 I-수량 O O
+O B-평수 O O
+O B-인원 I-인원 O O O
+O O O B-재료 O
+B-세트메뉴 O O O
+B-떡종류 B-수량 O O
+B-횟수 O O
+B-음식재료 O O
+B-메뉴 B-메뉴 O
+B-날짜 O O O
+B-재질 O O O O
+B-떡종류 O O O
+O O B-가격 O O O
+B-예약시간 O
+B-메뉴 B-메뉴 O
+O O O O B-횟수 I-횟수 O O
+B-재질 B-서비스종류 O O
+B-떡종류 O
+B-제품 O O
+B-온도 O O O O
+O B-수량 O O O
+B-음식종류 O O O O
+O O B-생활용품 O O O
+B-제품 O O
+B-숙박단위 I-숙박단위 O O
+B-메뉴 B-메뉴 B-메뉴 O O O
+B-시간 O O O
+O O B-금액 O O
+B-성분 O
+B-메뉴 I-메뉴 O O B-재료 O O O O O
+B-투자 O O O O
+O B-주거시설 B-평수 B-평수 B-평수 O
+O B-제품명 O O
+B-신분 O O O O O
+B-옷종류 O O O O O
+O O O O
+B-인원 O O O
+B-과일종류 O
+B-결제수단 O
+B-메뉴 O O O
+B-커피종류 B-커피종류 I-커피종류 O O
+B-소재 O O O O O
+O O O
+B-미용종류 O O
+O O O
+O O O O O
+O B-과일종류 O O B-과일종류 O O
+B-메뉴 O
+B-아파트명 O O O
+B-메뉴 B-수량 O O
+B-메뉴 O O
+B-식기 B-수량 O O
+O O B-음료종류 O O
+O O O B-세트메뉴 I-세트메뉴 O O
+B-상품 O
+B-색상 O O
+B-브랜드명 O B-메뉴 O
+B-과일종류 O
+B-수량 O O
+O B-메뉴 O O O
+B-맛 B-재료 B-수량 O O
+B-메뉴 B-떡볶이 B-소스 O
+O O B-기간 O O O B-수량 I-수량 O O O O
+B-장소 B-제품 O
+B-과일종류 O O
+O B-이용시간 O
+B-메뉴 I-메뉴 B-수량 O
+O O B-색상 O O
+O B-식물류 B-식물류 O B-식물류 O O O O B-식물류 O O O O
+B-재료 O O O O
+O O O O O O O
+O B-조리법 O O
+O O B-사이즈 O O
+O O O O
+B-상품 B-단위수량 O
+O
+B-제품 O
+O O B-결제방식 O O O
+O B-맛 I-맛 O O
+B-빵종류 O
+O B-증상 B-증상 O
+O B-메뉴 I-메뉴 B-수량 O
+B-매물종류 O O O
+O B-중량 I-중량 O O
+B-메뉴 B-온도 O
+B-주거시설 B-가격 O O
+O O O O O
+O B-수량 O O
+O O O B-용량 O O O O
+O B-이용시간 O
+O O O
+B-사탕종류 O
+O O
+B-음식종류 O O
+B-비품 O O
+B-인원 O O
+O O O O
+O O
+B-적립수단 B-적립수단 O
+B-메뉴 I-메뉴 B-수량 O O O
+B-신체부위 O O
+O O B-적립수단 O
+B-화장품종류 O O
+B-고기부위 B-손질방법 O O
+O O
+O B-의류 O O
+O O O O
+B-토핑 O B-메뉴 O O
+B-재료 O
+O O O
+O O O O O B-금액 O O O
+O B-수량 O
+O O B-장신구 O
+B-떡종류 B-수량 I-수량 B-떡종류 B-수량 O O
+B-메뉴 B-3개 O
+B-제품 B-금액 I-금액 I-금액 O B-할인 O O O
+O B-메뉴 I-메뉴 B-수량 B-메뉴 I-메뉴 B-수량 O
+O O
+O B-메뉴 I-메뉴 O O
+B-음식종류 O O
+B-반찬 O O O
+B-상품 O O O O
+B-메뉴 O O O
+B-야채종류 B-수량 O O
+O B-식기 O
+B-메뉴 O O O O
+O O B-온도 B-메뉴 O O
+O O
+B-고기부위 B-인원 O O O B-가격 O O O
+B-집종류 B-평수 O O O
+B-메뉴 B-수량 O O
+B-떡종류 O O
+B-시간 O
+B-메뉴 O O
+O B-떡종류 O O B-떡종류 O O O
+O O B-과일종류 O
+O B-상품 B-박스수량 O
+B-예약일 I-예약일 O O O
+O B-매물위치 O O
+O B-재료 O O
+B-사이즈 O
+O O O B-사이즈 I-사이즈 O O
+O B-음료 B-수량 O O
+O O O B-소요시간 O O
+B-가격 B-미용제품 O O
+B-메뉴 I-메뉴 O O O
+O B-연령대 O O
+O B-음식종류 O B-곡물종류 O O O
+B-인원 O O O O
+B-화장품종류 O
+B-사이즈 O O O O O O
+O
+O O B-옷개수 O O
+O B-개수 B-단위 O O
+B-제품 O O
+B-온도 B-메뉴 B-수량 O O
+O B-수량 B-음료 O
+B-곡물종류 O O O O O O
+B-이용석 O
+B-떡종류 O O O
+B-예약시간 I-예약시간 O B-장소 O
+B-메뉴 B-사이즈 B-수량 I-수량 O B-메뉴 B-수량 B-메뉴 B-수량 O
+O B-반찬 O
+B-떡종류 B-수량 O O
+B-메뉴 O
+B-원단종류 O O O O O O
+O B-매물 O
+B-소스 I-소스 O O O
+B-제품 O O
+B-토핑 B-횟수 O O
+O O O O
+O O O
+B-염색종류 I-염색종류 O O O
+B-갈비종류 O B-무게 I-무게 O O
+B-연령대 B-인원 B-연령대 B-인원 B-요일 O O
+O B-과일종류 O
+B-온도 O
+B-방종류 O
+O B-제품 O O O
+O B-메뉴 O B-메뉴 O O
+O B-메뉴 O O O
+O O O O O B-수업방향 O B-과목 B-수업내용 O
+B-갈비종류 B-음식종류 O O
+O B-결제수단 O O O O O O
+B-결제방식 O
+B-할인종류 I-할인종류 B-결제수단 O
+O O
+B-아파트이름 O
+O O O O O O
+B-비용 I-비용 O O O O O O
+O O O O
+B-재료 I-재료 O O
+O B-제품 O
+O B-제품 B-소재 O
+B-메뉴 O O O O
+B-과일종류 O
+B-재료 I-재료 B-토핑 O
+B-수선위치 O O O O
+O O B-사이즈 O O
+B-집종류 O O O
+O O B-상품 O O O
+B-과일종류 O O O O
+B-메뉴 O O
+O O B-수량 O
+B-메뉴 O O
+O O O O
+B-사이즈 O O
+O B-메뉴 B-수량 B-메뉴 B-수량 O
+B-특정기간 O O O O
+B-과일종류 O
+O O B-메뉴 O O O O O
+B-과일종류 O O
+O B-생활용품 O
+O B-배달지 O
+B-색 O O
+B-과일종류 O
+O B-중국집메뉴 O
+B-메뉴 B-수량 B-메뉴 B-수량 O
+B-메뉴 O O O
+O B-온도 B-메뉴 B-사이즈 O B-메뉴 O
+B-온도 B-메뉴 B-수량 O
+B-아파트이름 I-아파트이름 O O
+B-메뉴 B-재료 O O O O
+B-떡종류 B-수량 I-수량 O O O
+O B-재료 I-재료 O B-상품 O O
+B-면적 O O
+B-시간 O
+O B-메뉴 O O
+O B-원산지 O
+O B-이용시간 O
+B-호칭 O O O B-생활용품 O
+B-립스틱종류 I-립스틱종류 O O O O
+O O O
+O O O O B-집종류 O O
+O B-미용종류 B-미용종류 O
+B-메뉴 O O O
+O O O O O O O O O
+B-사이즈 O O O O O O
+O B-의류 O
+O O
+B-브랜드명 O O
+B-파이종류 O B-과일종류 B-과일종류 O
+O O B-가격 I-가격 O O O
+O O O
+O O B-약종류 I-약종류 B-개수 O
+O B-매물 O
+O B-임대종류 O O O
+O B-원단종류 O
+B-메뉴 O O O O B-토핑 B-토핑 O O O O
+B-브랜드 I-브랜드 B-제품 O O O O B-수량 I-수량 O O
+O B-수량 O O
+B-결제방식 O O
+B-과일종류 O
+B-재료 B-메뉴 O O O
+O B-수량 O O
+B-자리종류 B-이용권 O
+B-기간 O O O
+B-메뉴 O O
+B-아파트이름 O O O
+B-옷개수 O O
+B-계약종류 O O O
+B-케이크종류 O O
+B-메뉴 O O
+B-메뉴 O O
+B-고기부위 B-무게 O
+B-증상 B-증상 O O
+B-음료 B-사이즈 I-사이즈 B-사이즈 O
+B-떡종류 O O O
+O O
+B-메뉴 O
+B-메뉴 I-메뉴 B-수량 O
+B-기간 I-기간 B-가격 B-기간 O
+B-과일종류 O
+B-수량 I-수량 O O O O O
+O O O
+O B-제품 O
+O O B-수량 O
+B-떡종류 O O O
+O B-메뉴 O B-수량 O
+B-용도 O O
+O B-메뉴 B-수량 I-수량 B-토핑 O O O B-메뉴 B-메뉴 O
+B-소재 O O O O
+B-메뉴 O
+B-직업 O O O O O O O O O
+O B-제품 O
+O B-층수 B-층수 O B-층수 I-층수 O O
+B-이용시간 O O
+B-시간 O O O O
+B-미용용품브랜드 O O
+B-메뉴 O O
+O B-과자류 O O O O O
+B-채소종류 O
+B-성별 B-옷종류 I-옷종류 B-구획단위 O O
+B-과자종류 O O
+B-예약일 I-예약일 O O O
+O O B-평수 I-평수 O O
+B-제품 O
+O O O O O
+B-결제방식 O
+B-과일종류 O O O
+B-메뉴 O
+O O O O O O O B-날짜 B-날짜 B-배달지 B-메뉴 O O O
+O O O
+O B-소스 I-소스 O O
+B-메뉴 O O
+B-반찬 O O O
+O B-수량 O O O
+B-과일종류 O O
+O O B-제품 O
+O B-빵종류 O
+B-재료 O O O O
+B-메뉴 O O O
+B-호칭 O B-음식종류 O O B-음식종류 B-음식종류 O
+O O B-제품 O
+B-인원 O O O O O O
+B-조리법 O O O O
+B-의약외품종류 O O O O
+B-미용종류 I-미용종류 O O
+B-커피종류 I-커피종류 B-커피종류 I-커피종류 O O O O
+B-제품 O O O O
+O B-생활용품 O O O
+B-메뉴 O O O O O
+B-호칭 O O O O
+B-신체부위 O O
+B-메뉴 I-메뉴 I-메뉴 B-온도 O B-수량 O O
+B-악기 O O
+O O O O O O O
+B-색 I-색 O O O
+B-메뉴 B-수량 O
+O O
+O B-옷종류 B-수선위치 O
+B-미용종류 O O O B-미용종류 O
+O B-의약외품종류 O
+B-시기 O O O O
+O O
+B-떡종류 B-수량 I-수량 B-떡종류 B-떡종류 B-수량 O
+B-온도 B-메뉴 B-수량 O
+B-반찬 I-반찬 B-반찬 O O
+B-온도 O
+O O O
+B-떡종류 O
+B-메뉴 O
+B-반찬 O
+O O B-재질 O O
+B-음료 B-수량 O O
+O O
+O B-방종류 O O
+O B-음식종류 B-수량 I-수량 O O O
+O B-제품 O O
+O B-시술 B-시술 O
+B-고기부위 B-조리법 O O
+B-이용시간 O O
+O O O O O O O B-토핑 O
+O B-색상 O
+O B-위치 I-위치 O O
+B-시간 O O
+O B-인원 I-인원 B-메뉴 B-수량 O O O O O
+B-케이크종류 I-케이크종류 B-수량 O
+O B-요일 O O
+B-메뉴 B-메뉴 O B-메뉴 O O
+O B-메뉴 B-수량 O
+O B-화장품종류 O O B-화장품종류 O
+O O O
+B-캠핑숙소종류 O O O
+B-떡종류 O B-떡종류 O O
+O B-음식종류 B-수량 O B-음식종류 O B-수량 O O
+O B-결제방식 O O
+O O O O B-음식종류 O O O
+O O
+O B-메뉴 B-사이즈 B-수량 B-메뉴 B-수량 O
+O B-옷종류 O
+B-온도 B-메뉴 O
+B-메뉴 I-메뉴 I-메뉴 O B-수량 O
+B-지위 B-과일종류 O
+B-온도 O B-재료 B-수량 O
+B-신체부위 O O
+B-세트메뉴 O B-수량 O
+O O O O O O
+B-평수 O O O O
+B-메뉴 B-메뉴 B-메뉴 O
+B-메뉴 B-수량 O
+B-부위 O
+O
+B-시간 B-시간 O O
+O B-제품 O B-제품 O
+B-번호 O O
+O B-의약외품종류 B-의약회사 O B-약의형태 O O
+O O O B-메뉴 O O O O O O O O
+O O O O
+O O B-수량 O
+B-사이즈 O O O
+B-평수 O O
+O B-비품 O O
+B-메뉴 O O O
+B-토핑 O O
+B-메뉴 O
+O B-수량 O
+B-음식종류 O O
+B-카드종류 B-할부개월 O O
+O O B-제품번호 O
+B-원산지 O O O O
+O O O O O O
+B-음료종류 O
+B-음료 B-음료 B-음료 O
+B-메뉴 O O O
+B-투여일수 O
+B-재질 O O B-제품 O O O
+B-메뉴 O B-메뉴 O O O
+O B-재료 O O
+B-온도 O O B-금액 O
+O B-사이즈 O
+O
+B-비품 O O
+B-금액 O
+O B-이용시간 O O
+B-용도 O O O O O
+O B-인원 O O
+B-메뉴 B-메뉴 O
+O B-메뉴 O
+O O O O B-사이즈 O
+O B-약구성형태 B-약구성형태 O O O
+O O O
+B-제품명 O
+O O O B-매물 O O O
+O B-수량 O
+O B-음식종류 O O O
+B-시세 I-시세 O O
+B-시간 O O O
+B-사이즈 B-수량 O O
+B-반하사심탕 O O
+O B-생활용품 O O O
+B-매물 O O O
+B-머리카락 B-미용종류 B-미용종류 O
+O B-과자종류 O
+O B-식기 O O
+O O B-요일 O O
+B-평수 O O O O
+B-젓갈류 O O
+B-메뉴 I-메뉴 O O O
+B-제품 O O
+O B-수량 O O
+O O O B-메뉴 O O
+O O O B-증상 O O O B-의약외품종류 O O
+B-화장품종류 O O O
+O O B-브랜드 B-제품 O
+B-신체부위 O B-병명 O
+B-방종류 I-방종류 O O O
+B-횟수 I-횟수 O O
+O O O
+O B-고기부위 B-무게 O O
+B-메뉴 B-메뉴 B-수량 O O
+O B-면적 B-평수 O
+O B-생활용품 B-가격 O O
+O O O O O O O O O
+B-이용시간 I-이용시간 O O
+O O O B-메뉴 O O
+B-특정기간 B-성분 O O B-특정기간 O O O O O O O O O O
+B-메뉴 O O O
+B-메뉴 B-재료 O O
+B-카드종류 O O O O O O
+B-예약일 O O
+B-시기 O O
+O O O
+O B-사이드 B-수량 O
+O B-인원 I-인원 O O O O
+B-고기종류 O O
+B-반찬 O B-수량 O O
+B-포장 B-금액 O O
+B-메뉴 O O
+O B-적립수단 O
+B-식기 O
+O B-온도 B-메뉴 B-수량 O O
+B-시간 O O O
+O O
+O O
+O B-색상 O O
+B-인원 O O
+B-떡종류 O
+O B-해물류 O
+B-파이종류 I-파이종류 B-수량 O
+B-메뉴 O O
+O O
+O B-약종류 O O O
+O B-음식종류 O
+B-결제방식 O O
+B-시술 O O
+B-소요시간 O O O
+B-박스수량 B-상품 O
+B-메뉴 O
+O B-메뉴 I-메뉴 B-사이드 B-수량 O O
+O O
+B-예약일 B-예약시간 O
+O B-메뉴 O O
+B-메뉴 B-수량 I-수량 B-사이드 B-수량 O O
+O
+B-비품 O
+B-음식용도 B-돼지고기종류 O O
+B-메뉴 B-수량 O O
+B-횟수 O O
+B-고기부위 O B-음식종류 I-음식종류 O O
+B-배달지 B-메뉴 B-수량 B-메뉴 B-수량 O
+B-메뉴 B-수량 O B-메뉴 O
+O O O B-금액 O O O
+O O O
+B-메뉴 O O
+O O O O
+O B-위치 B-의류 O
+B-부분 O O
+B-대상 B-위치 O O O O O O O O
+B-소스 B-수량 I-수량 O O
+O B-날짜 O O
+O B-수량 O
+B-메뉴 I-메뉴 B-수량 O O O O O
+B-화장품종류 B-화장품종류 O O
+B-재료 O O
+O B-색상 B-색상 O O
+O B-메뉴 B-수량 B-메뉴 B-수량 O
+B-메뉴 B-수량 I-수량 B-메뉴 B-수량 O
+B-메뉴 I-메뉴 O O
+B-시기 B-관공서 O O O O O O B-세금 O O O
+B-단지명 B-층수 O O
+O B-의류 O
+B-신체부위 O O O
+O O
+O O B-빵종류 B-수량 I-수량 B-과자종류 B-수량 I-수량 O O
+O O O O B-금액 O
+O B-메뉴 B-맵기 I-맵기 O O
+B-커피종류 O O O
+B-부위 O
+B-파종류 B-수량 O O
+B-상품 O O O O O
+O O B-제품 O O
+B-과일종류 O
+B-메뉴 O O O O
+O B-제품 O O O
+B-음식종류 O O B-가게종류 O O
+O O O O
+O B-메뉴 O
+B-층 O
+B-연령대 B-용도 B-고기종류 O
+B-스타일 O B-제품 O
+B-기간 O O
+B-화장품성분 O O O O O O O O O
+B-신체질환 O O B-식물종류 O O
+B-호칭 O O O O
+B-반찬종류 I-반찬종류 B-개수 O O
+O B-직업 O B-미용종류 O
+B-메뉴 B-재료 B-위치 B-소스 O O
+O O B-방종류 I-방종류 O O O
+B-지명 O
+B-재료 O
+B-사이즈 I-사이즈 O O
+O B-인원 O O O B-수량 O
+B-위탁물종류 B-서비스종류 O O B-옷개수 O
+B-제품 O O O
+B-화장품종류 O O O
+B-계약종류 O O O
+O B-재료 O O
+B-금속 O O
+O B-메뉴 I-메뉴 B-사이즈 I-사이즈 B-수량 O
+B-과일종류 O O O
+B-빵종류 I-빵종류 I-빵종류 O O O
+O B-일자 O O O O O O O
+O B-결제수단 O
+B-떡종류 B-수량 I-수량 O O
+B-용도 B-상품 O
+B-미용종류 O O O
+O B-색상 B-사이즈 O O
+B-메뉴 O O O O O O
+B-미용종류 O O O B-염색색상 O O O O O
+B-시간 O O
+B-시간 O O O
+O O
+O B-시간 B-교통수단 O O B-교통수단 O O
+B-의약외품종류 O
+O O O O
+B-메뉴 O
+B-이동수단 O O
+B-색상 B-스타일 O O O
+B-귤종류 O
+O B-초밥 B-수량 I-수량 B-메뉴 B-수량 O O
+O O B-결제수단 O
+B-원두종류 B-원두종류 O O
+O O B-음식종류 O O O
+O B-메뉴 O O O
+B-메뉴 B-수량 O
+B-커피종류 B-잔종류 O O
+B-맛 O O
+B-과일종류 B-수량 I-수량 O O
+B-메뉴 I-메뉴 B-수량 I-수량 O O O O
+B-병명 O O O O O O O
+B-메뉴 O
+O O O O
+O B-메뉴 B-제조방법 O O
+B-음료종류 O B-곡물수 O O
+B-메뉴 O
+B-색상 B-제품 O O
+O B-메뉴 B-수량 O
+O B-크림종류 O O O
+B-인원 O
+B-식사종류 B-음식종류 O O
+B-메뉴 O O B-수량 O
+B-메뉴 B-재료 O
+O B-소재 B-소재 O O O
+O O O
+B-떡종류 O
+O B-색 B-의류 O
+B-용도 B-고기종류 O O
+B-매물종류 O O
+B-수량 O O O O O
+O B-악세서리 O O O O
+O O O O O O B-맛 O O
+O O B-약종류 O
+B-결제방식 O O
+O B-멤버십 B-멤버십 O
+B-사이즈 O O
+O O
+B-수량 O
+O O O
+B-재료 O O
+B-인원 I-인원 O B-인쇄 O
+B-위탁물종류 I-위탁물종류 B-서비스비 B-서비스비 O O
+B-메뉴 O O O O
+O B-주거시설 O O O O
+B-결제방식 O
+B-크기 O
+B-시간 B-아파트명 O O O O
+B-메뉴 B-재료 O O O
+O O B-할부개월 O O O
+O B-제품 O O O
+O O B-색상 B-번호 O O O O
+B-고기종류 O O B-원산지 O
+O O
+O B-수량 O O
+O B-수량 I-수량 O O O O O O O
+B-메뉴 O O
+O B-평수 O O O
+B-용도 O
+B-지역명 B-단지명 O O O
+B-결제수단 O
+O B-주거형태 O O O O B-주거시설 O O
+B-메뉴 O O O O
+B-떡종류 O O
+O O O O
+B-맛 O O
+B-호칭 O O O
+O O O O O O
+B-메뉴 I-메뉴 B-수량 O
+B-과일종류 O O O
+B-매물 O O O
+B-인원 O
+B-온도 B-메뉴 O
+B-상품 O O
+B-고기종류 B-고기부위 O
+B-색상 O
+B-온도 B-메뉴 B-수량 O O
+O B-제품 B-가짓수 I-가짓수 O O
+B-메뉴 O O
+B-스타일 O O O
+O B-메뉴 I-메뉴 O O
+O O O O O
+O B-바지종류 O O
+B-계약종류 O O O O O
+B-맛 O
+B-연령대 B-인원 B-연령대 B-인원 O O
+O O B-의약외품종류 O
+B-메뉴 I-메뉴 B-수량 O
+O O O
+O B-금액 O O
+O B-제품 B-제품 O
+O B-메뉴 O
+B-온도 O
+O B-음식메뉴종류 I-음식메뉴종류 B-음식메뉴종류 B-수량 O
+B-수량 I-수량 O O O O O B-수량 O O
+B-결제수단 O
+O O O O O O
+B-커피종류 B-커피종류 I-커피종류 B-용기종류 O O
+B-휴무일 O
+B-제품 O O
+B-메뉴 O O
+O O O B-대상 O
+O B-맛 O
+O B-결제수단 O
+O B-색상 O O
+B-메뉴 I-메뉴 I-메뉴 B-재료 O O
+B-메뉴 B-메뉴 O
+B-인원수 I-인원수 O O
+O O O O O O O O B-메뉴 O O O
+O B-메뉴 O O
+B-성분 B-성분 O B-의약외품종류 O
+B-시기 O O
+B-고기부위 B-무게 O O
+B-포도종류 O O
+O O O O O
+O O O B-반찬 B-반찬 B-수량 O
+B-토핑 B-양 O
+B-연령대 B-인원 O O
+B-메뉴 B-메뉴 O O
+B-제품 O
+B-메뉴 B-수량 O
+O O O O O
+B-음료종류 O O
+B-메뉴 B-사이즈 O B-메뉴 I-메뉴 B-사이즈 O
+O B-메뉴 B-수량 B-메뉴 B-수량 O
+B-시간 O O O O
+B-메뉴 B-수량 O O
+B-수입산 O O O O O
+O B-헤어스타일 O O O
+O O O B-결제수단 O
+O O B-집종류 B-가격 O O
+O O O
+B-메뉴 B-메뉴 O O O
+B-메뉴 B-온도 B-사이즈 O O
+O O O O
+B-결제종류 O O O O
+O B-배달지 B-세트메뉴 O O O
+O B-메뉴 O
+B-메뉴 O O O
+B-온도 O O
+O O O O O
+O O O B-수량 O O
+O B-상품 O O O O
+B-제품 I-제품 O O O
+O B-메뉴 O O
+B-옷종류 O O O O
+B-수량 O
+O O O O B-소재 O
+B-메뉴 O O O
+B-시간 I-시간 O O O O O O
+O O O O O
+B-매물 O O
+O
+B-과일종류 O
+B-이용시간 I-이용시간 O O
+B-수량 I-수량 B-가격 I-가격 O O
+B-업소명 B-이용시간 O O
+O B-메뉴 B-온도 B-수량 B-메뉴 B-수량 O
+B-가방브랜드 O O B-가방부분 O O O
+B-수량 O O
+B-제품 O O O
+B-횟수 I-횟수 O O
+O B-매물 B-계약종류 O
+O O B-수량 O
+B-메뉴 O O
+B-날짜 B-방종류 O O
+B-제품명 O O O B-의약외품종류 O
+O O O
+B-가격 O B-영수증 O O O
+B-가게종류 O O O
+B-떡종류 O
+B-수량 O
+O O O O
+B-무게 I-무게 O O
+B-멤버십 O
+B-제품 O O O
+O O B-메뉴 I-메뉴 I-메뉴 O O O O
+B-성분 B-재료 O O
+O O O B-할인율 O O
+B-음식재료 O O
+O O O
+O B-수량 O O
+B-수량 O O
+B-제품 B-수량 O O
+B-상품 B-부위 O
+O B-매물 O O O B-평수 O
+B-연령대 O B-메뉴 O O O O
+B-횟수 O O
+O O O B-메뉴 O
+B-롤케이크종류 O B-롤케이크종류 O O O O
+O O B-재료 B-수량 O O
+B-고기부위 O O O O O O
+O O B-소재 O
+B-제품 B-위치 B-소재 O O O O O
+B-메뉴 O
+O B-색상 O
+B-커피종류 I-커피종류 B-잔수 I-잔수 O O O
+B-메뉴 I-메뉴 B-수량 I-수량 B-메뉴 I-메뉴 O B-술 O O
+O
+O O O O
+B-제품 O O
+B-상품 B-수량 I-수량 O O
+B-대상 O O B-시간 O O O O O O
+O B-수량 O
+O B-메뉴 O O
+O B-온도 O B-수량 O
+B-음료 O O
+O O O O O
+O B-메뉴 O
+O B-이용시간 O O
+B-과일종류 B-수량 O O
+B-이용시간 B-이용가격 O
+O B-색상 O
+B-돼지고기종류 O B-음식종류 O O
+O B-제품 O O O O
+O B-시세 I-시세 O O O O
+B-성벌 O B-옷종류 B-수선위치 B-옷종류 O O
+O O O O O
+B-반찬 O O O
+O B-옷특징 O
+O B-메뉴 O O O
+B-동물종류 B-고기부위 O
+B-고기부위 B-무게 B-고기부위 B-무게 O
+B-호칭 B-옷종류 O
+O O
+O B-수량 I-수량 O O B-시간 O O O
+O O O B-용도 O
+B-위탁물종류 B-옷개수 O O
+B-메뉴 B-수량 O
+B-제품 I-제품 O O
+B-재료 O
+B-약종류 O O
+B-과일종류 O
+B-기념일 O O O O
+B-메뉴 B-온도 O B-사이즈 O O
+O B-평수 O
+O O O O
+B-음료종류 O O O
+B-평수 O O O O O B-가격 O O O
+B-메뉴 B-음료 O
+B-장소 B-평수 B-매물 B-계약종류 O O O
+O B-음식메뉴종류 B-음식메뉴종류 O
+B-메뉴 O
+O B-성분 B-상품 B-수량 O
+B-대상 I-대상 O O O
+B-상품 B-금액 O
+B-용도 O O O B-부위 O O
+B-과일종류 O
+O B-제품 B-사이즈 O O
+O B-음식메뉴종류 O
+O B-스타일 O O
+B-인원 O
+B-메뉴 O O
+B-제품 O O O O
+B-멤버십 O B-이름 O
+B-약종류 I-약종류 O O O
+O B-메뉴 O
+B-대상 B-대상 O
+B-멤버십 B-멤버십 O O O
+B-미용종류 O O B-가격 O
+B-성별 O O B-스타일 I-스타일 O B-제품 O
+B-빵종류 O O O
+O B-제품 O O O
+B-탕종류 O O O O O
+O O B-호칭 O O O
+B-결제방식 O O O
+B-과일종류 B-금액 I-금액 B-수량 O O
+B-미용종류 B-미용시간 O O
+O B-개수 O
+B-날짜 O O O
+B-토핑 O
+O B-수량 O O
+B-시간 I-시간 B-시간 O
+B-제품 O O O O
+B-화장품특성 O O B-화장품종류 O O
+O O B-매물 O O O O O
+O O
+B-당구장비 O O O
+B-금액 O O O O O O
+B-메뉴 O
+B-날짜 O O O O
+O B-미용종류 O
+B-열람실종류 B-열람실종류 O O O
+B-고기부위 O
+B-동물종류 B-고기부위 O O O O
+O O B-시간 I-시간 O O
+B-소부위 O O B-소부위 O
+O O O
+B-방종류 O O
+B-토핑 O
+B-가구유형 O O O O
+B-토핑 O O
+B-음료종류 O O
+O B-메뉴 I-메뉴 O O
+B-메뉴 O
+B-떡종류 O O O
+O B-온도 O
+B-메뉴 B-수량 O O
+B-미용종류 I-미용종류 B-미용종류 O O O O O O
+O O O O O O O O
+B-메뉴 B-메뉴 O O
+O O
+O B-색상 O O
+B-방종류 O O O
+B-요일 O O
+O O B-제품 O O
+B-메뉴 O
+B-메뉴 I-메뉴 B-온도 B-수량 O O
+B-제품명 O O
+B-위치 O O
+B-비품 O O
+O B-게임명 O O O
+B-제품 O O O
+B-메뉴 B-수량 O O
+B-제품 O O
+B-메뉴 B-수량 I-수량 O B-메뉴 O
+O O O B-층수 I-층수 O O O O
+O B-제품명 B-투여일수 O
+B-음료 O O O O
+O B-위치 B-제품 B-제품 O O
+O B-메뉴 I-메뉴 O B-수량 O
+B-식사 O O
+O B-시간 B-과일종류 O
+O B-색상 O O
+B-인원 O O B-인원 O O O O
+O B-수량 O O O B-수량 B-사이즈 O
+B-메뉴 O
+O B-무게 I-무게 B-가격 I-가격 B-무게 I-무게 O O O
+B-증서 B-수량 O
+O O B-매물 O O
+B-메뉴 O O O
+O B-비품 O O O
+B-재료 O
+O O
+B-옷종류 B-수선방법 B-금액 I-금액 O O
+B-메뉴 O
+O O O
+O B-색 O O
+O
+O O O O O O
+B-캠핑장야영구역 O O O O O
+B-메뉴 B-수량 O
+B-떡종류 O
+B-반찬 O
+O O O B-방종류 O
+O
+B-제품 O O
+O B-색상 B-색상 B-가짓수 O O
+O
+B-미용종류 O O O
+B-과일종류 O
+B-메뉴 O O O
+O O O
+B-결제방식 O
+B-메뉴 B-크기 O O O
+O B-대상 O
+B-메뉴 B-수량 B-메뉴 I-메뉴 B-수량 O
+B-식빵종류 I-식빵종류 B-식빵종류 I-식빵종류 O O
+O B-숙박처종류 O O
+B-메뉴 B-수량 O
+B-반찬 O O O
+B-비품 O O
+B-영수증종류 O
+B-위치 O B-제품 O O
+B-금액 O O O O O
+O O O O B-화장품종류 O O O O O
+O B-이용시간 O
+O O O
+B-크기 O O
+B-수량 O O
+B-시간 O O O O O
+B-상품 B-상품 O O
+B-금액 O O
+B-쌀종류 O
+O B-생활용품 O O O
+O B-매물 O O O
+B-메뉴 O O O
+O B-메뉴 O O O
+B-세트메뉴 B-사이드 B-음료 O
+B-평수 I-평수 O B-가격 I-가격 O O O
+B-메뉴 B-수량 B-메뉴 B-사이즈 B-수량 B-메뉴 B-사이즈 B-수량 O
+B-메뉴 O O
+O B-메뉴 O O B-메뉴 O
+B-상품 O
+B-고기부위 B-무게 O
+O B-재질 O
+O B-제품 O
+O B-음식종류 O B-동물부위 O O O
+B-방종류 O
+O B-생활용품 B-크기 O O
+B-케이크종류 O O
+O O O O O
+O B-종류 I-종류 O O O O
+B-예약일 I-예약일 I-예약일 B-인원 O O
+B-메뉴 B-수량 O O
+B-과일종류 O O
+B-미용종류 O O
+O O B-결제방법 O
+B-신발종류 B-신발부위 O O
+O O B-제품 O O
+B-음료 O
+B-과일종류 O
+B-메뉴 B-수량 O B-수량 O
+O B-옷종류 B-옷부분 O O O
+O O O B-크림종류 O O O O
+B-고기부위 O O
+O O B-재료 O
+B-대상 B-제품 O B-제품 O O
+B-브랜드 B-제품 O O
+B-메뉴 B-수량 O O
+B-반찬 I-반찬 O O
+O O B-토핑 O O
+B-호칭 O O O O O
+B-나물종류 B-반찬종류 B-개수 O
+O B-옷부분 I-옷부분 O O O
+O O B-제품 O
+O B-제품 O
+B-메뉴 O O O
+B-재질 O
+B-김치종류 I-김치종류 B-수량 O O
+B-메뉴 O O O
+O
+O O O O B-날짜 O O
+B-헤어스타일 O O
+B-시술 O O
+B-화장품종류 B-수량 O
+O O O
+B-빵종류 B-빵종류 O
+O O O
+B-기간 O O O O
+O B-메뉴 I-메뉴 I-메뉴 B-메뉴 O O
+O B-가짓수 O O
+B-과일종류 B-수량 O
+O O B-화장품종류 O
+B-결제방식 O O
+B-메뉴 O O
+B-메뉴 I-메뉴 B-사이드 O O O O
+O O
+O B-신발종류 O
+B-메뉴 B-사이즈 I-사이즈 B-수량 B-메뉴 O
+O O B-위치 O
+B-시간 B-시간 I-시간 O O
+B-달 B-날짜 O
+B-날짜 O O
+O B-제품 O
+B-평수 I-평수 I-평수 O O O
+B-화장품종류 O
+O O O O
+B-메뉴 O
+B-증상 O B-약품 B-가짓수 O
+O B-메뉴 I-메뉴 B-음료 O
+B-위치 I-위치 O O O O
+B-서비스업체 O O O O O O B-인터넷 O O
+O B-할인수단 O O
+B-소스 O O
+B-시간 O O O O
+B-커피종류 I-커피종류 B-잔수 O O
+O O O O B-제품 O
+B-위치 B-횟수 I-횟수 O O O O B-제품 O O O
+B-특정기간 B-병명 B-제품명 O O O O O B-제품명 O
+B-주소 O O
+O B-생활용품 O O O
+O O B-재료 B-재료 O O
+B-메뉴 B-메뉴 O
+B-과일종류 O O
+B-가짓수 O O
+O B-시간 B-금액 O O O
+B-단지명 O O
+O B-음식종류 O B-알종류 O
+B-반찬 O O O
+O B-멤버십 O
+B-케이크종류 O O O
+B-과일종류 O O O O
+B-비품 O O
+B-업소명 B-이용시간 I-이용시간 O O
+B-메뉴 O O
+O O O
+O B-위치 O O B-제품 O
+B-성분 B-메뉴 O
+O B-의류 O
+B-수량 O O
+B-위탁물크기 O O O
+B-투자 B-계약종류 O
+B-메뉴 B-수량 B-메뉴 O
+O B-메뉴 O
+B-토핑번호 I-토핑번호 B-높이 I-높이 O O
+B-요일 O O
+B-식기 O B-수량 O O O
+B-일자 O
+B-수량 O O
+O O
+B-옷종류 O B-수선방법 O
+B-옷종류 O O O O O
+O B-귤종류 O
+B-증상 O O
+O O O
+B-커피종류 B-음료종류 O O
+B-인원 O O
+B-메뉴 B-메뉴 O O
+B-매물 O O O O
+O O B-매물정보 O O O O O
+B-포도종류 O
+B-세트종류 I-세트종류 I-세트종류 O O O O
+O B-메뉴 B-온도 O B-수량 I-수량 O O O O O O
+B-성별 O O O
+B-메뉴 O O
+B-반찬 O
+B-신체부위 O O O O O
+B-멤버십 O
+B-메뉴 O O
+O B-결제수단 O
+B-수량 O
+B-케이크종류 I-케이크종류 B-수량 O
+B-메뉴 I-메뉴 O O O O
+O O B-의류 O
+O O O O O
+B-음료종류 O
+O B-반찬 O O O
+B-장소 O O O
+B-떡종류 B-금액 I-금액 B-수량 O
+B-결제수단 O B-적립수단 B-적립수단 O
+B-메뉴 O O O O
+O O
+B-카드종류 O O
+O O
+B-의약외품종류 O
+O B-생활용품 O O O
+B-약종류 O
+O O O O B-옷종류 O O O
+B-용도 B-고기부위 O
+B-메뉴 O
+B-인원 O O O O O O
+O O O
+B-고기종류 B-고기부위 B-무게 O O O
+O B-스타일 O
+B-온도 B-메뉴 B-메뉴 O B-포장 O
+B-메뉴 B-온도 O
+B-비품 O O
+B-가격 O O O
+B-메뉴 B-수량 I-수량 O B-메뉴 B-수량 O
+B-고기종류 O
+B-음료 O O B-수량 O
+O B-온도 B-메뉴 O O
+B-옷종류 O O O O
+O B-제품 O O O O
+B-온도 B-메뉴 O O O
+B-호칭 O B-메뉴 I-메뉴 O O
+O B-제품 O O
+B-날짜 O O O O
+B-메뉴 O O
+O B-고기부위 O O
+O B-결제수단 O
+B-메뉴 I-메뉴 B-수량 O O
+B-온도 B-메뉴 I-메뉴 B-수량 O O
+O B-의류 O O B-사이즈 O
+O B-반찬 O O O
+B-비품 O O O
+O B-옷종류 B-옷개수 O O
+O O O
+O B-염색색상 B-염색색상 O O O O O
+O O O O
+B-고기부위 B-고기부위 O B-고기부위 O O O O O
+B-메뉴 B-수량 O
+B-커피종류 B-커피종류 O O
+B-가짓수 I-가짓수 O O O
+B-배종류 B-수량 O O
+B-메뉴 O O
+B-가격 I-가격 I-가격 B-결제수단 O B-가격 I-가격 B-결제수단 O
+O B-메뉴 O O O
+O B-장소 O O
+B-현금증서 O O
+B-캠핑장야영구역 O O O
+O B-시간 O O O
+B-평수 B-면적 O
+B-메뉴 O
+O O B-소요시간 O
+O
+O B-소스 O
+B-가짓수 O
+B-수량 O
+O B-메뉴 O O
+B-메뉴 B-메뉴 O O
+B-치즈종류 O O O O O O
+B-성분 B-성분 O O O O O
+O O O B-음식종류 O O
+B-장소 O O O O
+B-음료 O B-음료 O O O O
+O O O
+O B-생활용품 O O O
+B-사이드 O O
+B-맵기 O O
+O O O B-음식종류 O O O
+B-모발종류 O O
+O O B-화장품종류 O O O O
+O O B-사이즈 O O
+B-인원 O O O
+B-호칭 B-메뉴 B-온도 O B-재료 B-수량 I-수량 O O O
+B-인원 I-인원 O O O
+B-메뉴 B-수량 O O
+B-메뉴 O O
+O B-수량 B-메뉴 B-수량 B-메뉴 B-사이즈 O
+O B-위치 I-위치 O O
+B-대상 O O O
+O B-제품 O
+B-떡종류 O
+B-과일종류 O O O O
+B-고기부위 I-고기부위 O O
+O O O B-메뉴 O O O
+O B-의류 O
+O O B-이용시간 O O
+B-결제방식 O O
+B-성분 B-성분 O B-의약외품종류 O
+B-제품 O B-위치 I-위치 O O O O
+O B-제품 O
+O B-결제수단 O
+B-신발종류 O
+B-음식종류 O O
+B-메뉴 O O
+B-메뉴 O O O O
+O B-메뉴 B-메뉴 B-수량 O O
+B-고기부위 O O O
+O
+B-제품 O O O
+B-이름 B-이름 B-인원수 O O
+O B-재질 B-제품 O O
+O O O O
+B-시간 O O O O
+O B-음료종류 O
+O B-메뉴 O O O
+B-옷종류 I-옷종류 O O
+B-음식종류 O O O O O
+B-메뉴 B-수량 I-수량 O B-수량 B-수량 O
+O O O O B-용도 O
+O B-사이즈 O
+B-메뉴 I-메뉴 B-사이즈 O
+B-기간 I-기간 O O O O
+O O O O O O O
+O O O O B-증상 O O
+O B-증상 O O B-의약외품종류 O
+B-메뉴 O O O O O
+B-약의형태 O
+B-화장품종류 O O
+B-메뉴 I-메뉴 B-수량 O
+B-앱이름 O
+B-고기부위 I-고기부위 O O
+O B-빵종류 O O
+B-옷종류 O
+B-메뉴 O
+O O B-토핑 B-토핑 O O
+O B-재료 O O O
+O O O B-수량 O
+B-떡종류 O
+B-재질 B-옷종류 O
+O B-개수 O O
+O B-시간 O O
+B-수량 O
+B-메뉴 O O
+O O
+B-고기부위 B-무게 I-무게 O O O
+O O O
+O B-메뉴 I-메뉴 O O O
+B-재료 I-재료 O O O
+B-메뉴 I-메뉴 O B-맛 O
+B-메뉴 I-메뉴 B-사이즈 O O O O O
+B-호칭 B-음식종류 O O O O
+O O B-사이즈 O
+B-메뉴 O O O
+B-대상 O O O O O
+B-스타일 O O B-스타일 O
+O B-메뉴 O
+B-매물 O O
+B-사이즈 I-사이즈 B-사이즈 I-사이즈 O O O O
+B-메뉴 B-재료 I-재료 O O O
+B-약종류 O O
+B-제품 O O
+B-주소 O O
+O B-개수 O O
+O O
+B-지역 I-지역 O O O O
+B-메뉴 O
+B-과자종류 O O O
+B-인원 O O
+B-요일 O O
+O B-인원 O O O O O
+B-메뉴 O O
+B-약종류 B-약종류 O
+O B-할부개월 O
+O B-제품 O
+B-포장 O O O
+O B-수량 O
+O O B-머리카락 O O
+O O O O O B-화장품종류 O
+B-성별 B-제품 O
+O B-요일 O O
+B-제품 O
+B-수량 I-수량 O O
+O O B-통신수단 O O O
+O B-제품 O
+B-메뉴 O O O O O
+B-메뉴 O B-메뉴 O
+B-결제방식 O
+B-가격대 O O O
+B-메뉴 O O
+B-메뉴 O
+O
+B-메뉴 I-메뉴 B-수량 O
+O B-특정시간대 O
+O O O B-신체부위 O B-의약외품종류 O O
+B-공간종류 I-공간종류 B-성인 B-공간종류 O
+O B-색상 B-제품 B-횟수 O O O
+B-박스수량 B-상품 O
+B-제품 O
+O B-비품 B-식기 O
+B-메뉴 I-메뉴 B-토핑 O O
+B-메뉴 O
+B-메뉴 O O O O
+B-메뉴 O O
+O O O O O
+B-메뉴 B-토핑 O
+B-색 O O O
+B-메뉴 I-메뉴 B-농도 O O
+B-옷종류 O O
+O B-가격피스 O
+B-차종류 O B-차종류 O O O
+O O B-금액 I-금액 O O
+B-사이즈 I-사이즈 O O
+O O B-음식종류 O O O O
+O B-색상 B-수량 O
+O O O O O B-위치 O
+B-아파트이름 B-임대종류 O O
+B-제품 O O O O
+B-과일종류 O O O O
+O
+O O B-용도 O B-용도 O O
+O B-메뉴 O O O O O
+O B-화장품종류 O
+O O O O O O O B-수량 I-수량 O O O O O O
+B-메뉴 O O O O O O
+O O
+B-비품 O O
+O O B-교통수단 O O
+B-온도 O
+B-메뉴 B-메뉴 O
+B-메뉴 B-횟수 I-횟수 O O
+B-용도 O O O O
+O B-이용시간 O O
+B-약종류 O O
+B-음식메뉴종류 B-음식메뉴종류 O O O O
+B-반찬 I-반찬 O O O
+B-음식종류 O O
+B-제품명 O O O
+O O
+B-옷종류 B-옷종류 O O
+O O O
+B-메뉴 I-메뉴 B-수량 I-수량 O O O
+B-당구종목 O O O
+B-증상 B-증상 O O B-약품 O O
+O O
+O O B-사이즈 O O O
+B-메뉴 O
+B-고기부위 O O
+O B-제품 O
+O O B-일자 B-숙박단위 O O
+B-상품 O
+B-과일종류 O
+B-온도 O
+B-화장품종류 O O
+B-객실종류 O O
+O B-결제수단 O
+B-옷종류 O B-금액 I-금액 O O
+B-메뉴 O O O
+B-제품 O B-횟수 I-횟수 O B-스타일 O O
+B-부위 O
+B-대상 O O O
+B-메뉴 I-메뉴 B-재료 O O
+O O B-메뉴 O B-메뉴 O
+B-중개사무실 O
+O B-생활용품 O
+O O O
+B-할인종류 O O
+B-메뉴 I-메뉴 B-온도 B-메뉴 O
+B-가공식품종류 O O O O
+B-시기 B-주거시설 O O B-비용 O B-비용 O O
+B-온도 B-메뉴 B-사이즈 O O
+B-포장 B-장소 O O B-금액 O
+O
+B-옷부위 B-서비스종류 O O O O O
+O O B-수량 O O
+B-결제방식 O O
+B-의류 O O O O
+B-음식종류 O O O
+B-사이즈 O O
+B-식빵종류 I-식빵종류 O O O
+B-메뉴 B-수량 I-수량 O O
+B-원단종류 B-원단종류 O O
+O B-메뉴 O O O O O
+B-메뉴 B-수량 O O
+B-예약시간 O O O
+B-임대종류 O O O O
+O B-제품 I-제품 O O
+B-시간 O
+B-비품 O O
+O O O
+O O B-결제수단 O
+B-연령대 B-성별 O O O
+B-배달지 B-메뉴 O O
+O O
+B-메뉴 B-수량 O O
+B-호칭 O B-가방종류 O
+B-메뉴 O B-메뉴 O O
+O O O O O
+O B-술 O O
+B-제품명 O
+B-고기부위 O O
+B-염색제종류 O O O
+B-수선위치 O B-옷종류 B-옷부분 O O O
+O O B-과자종류 O
+O O O
+B-가짓수 I-가짓수 O O O O O
+B-결제방식 B-카드종류 O O O
+B-과일종류 O O
+B-포장 O O
+B-반찬 O O O
+O O
+B-이용시간 O
+B-옷종류 I-옷종류 B-옷종류 O O O
+B-연령대 O O O O O O
+B-날짜 O O O
+B-주거시설 O O O O O
+O O O
+B-날짜 B-메뉴 O O
+O O O B-사이즈 O
+B-약종류 O O O O
+B-향수제품이름 I-향수제품이름 B-금액 O O
+B-음식용도 O O
+B-프로그램 O O O O O
+O O O O O O O
+B-메뉴 O
+O B-부위 O O
+B-메뉴 I-메뉴 O B-수량 O
+B-제품 B-수량 I-수량 O O O
+B-메뉴 I-메뉴 O O B-사이드메뉴 B-소금 O O O O
+B-수량 I-수량 B-수량 I-수량 O O B-수량 O O O
+O B-반찬 O O O O O
+B-장식 O O O O
+O B-제품 O
+B-수수료 I-수수료 O O
+O B-화장품종류 O O O
+B-횟수 O
+O B-성분 B-성분 O O O B-병명 O O
+O O O O O
+O
+B-고기종류 O O
+B-메뉴 B-인원 O O O O O
+B-메뉴 I-메뉴 B-메뉴 I-메뉴 O O
+B-스타일 O O
+O B-제품 O O O
+B-반찬류 O O O
+B-제품 O
+O O B-증상 O O O O O O O
