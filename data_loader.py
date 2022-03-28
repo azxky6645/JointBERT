@@ -120,6 +120,9 @@ processors = {
     "atis": JointProcessor,
     "snips": JointProcessor,
     "aihub_data": JointProcessor,
+    "aihub_data_nobio": JointProcessor,
+    "aihub_data_v2": JointProcessor,
+    "aihub_data_v3": JointProcessor
   # 인텐트 줄인 데이터 확인을 위해 추가했습니다
 }
 

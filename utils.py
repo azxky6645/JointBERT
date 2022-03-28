@@ -27,7 +27,7 @@ MODEL_PATH_MAP = {
     'bert': 'bert-base-uncased',
     'distilbert': 'distilbert-base-uncased',
     'albert': 'albert-xxlarge-v1',
-    'kobert': 'skt/kobert-base-v1'
+    'kobert': 'HanBert-54kN-torch'
 }
 
 
