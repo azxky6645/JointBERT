@@ -1,8 +1,7 @@
 import os
 import logging
-import argparse
 from tqdm import tqdm, trange
-
+import argparse
 import numpy as np
 import torch
 from torch.utils.data import TensorDataset, DataLoader, SequentialSampler
@@ -205,6 +204,8 @@ def predict(pred_config):
                 else:
                     line = line + "[{}:{}] ".format(word, pred)
             f.write("<{}> -> {}\n".format(intent_label_lst[intent_pred], line.strip()))
+            print()
+
 
     logger.info("Prediction Done!")
 
@@ -215,7 +216,7 @@ if __name__ == "__main__":
 
     parser.add_argument("--input_file", default="sample_pred_in.txt", type=str, help="Input file for prediction")
     parser.add_argument("--output_file", default="sample_pred_out.txt", type=str, help="Output file for prediction")
-    parser.add_argument("--model_dir", default="./atis_model", type=str, help="Path to save, load model")
+    parser.add_argument("--model_dir", default="./10_31_model", type=str, help="Path to save, load model")
 
     parser.add_argument("--batch_size", default=32, type=int, help="Batch size for prediction")
     parser.add_argument("--no_cuda", action="store_true", help="Avoid using CUDA when available")

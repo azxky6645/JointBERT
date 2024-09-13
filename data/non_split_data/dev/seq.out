@@ -1,0 +1,3173 @@
+B-음식 O O O O O B-장소 O O O O O O O
+O O O O O O O O
+B-행동 O O O O O O B-신체부위 O O O O O
+O O B-행동 O O O O O
+B-장소 I-장소 O O O O O
+B-음식 I-음식 O B-음식 O O O B-장소 O O O O
+O B-시간 O O O O O B-장소 O O B-신체부위 O O O O
+B-증상 O O O O O O
+B-신체부위 O O O O O O B-증상 I-증상 B-증상 B-음식 O O O
+B-음식 I-음식 O B-신체부위 I-신체부위 O B-증상 O O O O O O
+B-신체부위 O B-가구 I-가구 O O O O
+O B-증상 O O O B-생활보조기구 I-생활보조기구 O O O B-음식 O O O O O
+B-음식 I-음식 I-음식 O O O O B-음식 O O O O O O O
+O O O B-행동 O O B-시간 O O
+O B-음식 O O O
+O O B-신체부위 O O O O O O
+O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O B-신체부위 I-신체부위 I-신체부위 O O O O O
+B-신체부위 O O O O O O O
+B-장소 O O O O O O O O B-행동 I-행동 B-증상 B-날씨 O O
+O O O O
+B-가구 I-가구 O O O O O
+B-신체부위 O O O O B-위생용품 I-위생용품 I-위생용품 B-증상 O O O O
+O O B-음식 O O
+O O O O B-행동 O O O
+B-위생용품 I-위생용품 I-위생용품 O O O B-행동 O O O O O O O
+B-신체부위 O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O O O O O O O O O O O O O O
+B-증상 I-증상 O B-장소 B-증상 B-음식 O O
+O O B-날씨 O O O O B-생활보조기구 I-생활보조기구 B-증상 O O O O
+B-신체부위 O O O O O
+B-장소 O B-신체부위 O O O O O O B-장소 I-장소 I-장소 B-증상 B-음식 O O
+B-신체부위 O O O O
+O O O O O O O O
+B-신체부위 B-증상 O O O O O
+O B-행동 O O O O O O O O O O
+B-신체부위 O O O O
+B-날씨 I-날씨 O O O O O O O O O
+O O O O O O O O B-장소 I-장소 I-장소 I-장소 B-신체부위 O O O O
+O O O O O O O
+O O O O O O O O O
+B-증상 I-증상 O O O
+O B-신체부위 O O B-시간 I-시간 O O O O
+B-시간 I-시간 O B-날씨 O
+O O O O O
+B-신체부위 O B-가구 I-가구 O O O O O O O O O
+B-음식 I-음식 I-음식 O O O O
+O O O O O O
+O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O
+B-가구 O O O
+B-장소 O B-신체부위 B-신체부위 O O O O B-신체부위 O O O O
+O O O O O O O
+O O B-시간 O B-시간 I-시간 O O O O O
+B-장소 O O B-증상 I-증상 O B-행동 O O O O O O
+B-신체부위 B-증상 O O O O O
+B-시간 O O O O O O O O
+O O O O O O O B-음식 O O O
+B-행동 O O O O O
+B-신체부위 B-증상 B-신체부위 O O O O O O O
+O O O O O O O O O
+B-장소 O O O O O O B-음식 O O
+B-신체부위 O O O O O O O O O O O
+B-시간 I-시간 I-시간 O O B-음식 I-음식 O B-음식 I-음식 O O O O O O O O O O
+O O O
+B-장소 I-장소 O O O O O O O O O O O O O O O
+B-가구 I-가구 I-가구 O O O O O B-음식 I-음식 I-음식 I-음식 I-음식 O B-음식 O O O O O O O O
+O O O O O O O
+B-장소 O O O B-행동 O O O O O O O
+B-신체부위 O O O B-행동 O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O B-신체부위 I-신체부위 O O O O O O
+B-음식 O B-행동 O O O O O B-신체부위 O O O O O O O
+O B-장소 O O O B-음식 O O
+B-음식 O O O B-시간 B-장소 I-장소 O O O O B-장소 I-장소 O O O O
+O O O O O O O O
+B-증상 I-증상 I-증상 O O O B-음식 O O O O O O O O
+O O O
+B-날씨 O O O O O O O O O O O B-날씨 O O O O B-음식 O
+B-신체부위 I-신체부위 O B-증상 I-증상 O O O O O
+B-위생용품 I-위생용품 O O O O O O O O O O O O O
+O O O O O O O
+O O O O B-행동 O O O O O O
+O O O O O O O O O O B-신체부위 O O O
+O O O O
+B-음식 I-음식 O B-음식 O O B-음식 O O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O B-음식 O O O O
+B-시간 I-시간 O O O O O O O O
+B-가구 I-가구 I-가구 O O O O
+B-음식 O O B-음식 I-음식 O O O O O O O O O O O O
+O O O O O
+B-장소 I-장소 O O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O O
+B-신체부위 O B-가구 I-가구 O O O O O O
+O B-신체부위 O O O O O
+O O O O O O O O O O O O O
+B-신체부위 B-증상 O O O O O O
+B-신체부위 I-신체부위 O B-증상 O O O
+O O O B-증상 O O O O
+B-가구 O B-신체부위 I-신체부위 O O O O O
+B-음식 I-음식 I-음식 O O O O B-음식 O O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O B-음식 O O O O O
+B-증상 O O
+B-신체부위 O O O
+B-장소 O B-증상 I-증상 O O B-신체부위 O B-위생용품 O O O
+B-장소 O O O O O O O
+O O O O B-장소 I-장소 O O B-음식 B-음식 O O O
+O O B-장소 O O O O O O B-음식 O B-행동 O O B-음식 O O O
+B-장소 O O O O O B-증상 I-증상 O O O O O O
+B-장소 I-장소 O O O O O O B-시간 B-시간 O O O
+O O O O O O O O B-행동 O O O O O O O O
+O O O O O O O
+B-날씨 I-날씨 I-날씨 I-날씨 B-신체부위 O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O B-음식 O O O O
+B-음식 I-음식 I-음식 O B-음식 I-음식 I-음식 O B-음식 I-음식 I-음식 O O O O O O
+O O O B-음식 O O O
+B-신체부위 O B-증상 I-증상 O O O O O O O O O O
+B-장소 I-장소 O O O O O O
+B-날씨 O O O O O O O O O O O O O O O O O
+B-가구 I-가구 I-가구 O O O
+O O O O
+B-시간 I-시간 O B-행동 O O O O O
+B-장소 O O O O O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O O O O O
+O O B-가구 O O B-음식 O O O O O O O O O
+O O O O O O O O O O O O O B-음식 I-음식 O O O O
+B-신체부위 O O O O O
+B-행동 O O O O O O O O O O O O
+B-행동 I-행동 I-행동 O O O O O O O O O
+O O O O O O B-신체부위 O O B-증상 O O O
+B-행동 I-행동 I-행동 O O O O O B-행동 O O O O
+O O O O O O O
+B-행동 I-행동 I-행동 I-행동 O O B-증상 O O O
+B-음식 O O O B-행동 O O O B-음식 B-행동 O O O
+B-시간 I-시간 O B-장소 O O O O O O
+O O O O O
+O O B-음식 O O O O O O B-증상 I-증상 I-증상 O O O O O O O
+O B-증상 O B-장소 O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O B-신체부위 O O O O
+B-가구 I-가구 I-가구 O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O B-증상 O O O O O O O O
+B-음식 I-음식 O B-음식 O O B-음식 O O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O O
+B-증상 I-증상 O O O B-위생용품 I-위생용품 I-위생용품 O O O O O O O O O O
+O O O O O O B-음식 I-음식 O O O O O O O O O O O O O O
+O O B-행동 O O O O O
+O O O O
+O O O O O O
+O O O O O
+B-신체부위 O O O O O
+B-날씨 O O O O O O B-신체부위 O O O O O O O O O
+B-가구 I-가구 I-가구 I-가구 I-가구 O O O O
+B-음식 O B-행동 O O O O O O O O B-증상 I-증상 O O
+B-음식 O B-행동 O O B-행동 O O B-날씨 O O O O O O O O
+B-신체부위 I-신체부위 O O O O O O O O O O O O O
+B-신체부위 I-신체부위 O B-증상 I-증상 O O O O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O
+O O O O O O O O B-가구 I-가구 I-가구 O O O O O O O O O O O O O
+B-증상 I-증상 O O O O
+O O O O O
+B-음식 O O O O B-신체부위 I-신체부위 O O O O O
+B-장소 O O O O O O O O O
+O O O O O
+B-신체부위 O B-날씨 O O O O B-위생용품 O O O
+B-신체부위 B-증상 O O O O O
+B-신체부위 O B-위생용품 I-위생용품 O O O O O O B-증상 O O O O O
+B-장소 I-장소 O O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 O O B-시간 O O O O O
+B-증상 I-증상 O O O O O
+O B-증상 B-장소 O O O O O O O O
+B-시간 I-시간 O O O B-장소 O O O O O
+O O B-신체부위 O O O O O
+B-신체부위 O B-증상 I-증상 O O O O O O O O O O O O
+B-신체부위 I-신체부위 O O O O
+O O O O O
+B-신체부위 O O O O O O O
+B-신체부위 B-증상 B-가구 I-가구 O O O O O O
+O B-장소 O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O B-행동 O O O
+O B-행동 O O O O
+B-음식 O O O O B-장소 O O O O O O O B-생활보조기구 I-생활보조기구 O O O O O
+B-신체부위 I-신체부위 I-신체부위 O B-음식 O O O O
+O O O O B-음식 O O B-금액 I-금액 I-금액 I-금액 I-금액 O B-음식 I-음식 O O O O O O O O
+O O B-행동 I-행동 O O O O O O O O
+O O O O O O B-음식 I-음식 I-음식 O O O O O O
+B-시간 O O B-증상 I-증상 O B-행동 O O O O
+B-장소 I-장소 I-장소 O O O O O O O
+O B-증상 B-장소 I-장소 I-장소 O O O O O O O O O
+B-증상 O O B-행동 I-행동 B-날씨 O O
+B-시간 I-시간 I-시간 O O O O B-증상 I-증상 O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O
+B-장소 O O O O O O O O O O O O O
+B-음식 I-음식 I-음식 O B-음식 O O O O O O O
+O O B-행동 O O
+B-신체부위 I-신체부위 O O B-증상 I-증상 O O O O O
+B-음식 I-음식 I-음식 O O O O B-음식 I-음식 I-음식 O O O O O O
+O O O O
+B-시간 O O B-신체부위 O O B-날씨 O O O O
+B-신체부위 O O O O O B-음식 B-증상 O O O O O O
+B-장소 I-장소 O O O O O O O O O O O O O O O
+O O O O O O
+O O O O O O
+O O O O O O
+B-시간 I-시간 I-시간 O B-행동 O O O O O B-음식 O O O O O O O O
+B-가구 I-가구 I-가구 I-가구 I-가구 O O O O B-행동 O O B-음식 O
+B-신체부위 B-증상 O O O O
+B-음식 I-음식 O O O O O O O O O O O O
+B-가구 I-가구 O B-증상 O O O O O O
+O O O O O O O O O
+B-시간 B-날씨 O B-시간 O B-행동 O O
+B-위생용품 B-증상 O O O O O
+O O O O O B-음식 O O
+B-신체부위 I-신체부위 O B-장소 O O O O O O O O O
+O O O O O
+O O B-음식 O O O B-증상 I-증상 I-증상 O O O O
+B-신체부위 O O O O B-음식 I-음식 I-음식 B-신체부위 O O O O
+B-음식 I-음식 I-음식 O B-음식 I-음식 O O O O O O O
+O O O O O O
+B-증상 I-증상 O O O O
+B-시간 O B-장소 I-장소 I-장소 B-장소 I-장소 I-장소 O O O O
+B-가구 I-가구 O O O O O
+B-신체부위 O O O B-음식 O O O O
+B-행동 I-행동 B-날씨 O O O
+O O O O O O O O O O
+O O O O O O O
+B-가구 I-가구 O B-행동 O O O O O O
+B-신체부위 O O O O O O
+O O O O O O
+O O O O O
+O O O O B-음식 O O O
+B-가구 I-가구 I-가구 O B-음식 O O O B-음식 B-증상 O O O
+B-음식 O B-행동 O O O O O B-시간 O O O O O O O
+B-시간 O O B-음식 I-음식 I-음식 I-음식 O B-위생용품 I-위생용품 O O O O O O O O O
+B-신체부위 B-행동 I-행동 O O O O
+O O O O O O B-증상 I-증상 B-음식 O O O O O
+B-장소 O O O O O O O O
+B-신체부위 I-신체부위 O O O O O O O O O
+O O O O O O
+O O O O O O O
+O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O B-음식 O O
+O O O B-행동 O O O O
+O O O B-행동 O O O
+B-장소 I-장소 I-장소 O O O B-장소 I-장소 B-행동 I-행동 B-증상 O O O
+B-신체부위 B-음식 I-음식 I-음식 O B-음식 O O B-증상 O O O
+O O B-음식 O O O
+O O O O
+B-시간 O O O O B-행동 O O
+B-음식 I-음식 I-음식 I-음식 B-음식 I-음식 O O B-신체부위 O O O O O
+B-음식 O O O O
+O O B-행동 O O O O O O O O O B-신체부위 O O O O O O
+O O O B-행동 I-행동 O O O O O O
+O O O O O O O O
+B-신체부위 B-증상 O O O O O
+B-음식 O O B-장소 I-장소 O O O O O O
+O O O B-날씨 O O O
+O B-위생용품 I-위생용품 I-위생용품 O O O O O O O O O O O O
+O O O O O O
+O O O O O B-시간 B-음식 O O O
+B-신체부위 B-증상 O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O B-신체부위 I-신체부위 O O O O O O
+B-장소 O O O O O O O O O O O O
+O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O B-신체부위 O O O O O O O O O
+O O O O O
+O O O O B-가구 B-장소 I-장소 O O O O O
+O O O O
+B-날씨 O O O B-신체부위 O O O O O O O
+O O O O O O O O B-음식 O O O O O O
+B-시간 O B-행동 O O O O O O
+O O B-행동 O O O O O O
+O O B-시간 O O O O O O O
+B-신체부위 O O O O B-가구 I-가구 B-증상 O O O O
+O B-음식 I-음식 O O O B-음식 O B-음식 I-음식 O O O O O O
+O O O O O
+O O B-음식 I-음식 I-음식 I-음식 O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O B-가구 I-가구 O O B-장소 O O O O O
+O B-증상 B-장소 I-장소 I-장소 O O O O O O O O O
+O B-증상 B-가구 I-가구 O O O O O O O O
+O O O O
+O O O O B-장소 I-장소 O B-증상 I-증상 O O O O O O O O B-증상 O O O O
+O O O O O O O O
+O O B-시간 O O
+B-신체부위 O O O O O O
+B-시간 O B-음식 O O O O O
+O O O O
+O O O O O B-음식 O O O
+B-시간 O B-시간 O O O
+B-위생용품 I-위생용품 I-위생용품 O O B-시간 O O O O O O O
+O B-증상 O B-장소 O O O O O O O
+B-시간 O B-신체부위 O O O O O
+O O O O O O
+B-시간 B-음식 B-장소 I-장소 O O O O B-음식 O O O O O O
+B-시간 O B-날씨 O O O O B-날씨 O O O
+B-신체부위 I-신체부위 I-신체부위 O B-증상 I-증상 O O O O O O O O O
+O O O O O O O O O
+O O O B-행동 O O O
+O B-장소 O O O O O O O O
+O O O O O
+B-신체부위 O O B-음식 I-음식 O O O O O O O
+O O O O O O O O O O
+B-날씨 I-날씨 I-날씨 I-날씨 O O O O O O O O
+O O B-증상 O O O O
+O O O
+B-장소 O B-음식 O B-증상 I-증상 I-증상 O O O O
+O O O O O O O O
+B-가구 I-가구 I-가구 B-신체부위 O O O O O O
+O O O O
+O O B-행동 O O O O
+O O O O O O O O O O O O O O O
+B-시간 I-시간 O O O O O O O O O B-장소 O O O O O O
+O O O O O O O O
+O O O O O
+O O O O O O
+B-신체부위 O O O O O O O
+O O O O O O O O
+O O O O O O O O O
+B-행동 I-행동 O O O O O O O
+O O O O O O O O O O O
+O O O O O O O
+O O O O O O O
+B-가구 I-가구 I-가구 O O O O O O
+B-증상 I-증상 O O O O O O O B-장소 O O O O O O O
+O O O O O
+O O O O O O O
+B-신체부위 O O O O O
+B-신체부위 O O O O O O
+O O O O O O O O
+O O O O O O O O O O O O
+B-신체부위 O O O O O O O O O O O
+B-증상 I-증상 O O B-음식 O O O O O O O O
+B-신체부위 O B-증상 I-증상 I-증상 O O O O
+O O O O B-음식 O O O O B-행동 O O O O O
+B-날씨 O O O O O O B-행동 O O O O O
+B-행동 O O O O O
+O O B-장소 I-장소 I-장소 O O O O B-날씨 O O O O O O O
+O B-행동 O O O O O
+O B-증상 B-날씨 O O O
+O O O B-증상 O O O O O B-행동 O O O O O O O
+B-신체부위 O O O O O
+B-가구 O B-증상 O O B-증상 I-증상 I-증상 O O O
+O O O O
+B-신체부위 I-신체부위 O O O O O O
+B-장소 O O O O O O O O
+B-증상 I-증상 I-증상 B-신체부위 I-신체부위 O O B-장소 O O O O O
+B-신체부위 O O O O O O O
+O O B-행동 O O
+B-날씨 O O O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O O
+B-음식 O B-행동 O O O O O B-행동 O B-음식 O O O O
+B-신체부위 I-신체부위 O O O O O O O O O
+O O O O B-음식 I-음식 I-음식 O O O O O O O O O O O
+O O B-행동 O O O
+B-음식 O O O B-음식 B-위생용품 O O O O O O B-신체부위 O O O O O O O
+B-시간 O O O B-가구 I-가구 I-가구 O O O O O O O O O B-음식 I-음식 I-음식 O O O O O O O O O O O
+B-증상 I-증상 O B-신체부위 O O O O O
+O O O O O O O O O O O
+O B-시간 I-시간 O B-날씨 O O O O O O
+O O O B-음식 I-음식 I-음식 I-음식 I-음식 O B-음식 O O O O O O O O
+O O O O
+O O O O O O
+O O O O B-가구 I-가구 I-가구 O O O O O O B-음식 O
+B-신체부위 B-증상 O O O O
+B-음식 O O O O O O O O O
+B-시간 I-시간 B-행동 O O O O B-행동 O O O O O
+O O B-시간 O O O B-행동 O O O O O O
+B-날씨 O O B-음식 B-행동 I-행동 O O O O
+O O O B-시간 I-시간 O O O O O
+B-음식 O O O O O B-음식 O O O O B-장소 O O O O O O O
+O O O O O O O
+O O O O B-행동 O O O
+O O O O O O
+B-증상 I-증상 I-증상 O B-위생용품 I-위생용품 B-증상 B-신체부위 O O O
+O O O O O O O O
+B-장소 O O O B-행동 O O O
+O O O O O B-음식 O O O O O O
+O O O O O O
+B-장소 B-증상 O O O O O O
+O O O O O O O O O O B-행동 O O O O O
+B-시간 B-행동 O O O O B-음식 O O O O O O O O O O
+B-증상 I-증상 O O O O
+B-음식 I-음식 I-음식 O O O O O O
+B-증상 I-증상 I-증상 B-증상 O O O O
+B-장소 I-장소 B-생활보조기구 I-생활보조기구 B-증상 O O O O
+B-장소 I-장소 O O O O O O O O O O O O O O O O
+O O O O O
+O O O O O
+B-장소 O O O O B-음식 O O O O
+O O O O O
+O O O O B-행동 O O O O O O
+O O O O O B-음식 I-음식 B-음식 O O O O O O O
+O O O O O O O O O
+B-음식 O O O O O O O O
+O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O O O
+B-장소 O O O O
+B-음식 I-음식 I-음식 O B-음식 I-음식 O O O O O O O O O O O O O O
+O B-신체부위 O O O O
+B-신체부위 B-행동 I-행동 I-행동 O O O O
+B-음식 I-음식 I-음식 O O O O O
+B-장소 O O O O O
+O O O O
+O O O B-행동 O O O
+O O O O O O
+B-가구 I-가구 O B-행동 O O O O O
+O O O O O O
+O O B-행동 O O O O O
+O O O O
+B-신체부위 O B-음식 O O O O O O O O O O O O
+B-신체부위 O O O O O O O O
+B-장소 I-장소 O O O B-음식 O O O O
+B-시간 I-시간 B-장소 O O O O O O O O O
+O B-증상 O O B-날씨 O O
+B-가구 O O O O O O B-신체부위 O O O O O
+O O O O O O O O O
+O O O O O O O
+B-신체부위 O O B-가구 I-가구 B-증상 O O O
+B-음식 O O O O O O
+B-신체부위 O O O O B-행동 O O O O O
+B-신체부위 O O O O O O O O
+O B-음식 O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O B-음식 O O O O O
+B-시간 O O O O
+B-신체부위 O O O O O O B-음식 I-음식 B-증상 O O O
+O O O B-음식 O O O
+O B-시간 I-시간 O B-장소 I-장소 I-장소 O O O O O O O O O
+B-가구 I-가구 I-가구 O O O O O O O O
+O O O B-신체부위 O O O O O O
+O O O O O O O O O O O O O O O
+B-신체부위 B-증상 O O O O
+B-신체부위 O O O O O O
+B-시간 O O O B-장소 O B-장소 O O O O O O O O B-시간 I-시간 O O O
+B-행동 O O O O O B-증상 I-증상 O B-음식 O O O
+O O O O O B-날씨 O O
+O O O O O O B-음식 O
+O O O O O O O
+O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O O O O
+B-신체부위 O O O O O O O
+B-날씨 O O O B-장소 I-장소 O O O O O
+B-신체부위 O B-증상 I-증상 O O B-시간 O O O O O O O
+B-장소 B-증상 O O O O O O O O
+B-날씨 O O O O O B-음식 B-음식 O O O
+O O O O O B-장소 O O O O O
+B-신체부위 I-신체부위 O O
+O B-증상 B-장소 I-장소 I-장소 O O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O O O O O O O O
+O O O O
+B-음식 O O O O O
+B-장소 O O O O O O O O
+O O O
+B-음식 O O O O O O O B-신체부위 O O O O
+B-신체부위 O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O B-음식 O O O O O O O
+B-증상 I-증상 I-증상 O O O O O O
+O O O O O
+O B-장소 O O O O O O O
+B-음식 O O O O O O O B-신체부위 O B-날씨 O B-시간 O O O
+O O O O O O O
+O B-장소 B-음식 I-음식 O O O O O O B-날씨 O
+B-신체부위 O B-장소 O O B-증상 O O O O O
+O O O O B-행동 O O O
+B-장소 O O O O O O O O
+O O O O O
+O O O O B-장소 O O O B-증상 O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O B-행동 O O O O O
+B-음식 I-음식 I-음식 O O O O O B-음식 I-음식 O O O O O O O B-장소 O O O O O O O
+O O O B-음식 O O O O B-음식 O B-행동 O B-음식 O O O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O O O O O O O O
+B-장소 O O O O O O O O O O O O O O O O O
+O B-생활보조기구 I-생활보조기구 O B-장소 I-장소 O O O O O O O O O O O O O O O
+O O O O O O O O O O
+B-증상 I-증상 I-증상 O O O
+O O O O B-신체부위 O B-증상 I-증상 I-증상 O O O O O O O O O B-증상 O O O O
+O O O B-날씨 O
+B-신체부위 O O O O O O O
+B-가구 I-가구 B-증상 O O O O O O
+O O O O O B-음식 O O B-증상 O O O
+O O O O O
+O O O O O O O O O
+B-장소 I-장소 B-행동 O O O O O O O O
+O O O O O
+O O O B-가구 B-날씨 O O O O
+B-신체부위 O O O O O O O O O O O
+O O O O O O B-행동 O O O O
+B-장소 I-장소 O O O O O O O O
+B-증상 I-증상 I-증상 O B-행동 I-행동 O O O
+O B-장소 O O O O O O O B-날씨 O O O O O O O O
+B-날씨 I-날씨 I-날씨 O O O B-신체부위 O O O O O
+B-날씨 O B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O O
+B-시간 I-시간 O B-신체부위 O O
+B-장소 O O O O O O
+B-장소 O O O O O O O O
+B-시간 B-행동 O O O O
+B-신체부위 O O O B-음식 B-위생용품 I-위생용품 I-위생용품 O O O O O
+B-신체부위 O O O O O O O
+O O O O O O B-신체부위 O O O O
+B-증상 I-증상 I-증상 I-증상 O B-신체부위 I-신체부위 O B-음식 O O O O
+O O O
+B-장소 O O O O O O
+O O O O O O O O
+O O O O O
+B-시간 B-시간 I-시간 O O
+O O O O B-음식 O O O O B-증상 O O O O
+O O O O B-음식 O O B-신체부위 O O O
+O O B-행동 O O
+O O O O O O
+O O O B-가구 O O O O O O
+O O O O O O
+O O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O O O O
+B-행동 I-행동 O O O B-행동 O O O
+O O O O O B-음식 I-음식 O O O
+B-음식 I-음식 B-음식 O O O O O O O B-신체부위 O O O O O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O B-신체부위 O O O O O O O O O O
+O O O B-위생용품 O O O O
+B-신체부위 O B-증상 O O O O O
+B-장소 O O B-행동 O O O O
+O O O O O O O O
+B-신체부위 I-신체부위 O O B-음식 O O O O
+O O O
+O O O B-증상 O O O O O O O O O O O O
+B-생활보조기구 I-생활보조기구 O O O O B-신체부위 I-신체부위 O B-증상 O O O
+O O O O O O
+B-장소 O O O O O O O O O O O O O O O O O O O O
+O O O O B-음식 I-음식 I-음식 B-신체부위 I-신체부위 I-신체부위 O B-증상 O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O O O O O O O O O O
+O O O O O O
+B-금액 I-금액 O O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O O O O
+B-시간 B-행동 O O O O O
+O O O O O O
+B-장소 O O O O O O O
+B-신체부위 B-증상 B-음식 O O O
+O B-증상 B-장소 I-장소 O O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O B-음식 I-음식 O O O B-음식 I-음식 O O O B-신체부위 O O O O O
+O O B-행동 O O O O O
+B-장소 I-장소 O B-음식 B-증상 O O O O
+O O O O O
+B-신체부위 O B-증상 O O O O O
+B-장소 I-장소 O O O O O O O B-음식 I-음식 I-음식 B-금액 I-금액 O O B-날씨 O O O O O
+O O O O
+O O O O O O O O O O
+B-시간 B-장소 I-장소 I-장소 O O B-음식 I-음식 I-음식 O O O
+O O O O B-행동 O O O O O O
+O O O B-행동 O O O
+B-시간 O O O O B-음식 O O O O O O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 B-증상 O O O O
+B-시간 O O O
+B-시간 O B-신체부위 O O O O O O O O O O
+B-신체부위 O O B-신체부위 O O O O O O
+B-장소 I-장소 B-증상 O O O O O O O
+B-신체부위 O B-날씨 O O O O B-음식 O O O O O O O O
+B-장소 O O O O O O O O
+B-신체부위 O O O O O O
+O O O O O O
+B-신체부위 I-신체부위 O O O O O O O O O
+B-시간 O O O O O O O O
+O O O B-신체부위 O O O O B-행동 O O O O O
+B-음식 O B-신체부위 O O O O O O B-위생용품 O O O O O O
+O O O
+O O O O B-행동 O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O
+B-장소 I-장소 B-증상 O O O O O O
+B-신체부위 O O O O
+O O O
+B-신체부위 B-시간 O O O O O B-음식 O O O
+B-시간 B-음식 O O O O O O
+O O O O O O O O O
+B-장소 I-장소 O O O O O O O
+O O O B-증상 I-증상 I-증상 O O O O O
+O O O O O
+B-행동 O O O O O O B-신체부위 O O O O O O O O O O O O
+O O O O O O O B-증상 I-증상 I-증상 O O O O
+O O O B-신체부위 O O O
+O O O O O
+B-신체부위 B-증상 O O O O O O
+O O O O O O O O O O O B-신체부위 O O O O O O O O O O O
+B-신체부위 O B-위생용품 O O B-신체부위 I-신체부위 O O O O O O O O O
+B-날씨 I-날씨 I-날씨 O O O O B-신체부위 O O O O O
+O O O O
+B-신체부위 O B-신체부위 O O O B-음식 B-장소 O O O O O O
+O O O O B-행동 O O O O O
+B-장소 I-장소 O O O O O O
+B-신체부위 O O O
+O B-증상 B-장소 I-장소 I-장소 O O O O O O O
+B-신체부위 O O O O
+B-장소 B-증상 O O O O O
+O B-증상 O B-장소 O O O O O O O
+B-신체부위 O O O O O O O O O O O O O O O
+O O O B-행동 O O O O
+B-시간 B-음식 O O
+O O O O O O
+O O O O O
+B-신체부위 B-증상 O O O O O
+O O O B-날씨 B-장소 I-장소 I-장소 O O O O O O
+B-가구 O O O O O O O O O O O O B-증상 O O O
+B-시간 I-시간 O O O O O O O B-행동 O O O O O
+B-장소 O B-시간 I-시간 O O B-음식 O O
+B-음식 O O B-증상 I-증상 O O O O O O O O O O B-날씨 O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O B-음식 I-음식 O B-음식 I-음식 O O O O O O O O O O O O O O
+B-증상 I-증상 O O O B-위생용품 I-위생용품 I-위생용품 O O O O O O O O
+O O O O O O O O B-날씨 O O O O O O O O O
+B-증상 I-증상 O O O O O O O
+B-위생용품 O O O O O O O O O O O O
+O O O O B-신체부위 O O O O
+O O O O O B-음식 O O O O
+O O O O B-행동 O O
+B-증상 I-증상 I-증상 O B-장소 O O O O O O O
+B-장소 O B-시간 O O O O
+O O O O B-증상 I-증상 O O O O B-행동 O O O
+B-시간 O O B-신체부위 O O O O O O O O
+B-시간 O O O B-날씨 O O O O
+B-위생용품 O O O O B-행동 O O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O O O
+B-시간 O O B-음식 I-음식 I-음식 O B-증상 O O O O O O O O O O O O O O O O
+O O B-음식 I-음식 I-음식 O O B-장소 O B-음식 O O O
+O O O O O O O O
+B-행동 O O O
+B-신체부위 O O O O O O O B-행동 O O O O O O
+B-시간 O O O O O O O O
+O O O B-증상 I-증상 I-증상 O O O
+B-신체부위 O O O O O O O O
+B-행동 O O O O O B-음식 B-신체부위 O B-행동 O O O O O O
+B-날씨 O O O O O
+B-장소 O O O O O O O B-날씨 O O
+B-위생용품 I-위생용품 I-위생용품 O B-증상 I-증상 I-증상 O O O O O O O O O O
+O B-행동 O B-시간 I-시간 O O O O B-증상 I-증상 O B-음식 O
+O O O O O O O
+O O O B-증상 O O O O O O
+B-음식 I-음식 I-음식 O O O B-음식 O O O O O
+O O O O O
+O O B-행동 O O O O O B-음식 B-행동 O O O O O O
+O O O O O O O
+O O O O O
+O O O O O O O
+B-신체부위 O O O O B-음식 O O O O O O
+B-음식 O O O B-시간 I-시간 O B-장소 O O O O O O
+O B-날씨 O O O O O O O O O O O O O
+B-신체부위 O O O O O O
+O O B-증상 I-증상 I-증상 I-증상 O O O
+O B-행동 I-행동 O O O
+B-음식 I-음식 O O O B-음식 I-음식 I-음식 O O O O O O
+B-시간 O B-신체부위 O O B-장소 O O O
+O B-행동 O O O O O O
+O O O O O O
+O O O O
+O O O O O O
+B-음식 O O O B-행동 I-행동 O O O O O B-음식 O O O
+O O O O O O O
+B-증상 I-증상 B-음식 O O O O O O O
+B-신체부위 B-장소 O O O O O O O O O O O O O O O O O O
+O B-신체부위 O O O O O O
+B-시간 I-시간 O B-행동 O B-음식 O O O O O O O
+O O O O O O O
+B-행동 I-행동 O O O O O B-날씨 O O O O O O O O
+B-가구 I-가구 O O O O O O O O
+O O O O O B-행동 O O
+B-장소 O O O O O O O O O
+B-신체부위 O O O O O O
+B-시간 O O B-행동 O O O O O B-신체부위 O B-음식 O B-음식 O O O
+O O B-가구 I-가구 O O O O O O O O B-음식 O O O O O O
+B-금액 I-금액 O O O O O O O O
+O B-음식 O O B-음식 O O O O O
+B-신체부위 O B-음식 O O O O
+B-장소 O O O O O
+O O O O
+B-증상 I-증상 I-증상 O O O O O
+O O O O
+B-음식 O O O O O B-증상 I-증상 O O
+O B-장소 B-증상 O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O B-행동 O B-날씨 O O O O
+B-음식 O O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O
+B-증상 I-증상 I-증상 O B-시간 O O B-행동 O O O O
+B-행동 I-행동 O B-날씨 O B-위생용품 I-위생용품 I-위생용품 O O O O
+O O B-시간 O O O B-생활보조기구 I-생활보조기구 B-증상 O O O O
+B-가구 I-가구 O O O O
+B-시간 O O O O O B-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O O
+B-음식 I-음식 I-음식 I-음식 O O O B-음식 I-음식 I-음식 O O O B-증상 O O O O O
+O O O B-증상 I-증상 O O O O O O O O O O B-음식 B-증상 O O O O
+O O O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O B-증상 I-증상 I-증상 O O O O O
+O O O O O O O B-음식 I-음식 O B-시간 O O O O O O
+O B-신체부위 O B-증상 O O O O
+O O B-행동 O O O B-날씨 O O O O O O
+B-신체부위 O B-음식 O O O O O O O O O O O O
+B-신체부위 O O O O O O O O
+O B-증상 I-증상 O B-증상 I-증상 O O O O
+B-장소 O B-음식 O O O O B-증상 I-증상 O O O O O
+B-날씨 I-날씨 O O O O O O O
+B-신체부위 O O O O O O O O O O
+O O O O O
+B-행동 I-행동 I-행동 O O O O O O O O O O
+B-가구 I-가구 O O O O O O B-시간 B-시간 I-시간 O O
+B-음식 I-음식 I-음식 I-음식 B-음식 I-음식 O B-신체부위 O O O O O O O O
+O B-행동 O O O
+B-행동 O O O
+B-가구 I-가구 I-가구 O B-행동 O O O O O O
+B-장소 O O B-증상 I-증상 O O
+O O O O O O O O
+O O O O O O O O O
+O O O O B-신체부위 O O O O O O O O O
+B-음식 O O B-음식 O O O O
+O O B-증상 O O O
+O O O O O O O O
+O O O B-날씨 O
+O O B-행동 O O O O O
+B-시간 O O O O O O O O O B-장소 O O O O O O O
+O O B-증상 I-증상 O O O O O O O
+O O O O O O O O O O
+B-증상 I-증상 O B-음식 O O B-행동 O O O O O
+B-음식 I-음식 O O O O O O O O O
+B-장소 I-장소 B-증상 O O O O O O
+O O O O O O O O
+O O O B-행동 O O O O O
+B-신체부위 O O B-음식 O O O O O O O O
+O O O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O B-신체부위 O O B-음식 O O O O O O O
+O O O O O O O O
+B-신체부위 O O O O O
+B-신체부위 O B-가구 I-가구 O O O O O O O O
+O O O O O O O O O B-생활보조기구 I-생활보조기구 B-증상 O O O O
+B-신체부위 I-신체부위 I-신체부위 O B-증상 O O O O O O
+O O O O O O O O O
+O O O O O O O O O O
+O B-행동 O O O
+O O O O B-음식 O O O
+B-행동 I-행동 O O O O O O O O O O
+O O O B-음식 O O O
+O O O O O O O O O
+B-가구 I-가구 I-가구 I-가구 I-가구 O O O O O O O O O O O O O B-신체부위 O O O O
+B-신체부위 O O O O B-장소 I-장소 O B-시간 I-시간 O O O O
+B-신체부위 O O O O O O O
+B-행동 O O O B-증상 I-증상 O B-증상 O O O
+O O O O O
+O O O O O
+O O O O O
+O B-증상 B-장소 O O O O O O O O O
+O O O O O B-음식 I-음식 I-음식 I-음식 O O B-신체부위 O O O O O O
+B-음식 I-음식 I-음식 O O O O O B-날씨 O O O O O O
+B-가구 I-가구 O O O O O O O B-신체부위 I-신체부위 O O O O
+B-음식 I-음식 O O O O B-장소 O O O O O
+B-가구 I-가구 O O O O O O O
+B-음식 O O B-행동 I-행동 O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O O O O O O O O
+B-신체부위 O O O O O O O O
+O O O O O O O O O B-장소 O O O O O B-장소 O O O
+O O O O
+B-시간 I-시간 O O O O B-음식 O O
+O O O O O O O B-음식 I-음식 I-음식 I-음식 O O O O O O O
+B-장소 O O B-행동 O O O
+B-장소 O O O O O O O
+B-음식 O O O O O B-음식 O O
+B-장소 I-장소 O O O B-행동 I-행동 I-행동 O O O O
+B-신체부위 O O O O O B-행동 O O O O O
+B-가구 O B-신체부위 O O O O O O
+B-신체부위 O O O O O
+O O B-행동 O O O
+B-장소 O B-장소 I-장소 O B-위생용품 O O O O O O O O O O
+B-증상 I-증상 O O O O O O O O
+O O O B-장소 O O O O O O O
+O O O O O O O
+B-신체부위 O O O O B-행동 O O O O O
+B-행동 I-행동 O O O O O O
+O O O O O
+O O O O O O O B-음식 B-증상 O O O O
+O O O O O
+B-증상 I-증상 O O O O O O B-행동 O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O
+B-가구 I-가구 I-가구 O O O O B-음식 O
+O O O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O B-신체부위 O O O O O
+B-종교활동 I-종교활동 O O O O O O O O O O O
+B-신체부위 B-증상 O O O O O
+O O O O O O O O B-행동 O O O O O O O B-날씨 O O
+B-날씨 O O O O O B-증상 I-증상 O O O O O O O
+O O B-신체부위 O O O O O O
+O O O O O O O O O O
+B-행동 I-행동 O O O O O O O O O O O O
+O B-시간 B-행동 O O O O O O O O O O O O O
+O O O O O O O O
+O B-가구 O O O O B-신체부위 O O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O
+O O O O O O O O O
+B-음식 O O O O B-장소 I-장소 O O O O O
+B-신체부위 B-행동 I-행동 B-증상 B-날씨 O O O O O
+O O O O O O O O O O B-행동 O O O O O
+B-시간 I-시간 O O O O O O O O O O B-장소 O O O O
+O B-행동 O O
+B-장소 I-장소 O O O
+O O O O O O O O
+O B-행동 O O O O O O
+B-신체부위 I-신체부위 I-신체부위 B-증상 O O O O O
+O O O O O O O O O O O
+O O O O O
+B-행동 I-행동 O O O B-위생용품 I-위생용품 B-증상 O O O O
+B-장소 O O O O O O O B-가구 I-가구 I-가구 O O O O
+O O O O O B-장소 I-장소 O B-음식 I-음식 O B-음식 I-음식 I-음식 O O O O O O O O O O O O
+B-신체부위 O O O O O O O O O
+B-장소 I-장소 O O O O O O O B-장소 I-장소 I-장소 O O O O O O O
+B-시간 B-행동 O O O O O O B-날씨 O O O O O O
+O B-음식 I-음식 B-음식 O O O O O B-음식 I-음식 I-음식 O O O O O O
+B-행동 I-행동 O O O O
+B-장소 O O O O O O O O O O O O O O O
+O O O O O O O O
+B-신체부위 O B-증상 I-증상 I-증상 O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O B-신체부위 O O O O O O O O O O
+B-신체부위 I-신체부위 O O O O O O O B-증상 O O O O O
+O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O
+B-신체부위 O B-증상 I-증상 O O O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O
+B-신체부위 B-증상 O O O O O
+O O O O O O O
+B-시간 O O B-행동 O O O O O O O O O O
+O O O O
+O O O O O O O
+B-날씨 O O O O O O
+B-신체부위 B-가구 I-가구 O O O O O O
+B-장소 I-장소 B-증상 O O O O O O
+O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O
+O O O O O O B-음식 O O O
+O O O O O O B-음식 O O O
+B-시간 O B-음식 I-음식 O O O O O O O O O
+B-신체부위 B-증상 O O O O
+O O O O O O O O O O B-증상 O O O O
+B-장소 I-장소 O O O O O O O
+O O O O O O
+B-증상 O B-증상 O O O
+B-가구 I-가구 I-가구 I-가구 B-증상 O O O O
+O O O O O O
+B-신체부위 O O O O O O O
+B-증상 I-증상 O B-증상 I-증상 I-증상 O O O O O O
+B-신체부위 B-증상 O O O O O O O
+O O O O O B-증상 O O O O
+B-위생용품 I-위생용품 I-위생용품 O B-시간 O O O O O O O O O
+B-시간 B-날씨 O O O O O O O O
+B-신체부위 O O B-위생용품 O O O
+O O B-신체부위 O B-증상 O B-시간 O O O O O
+O O O B-음식 O O O O O O
+B-신체부위 O O O O O O
+O O O B-행동 I-행동 O O O O
+O O O O O O
+O O O O O
+B-증상 O O O O O O O O O O
+B-음식 I-음식 B-음식 I-음식 O O O O O O O O
+O O B-음식 O O O
+B-신체부위 I-신체부위 O O O O O O O
+O O O O
+O O O O B-장소 I-장소 O O B-행동 I-행동 B-증상 O O O O
+O O O O O O O O B-행동 O O O O O
+O O B-음식 O O O O O
+O O O O
+O O B-증상 O O
+O O O B-날씨 O O
+B-장소 O O O O
+B-행동 O O O O O O B-신체부위 O O O O O O
+O O O O O B-증상 O O O O O
+B-음식 O O O O O O B-행동 B-증상 B-날씨 O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O B-음식 O O O O O O O O O O
+O O O O O O B-음식 B-행동 O O O O
+B-행동 I-행동 I-행동 O B-가구 I-가구 B-증상 O O O O O
+B-가구 I-가구 I-가구 O O O O O O B-음식 O O B-음식 O O O O O O O O O
+O O O O O O O O
+O O O B-행동 O O O O
+O B-행동 O O O O
+O O O O O O
+B-신체부위 O O O O B-신체부위 I-신체부위 O O O O O O O
+B-행동 I-행동 B-날씨 O O O O O
+B-신체부위 O B-가구 I-가구 O O O O O O O
+B-가구 I-가구 B-증상 B-증상 O O
+O O O O O O O O O O O
+B-시간 O O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O
+O O O O O O
+B-신체부위 O O B-증상 O O O O O O
+B-장소 I-장소 O O O O O
+B-장소 I-장소 O O O O O O O O O O O O O O
+O B-장소 I-장소 O
+O O O O O O O O
+O O B-음식 O O O O
+O O O O O O O O
+O O O O O O
+B-증상 I-증상 I-증상 O O B-신체부위 O O O O O B-행동 I-행동 O O O O O
+O O B-증상 O O O O B-날씨 O O O O O
+B-시간 B-증상 I-증상 O O O B-날씨 O B-신체부위 O B-가구 O O O O O O O O O
+B-음식 O O O O
+B-음식 O B-음식 O O O O O O O O O O O O
+O O O B-신체부위 O O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O
+B-음식 O O O O B-날씨 O O O O O O
+B-신체부위 B-증상 O O O O O O
+B-음식 I-음식 I-음식 O O O B-음식 O O O O O
+B-음식 O O O O O O O O O B-시간 O O O O O O O O O O
+B-가구 I-가구 O B-신체부위 O O O O O O O O O O O O
+B-음식 O O O O O B-가구 I-가구 O O O O O
+B-시간 I-시간 O O O O O O O O O
+B-음식 O B-음식 O O O B-신체부위 O O O O O O
+B-행동 O O O O O O O O O O O O
+O O O O O O O B-신체부위 O O O O
+B-장소 I-장소 I-장소 O O O O O O
+B-음식 O O B-증상 I-증상 I-증상 O O O O O O O
+B-시간 B-날씨 O O O O O O O O B-신체부위 O O O O
+O O O
+O O O O
+O O O O O B-행동 O O O O
+O B-장소 O O O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O O
+B-장소 I-장소 O O O O O O
+B-장소 I-장소 O O O O O O O O O O O O O O O O
+O O O O O O O O O
+O O O O
+B-증상 I-증상 O O O O O O O
+B-장소 I-장소 O O O O O O O
+O B-증상 B-장소 I-장소 I-장소 O O O O O O O O
+O O O O O O O O
+B-장소 O O O O O O O B-신체부위 O O O O
+B-행동 I-행동 I-행동 O O O O O O
+B-시간 O O O O O O O O O B-가구 B-증상 O O O O
+O B-장소 O O O O O O O
+B-시간 O B-날씨 O O O O O O O O O B-가구 I-가구 O B-행동 O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O B-날씨 O O O O O
+O O O O O O O O
+O O O O O O O O
+O O O B-행동 O O O O O O
+B-시간 I-시간 O O O O O B-음식 O O
+O O O O B-증상 O O O O O O O O
+B-장소 O O O O O O O O O O O O O O O
+O O O O O O
+B-신체부위 O O O
+B-음식 O O O O O O O O O O O
+O O O O O
+O B-신체부위 B-장소 O O O O O O O
+B-가구 I-가구 I-가구 O O O O O O
+B-신체부위 O O O O
+B-신체부위 O O O B-행동 O O O O O
+B-날씨 O O O O O O B-음식 O O O O O O
+B-장소 I-장소 B-증상 O O O O O
+O O B-행동 O O O O
+B-음식 I-음식 O O O O O O O O O
+O O O O
+B-신체부위 I-신체부위 O O O O O O O O
+O O O O O O O O O
+B-장소 I-장소 O O O O O O O B-장소 O O O O O O O O
+B-신체부위 O O O O O B-음식 B-장소 O O O O O O
+O B-음식 O
+B-장소 O O O O O O O O O O O
+O O O O O O O O O O B-행동 O O O O O
+O O O O O O O
+B-시간 I-시간 O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O O O O O
+B-장소 I-장소 B-행동 O O O O O O O O O
+B-신체부위 O O O O B-행동 I-행동 O O O O O O O
+O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O
+O O O O B-신체부위 O O O O
+O O O O O O
+O O O O O O O O
+O O O O B-음식 O O O O
+O O O O
+B-장소 I-장소 O O O O O O O O O O
+O O O O B-신체부위 I-신체부위 I-신체부위 O O O O O O O
+O B-증상 B-날씨 O O O
+B-증상 I-증상 O B-신체부위 O O O O O
+O O O O O O O
+B-시간 I-시간 O O O B-행동 O O O O O
+B-가구 I-가구 I-가구 O O O O
+O O O B-행동 O O O O O O
+O B-신체부위 B-장소 O O O O O O O
+B-음식 O O O O O B-증상 I-증상 O O O O
+B-장소 O O B-신체부위 O O O O O O O
+B-장소 O O O B-날씨 O O B-행동 O O O O
+O O O B-증상 O O O O O
+B-가구 I-가구 O B-행동 O O O O O
+O O O O O O O O O O O
+B-시간 I-시간 B-가구 I-가구 I-가구 I-가구 I-가구 O B-장소 O O O O
+B-음식 I-음식 O O O O O O O O O O
+B-신체부위 I-신체부위 O O O O
+B-증상 I-증상 O O O O O O O O O O B-날씨 O
+B-음식 I-음식 I-음식 I-음식 I-음식 O B-음식 I-음식 O O O O O O O O O O O O B-날씨 O O O O
+O O O O O O O
+O O B-행동 O O O O O
+B-신체부위 I-신체부위 O O O O O O O O O O
+O O O O O O O B-신체부위 O O O O O
+B-신체부위 O O O O O O
+B-신체부위 O O O O O O
+B-시간 B-행동 I-행동 O O O O O O O O O
+B-음식 I-음식 O O O B-행동 I-행동 O O O O O O O B-날씨 O O O O O
+B-음식 O O O O O O
+B-시간 O O O O O O O
+O O O O O O
+B-장소 I-장소 I-장소 O O O O O
+B-신체부위 O O O O B-신체부위 I-신체부위 O O O O
+B-음식 O B-날씨 I-날씨 I-날씨 I-날씨 O O O O O O
+O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O O O
+O O O O O O
+B-장소 I-장소 I-장소 O O O O O O O O O
+B-음식 I-음식 O O B-신체부위 I-신체부위 O O O O O
+B-장소 O O O O O
+O O O O O B-음식 O O O O O O O O O O O
+O O O O O
+O O O O B-신체부위 O O O
+B-증상 I-증상 O O O O O B-위생용품 I-위생용품 I-위생용품 B-증상 O O O O
+B-시간 O O B-행동 O O O O O B-신체부위 O B-음식 O O O
+O O O O
+O O O O O O B-음식 I-음식 I-음식 I-음식 I-음식 O O O O O O O O
+O O O B-행동 O O O B-증상 I-증상 I-증상 O O O
+O O O O O O O O O
+O O B-장소 O O O O B-날씨 O O O O O O O O O O
+B-장소 I-장소 O O O O O O O O
+B-행동 O O O O O O B-시간 O O O O O O O
+O O O O B-음식 O O O O O
+B-신체부위 O O O O O
+B-신체부위 B-증상 O O O O O O
+B-신체부위 O O O O O O O O O O O O O O
+O O O O O O O O O O O
+B-신체부위 O O O O O O O
+O O O O O O
+O O O O O O
+B-행동 I-행동 O O O O O O
+O O O O O O O O
+B-장소 O O O O O O O O
+B-음식 O O O O
+B-가구 I-가구 I-가구 O B-신체부위 O B-증상 I-증상 I-증상 O O O
+O O O B-행동 O O O O
+O O O B-신체부위 O O
+B-신체부위 O O O O O O B-행동 I-행동 O O O O O O O
+O B-행동 O O O O O O O O
+B-시간 I-시간 O O O O O O O O O B-신체부위 O O O O O
+O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 B-증상 O O O O O O
+B-위생용품 O O O O O O O O O O O
+O O B-행동 O O O O O
+O O O B-장소 I-장소 O B-음식 B-증상 O O O O
+B-신체부위 O O O O O
+O O B-음식 B-행동 O B-행동 O O O
+O O O O O O O O
+O O O O B-행동 I-행동 O B-날씨 B-음식 I-음식 I-음식 I-음식 O O O O O O O O O O O O O O
+B-신체부위 B-증상 B-가구 I-가구 B-신체부위 O O O O O
+B-위생용품 I-위생용품 O B-신체부위 O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O O O O O
+B-장소 I-장소 B-증상 O O O O O O O O
+B-장소 B-증상 O O O O O O O
+O O O O O O O
+B-장소 I-장소 O O O O O O O
+O O O O B-행동 I-행동 O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O O
+B-장소 I-장소 I-장소 O B-장소 B-음식 I-음식 O O O O O O O O O O
+O O B-음식 O O O O O O
+O O O O O O O O O O O O
+B-장소 O O O B-시간 O O O O
+O O O O O O O O B-음식 B-신체부위 O O O O O
+O O O O O O O O
+B-행동 O O
+B-시간 B-증상 O O O B-장소 I-장소 O B-음식 O B-금액 I-금액 O O O O O O O O
+B-장소 O O B-음식 O O O
+B-신체부위 I-신체부위 B-증상 B-행동 O O O O O O
+O O B-행동 O O O O O
+B-가구 I-가구 O O O O O O O
+B-음식 O O O O O O O O
+O O O O O O
+B-생활보조기구 I-생활보조기구 O O O O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O
+O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O O O O O O
+B-행동 I-행동 O O O O
+O B-증상 B-장소 I-장소 O O O O O O O
+B-장소 O O O O O O O B-행동 O O O O O O O
+O O O O O O O
+B-장소 I-장소 O O O O O O O
+O O B-행동 O O O O O O
+B-장소 I-장소 O O O O O O O O O
+B-신체부위 I-신체부위 O B-장소 O O O
+O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O B-행동 O O O O O
+O O O B-시간 I-시간 O O O B-음식 O O O
+B-증상 O O O O O O O O O O
+B-음식 O O O O B-음식 I-음식 I-음식 I-음식 O B-음식 I-음식 O O O O
+B-장소 I-장소 O O B-장소 I-장소 O O O O B-종교활동 I-종교활동 O O O O O O O O O O
+B-음식 O O O O O B-증상 I-증상 O O O O
+O O B-신체부위 O O B-시간 I-시간 O B-행동 O O O
+O O O B-음식 O O O
+B-행동 I-행동 O O O O B-날씨 O O
+B-신체부위 O O O O O O
+O O O B-행동 O O O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O O O O O B-위생용품 I-위생용품 I-위생용품 I-위생용품 O O O O O
+B-증상 I-증상 O B-행동 O O O O O O
+B-행동 O O O O O O O O O O O O O O O O O O O O O O
+B-음식 O O B-음식 O O O O O O O O O O O B-음식 I-음식 B-증상 O O O
+B-시간 I-시간 O O
+B-음식 O O B-음식 B-행동 O O O O
+B-가구 I-가구 I-가구 I-가구 I-가구 O O O O O B-신체부위 O O O O O O
+O O O O O
+O B-가구 I-가구 B-행동 O O O
+O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O B-행동 O O O O O
+O B-증상 B-장소 I-장소 B-가구 I-가구 O O O O O O O O
+B-장소 I-장소 O O O O O O O O O
+O O O O O
+B-행동 I-행동 I-행동 O B-음식 B-증상 O O O O
+O O O O
+O O O O O
+O O O O O O O O O
+O O O O O O O
+O O O B-행동 O O O O
+O O O O O O O
+O O O O O
+O O O O O O O O O
+B-행동 I-행동 O B-날씨 O O B-가구 I-가구 B-증상 O O O O
+B-장소 O O O O O O O O O O O
+O O O B-음식 O O B-음식 I-음식 O O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O
+O O O O O O O O O
+B-가구 I-가구 O O O O O O O O O
+O O O O B-행동 O O O O O
+B-음식 O O B-행동 O O O O O O
+B-신체부위 O O O O O O O O O O O
+B-시간 O B-음식 B-시간 I-시간 O O O
+O O O O O B-음식 B-행동 O O O O O
+B-위생용품 I-위생용품 I-위생용품 B-증상 O O O O
+O O O O O O
+O O B-장소 O O O O O O O O O O O O O
+B-시간 I-시간 I-시간 O O O O O O O O
+B-신체부위 O O O O O
+B-시간 O O O O O O O O
+B-증상 I-증상 O O O O O O O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O O O O
+B-시간 O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O B-음식 O O O O O O O O O O O
+B-날씨 B-금액 I-금액 O O O O O O O O O O O
+O O O O O O O
+O B-음식 O O O O O O
+O B-행동 O O O O O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O O O O O O O O O O O O O
+B-날씨 O B-날씨 O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O
+O B-행동 O O
+B-신체부위 O O O O O O
+B-날씨 O O O O O
+O O O O O O O
+O B-행동 I-행동 O O O
+O O O O B-음식 O O O
+B-증상 O O O B-신체부위 O O O O O
+B-증상 I-증상 O O O O O O B-신체부위 O O O O O
+O O B-증상 O O O
+B-신체부위 O O O O O O O
+B-장소 I-장소 I-장소 O O O O O O O
+O B-음식 O O B-가구 I-가구 O O O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O B-신체부위 O O O O O O
+O O B-시간 O B-음식 B-음식 I-음식 I-음식 O O O O O B-날씨 O
+B-행동 I-행동 O O O O O O B-증상 I-증상 I-증상 O O O O
+B-시간 O O O
+O B-행동 O O O
+O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O
+B-신체부위 I-신체부위 O B-증상 I-증상 I-증상 O O O O O O O
+O O O O B-행동 O O O O O
+B-신체부위 O B-증상 I-증상 O O O O O O O O
+O O O O B-행동 O O O
+O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O
+B-신체부위 O O O O
+O O O O
+B-신체부위 B-음식 O O O O O O O O O O O O
+B-신체부위 O O O O O
+O O O O O O
+O O O O O O
+B-행동 I-행동 I-행동 O O B-음식 B-증상 O O O O O
+B-신체부위 O O B-행동 O O O O O
+O O B-행동 O O
+O O B-날씨 O O O
+B-위생용품 I-위생용품 I-위생용품 O B-음식 B-음식 O B-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O O O O B-음식 O O O O O
+O O B-증상 B-날씨 O O O
+B-음식 O O O
+B-음식 I-음식 O B-행동 O O O B-가구 B-증상 O O O O
+O O O O
+B-음식 I-음식 O O O O O O B-신체부위 I-신체부위 O O O O O O O
+B-음식 O O O B-장소 O O O O B-행동 O O O O
+B-증상 I-증상 O O O O O O O
+O O B-날씨 O O O O O
+O O B-시간 B-증상 B-음식 O O
+B-장소 I-장소 O O O B-날씨 O O
+B-증상 I-증상 I-증상 B-증상 O O O
+B-신체부위 O O O O O O
+B-장소 I-장소 I-장소 B-음식 O B-장소 O O O O O O O O O O
+B-가구 I-가구 O B-증상 O O O O O O O O
+B-위생용품 O O O O O O O O O O O O O
+B-생활보조기구 I-생활보조기구 O O O B-행동 O O O O O
+O O O O O O
+O O O B-가구 I-가구 O O O O O O
+B-신체부위 I-신체부위 O B-신체부위 O B-음식 O O O O O
+O O O O O B-신체부위 O O O O O O O O
+B-신체부위 O O B-가구 I-가구 O O O O O
+O O O O O O B-행동 O O O O
+O O O
+O O O O O
+B-신체부위 O O O O O O O
+B-행동 O O O O
+O O O O B-행동 O O
+B-신체부위 O O B-음식 O O O O
+O O O O O O O O O O O
+B-신체부위 O O O O O O
+B-신체부위 O O O O O B-행동 I-행동 O O O O O O O
+B-장소 I-장소 I-장소 O O B-장소 I-장소 O B-증상 I-증상 I-증상 O O O B-가구 I-가구 O O B-증상 O O O
+B-신체부위 O O O O O
+O O O O O B-음식 O B-장소 O O
+B-음식 O O O O O O O B-신체부위 I-신체부위 I-신체부위 O B-증상 I-증상 O O
+B-장소 O O O O O O O O O O
+O O O O O O
+B-신체부위 O B-음식 O O O O O O O O O O O O
+O O O O O O O O B-음식 O O
+B-행동 O O B-시간 O O O O O B-가구 I-가구 B-증상 O O O O
+B-증상 I-증상 O B-신체부위 I-신체부위 I-신체부위 O O O O
+B-신체부위 O O O B-행동 O O O O
+B-장소 O O O O O O
+B-장소 I-장소 O O O O O O O
+O O O O O O O O
+O O O B-행동 O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O O O B-행동 I-행동 O O O O O O O O O O O
+B-시간 B-행동 O O O O O O B-가구 I-가구 I-가구 B-증상 O O O O
+B-행동 O O O O O O O
+O O O O B-행동 O B-장소 O O O O
+B-위생용품 I-위생용품 O B-증상 O O O O O O O O O
+O O O O B-신체부위 B-시간 O O B-증상 I-증상 O O
+O O B-행동 O O O O O O
+O O O B-가구 I-가구 O O O O O O B-장소 O O O O O O O
+O O B-행동 O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O O O O B-신체부위 O B-음식 O O O O
+O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O O
+B-음식 I-음식 O O O O B-음식 O B-신체부위 O O
+B-음식 O O O O O B-장소 O O O O O
+B-날씨 I-날씨 I-날씨 I-날씨 O O O O O O O O O O O O O
+O B-신체부위 O O O
+B-장소 I-장소 O O B-행동 O O O
+O B-증상 B-장소 O O O O O O O O O
+O O O O O B-행동 O O
+O O O O O O
+O O O O O O O O O O O O O O O
+B-장소 I-장소 I-장소 O O O B-날씨 B-증상 O O O O O
+O O O O O O O O
+B-가구 I-가구 O O O
+B-신체부위 I-신체부위 B-증상 O O O O O O
+B-시간 O O O O
+B-장소 O O O O O O B-행동 O O O O O
+O O O O O O O O
+O O O O O
+O O B-행동 O O O
+B-날씨 I-날씨 I-날씨 O O O O O
+O O O O O O
+O O O O O O O O
+O O B-행동 O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O
+B-장소 I-장소 I-장소 O O O B-날씨 I-날씨 I-날씨 B-증상 O O O O O
+O O O O O O
+O O O O
+B-신체부위 O B-음식 O O O O
+O O O O B-증상 O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O O O O
+B-장소 O B-장소 I-장소 O O O O O O O
+B-장소 I-장소 O B-신체부위 O B-증상 I-증상 I-증상 O O O
+B-장소 I-장소 O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 B-증상 O O O O O O
+B-장소 O O O O O O
+O O O O O O O
+B-음식 O O B-음식 O O O O
+B-증상 I-증상 O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O O O
+B-장소 I-장소 B-증상 O O O O O O O O
+O B-증상 O B-장소 O O O O O O O O O
+O O B-음식 O O B-가구 I-가구 I-가구 O O O O O O O O B-행동 O O
+B-가구 I-가구 I-가구 I-가구 I-가구 O O B-가구 I-가구 O O O O B-시간 O O B-증상 I-증상 O O
+B-신체부위 I-신체부위 O O O O O O O O O
+B-음식 O O O O O O O O O
+B-음식 O B-행동 O O O O O O O O O O O B-음식 O O O O
+B-신체부위 O B-위생용품 I-위생용품 I-위생용품 B-증상 O O O O O O O
+B-장소 O B-증상 I-증상 O B-가구 I-가구 I-가구 I-가구 O O O O O
+B-신체부위 O O B-가구 I-가구 I-가구 O O O O O
+B-시간 O B-행동 O O O O O O
+B-시간 O O O O O O O O O
+B-신체부위 B-시간 O B-행동 O O O O O O B-시간 O O O O O O
+B-장소 O O O
+O O O B-행동 O O O O O
+B-음식 O O B-장소 I-장소 O O O O O O O O
+B-신체부위 O O O O O O O O
+B-신체부위 O O O O B-음식 I-음식 O O O O
+O O O O O O
+O O O O O B-행동 O O O O O O O O O O O
+B-음식 O O O O O B-장소 O B-증상 I-증상 O O
+B-장소 O B-날씨 O O O O O
+B-신체부위 O B-장소 O O O O O O O O O O O O O
+O O O O B-증상 I-증상 I-증상 O O O O O O O B-증상 O O O
+O O O O O O O
+O O B-행동 O O O O
+B-장소 I-장소 O O O O O O
+O O
+O O O O O O O
+B-증상 I-증상 I-증상 O O B-신체부위 O O O O O O O O O O
+B-신체부위 O B-위생용품 I-위생용품 I-위생용품 B-증상 O O O O
+B-증상 I-증상 O O O O O O O O O O O
+O B-신체부위 O O O O O O O O O O O O
+O O O B-음식 O O O O O O B-행동 O B-날씨 O O
+B-행동 I-행동 I-행동 B-날씨 O O O
+B-음식 O O O O O O O O O
+B-음식 I-음식 O O O B-음식 I-음식 O O O O O O
+O O O O O B-신체부위 O B-증상 O O
+B-신체부위 O O O B-증상 I-증상 O O
+O O O O O O O O
+B-행동 O B-신체부위 O O O
+B-신체부위 B-행동 I-행동 O B-날씨 O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O O
+B-날씨 I-날씨 O O O O B-행동 I-행동 O O O
+O O O O O O B-신체부위 O O O O O
+B-증상 I-증상 O B-음식 O O O O O O O O
+B-날씨 I-날씨 I-날씨 I-날씨 O O O O O O O O O O O O O
+O O O O B-행동 O O
+O O O O O O O O O B-음식 O
+B-증상 I-증상 I-증상 O B-행동 O O O O B-증상 I-증상 O B-음식 O O O
+O O O O
+O O O O O O O O O O
+B-신체부위 O O O O O O O O O
+O O O O O O
+B-음식 O O O O O O
+B-증상 I-증상 I-증상 O B-음식 I-음식 I-음식 O O O O O O O
+B-신체부위 O O O O O O O O
+B-시간 I-시간 O O O O O O O O O O O O O O O O O O O
+B-증상 I-증상 O O O O B-가구 I-가구 O O O O O O O O O O O O
+O O O
+O O O O O O O
+O O O O O B-가구 I-가구 I-가구 O O O O O O B-시간 B-신체부위 I-신체부위 I-신체부위 O O O O O O O O O
+O O O O O
+B-생활보조기구 I-생활보조기구 O B-신체부위 I-신체부위 O O O O O
+B-장소 I-장소 B-증상 O O O O O O O
+B-증상 O O O O O
+O O B-행동 I-행동 I-행동 O O O O O
+B-증상 O O O O
+B-음식 I-음식 O O O O O O O O O O O O O B-음식 O O O O O O O
+O O B-신체부위 O O O O
+B-증상 I-증상 O B-음식 O O O O O O O O O
+B-증상 I-증상 O B-날씨 O O
+O O O O O O O
+O O O O O
+O O O B-행동 O O O O O O O
+B-장소 I-장소 O O O O O O O O O O O O O
+O O O O O B-시간 O O
+O O O O
+B-음식 I-음식 O O O
+O O O O O O
+O O O O O O O O O O O O
+O O O O B-행동 O O O O O
+O O O O O O O O O O O
+O O O O O O
+B-장소 I-장소 I-장소 O B-음식 O O O O O O O B-행동 O O O O O
+B-날씨 O O O B-음식 O O O
+O O O B-증상 I-증상 I-증상 O O O O O O O O O O O
+B-시간 I-시간 I-시간 O B-행동 O O O O O
+O O O O O
+O B-음식 I-음식 I-음식 O B-신체부위 O O O O O O
+B-장소 I-장소 O O O O O O O
+O O O O O O
+O O O B-행동 O O O O O O O O
+B-장소 I-장소 O O O O O O O O
+O O O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 B-증상 O O O
+B-가구 I-가구 O O O O O B-장소 O O O O O
+O O O O O O
+B-음식 O O O O O
+B-신체부위 O O O O O B-신체부위 O O O O O
+B-음식 O O O O O O O O O O
+O O O O O O O O
+O O O O O O
+B-신체부위 B-증상 O O O O O O O
+O B-증상 B-장소 I-장소 I-장소 O O O O O O O
+B-행동 I-행동 O O B-증상 I-증상 O O O O O B-증상 I-증상 I-증상 O O O O O O O O O O O
+O B-증상 O O O O O
+O O B-날씨 O
+B-행동 O O O O O B-신체부위 O O O O O O
+O O O O O O
+O O B-음식 O O O O O
+O B-증상 B-가구 I-가구 O O O O O O O O
+B-증상 I-증상 O O O B-행동 O O O O O
+B-음식 B-증상 I-증상 I-증상 O O O O O O
+O O O O O O O O
+B-장소 I-장소 O O O O O
+O O O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O O
+B-신체부위 O O O O O O O
+O O O O O O
+B-음식 O O B-증상 O O O O O
+B-가구 O B-증상 O O O O B-날씨 O O O O O O O O
+O O O B-음식 O O O O O O O
+O O O
+B-신체부위 I-신체부위 O O O O B-행동 O O O O O O
+O O O O O O O O
+B-날씨 O O O B-장소 O O O O
+O O O O O O O O
+O O O B-행동 O O O O
+B-장소 I-장소 B-증상 O O O O O O
+O O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 B-음식 I-음식 O O O O O O O O O O
+B-신체부위 O O B-증상 I-증상 O O O O
+O O O O O O O O
+O O O O O O O O O
+B-날씨 I-날씨 O O O O O O O B-장소 I-장소 B-증상 B-음식 O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O O O O
+O O O O
+O O O O O
+B-행동 I-행동 O O B-음식 O O O O O
+O B-장소 I-장소 O O O O
+B-신체부위 O O O O O B-음식 O B-날씨 O O
+B-행동 I-행동 O O O O B-날씨 O O
+O O B-행동 O O
+B-신체부위 O O O O O O O
+O B-신체부위 O O O O O O O O
+B-음식 O O O O O O B-음식 B-행동 O O O O
+B-장소 I-장소 O O O O O O O O
+B-가구 I-가구 I-가구 O O B-신체부위 O O O O O
+B-증상 I-증상 O O O O B-장소 O B-행동 O O O O O O
+O O O O
+B-신체부위 I-신체부위 O O O O O O
+O O O O O O O O O B-가구 O O O
+B-시간 O O B-날씨 O
+O O B-신체부위 O O O O O
+B-신체부위 O B-위생용품 I-위생용품 I-위생용품 B-증상 O O O O O O O O
+O O O O O O
+O O O O O B-음식 B-장소 I-장소 I-장소 O B-음식 I-음식 I-음식 O O O O O
+B-장소 I-장소 B-증상 O O O O O O
+B-시간 O O O O O
+O O O O B-행동 O O O O O O O O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O
+O O O O O O O
+B-신체부위 I-신체부위 O O O O O O O O
+B-장소 I-장소 B-증상 O O O O O O
+B-시간 O O O O O O O O
+O O O O O O O
+B-시간 O O O O O O O O O O O
+B-가구 I-가구 I-가구 O O O O O O O O O O
+O O O O O
+B-신체부위 O O O O O
+B-음식 I-음식 I-음식 O O O O O O B-가구 I-가구 I-가구 O O O O O O O O
+B-장소 I-장소 O O O O O O O O
+B-증상 I-증상 O O O O O O
+O O B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O O O
+O O O O O O O
+B-음식 I-음식 I-음식 O B-음식 I-음식 I-음식 O O O B-음식 I-음식 I-음식 O O B-음식 O O O
+B-신체부위 O O O O O O O
+B-시간 B-날씨 O O B-행동 O O
+B-증상 B-증상 O O O
+B-신체부위 O B-가구 I-가구 O O O O O
+O O O B-행동 O O
+B-시간 B-신체부위 O O O O O O O O O O B-장소 I-장소 O O O
+O O O O O
+B-시간 O B-신체부위 O O O O O O O O
+B-가구 I-가구 O O O O
+B-시간 O O O O O
+O O O O O O O O O
+O O O B-증상 O O O O
+B-신체부위 O B-가구 I-가구 O O O O O O O
+O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O B-음식 I-음식 O O O O O O O O O
+O O O O O O O O
+O O O O O
+B-시간 O B-행동 I-행동 O O O O O O O O O O
+B-장소 I-장소 O B-가구 I-가구 O B-행동 O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O B-음식 I-음식 O O O O B-증상 I-증상 I-증상 O O O O O O O O O
+B-가구 I-가구 I-가구 O B-음식 I-음식 O O O O O O O O
+B-음식 O B-행동 O O O O O O O O O O O O
+B-장소 B-증상 O O O O O O O
+B-장소 I-장소 O O O O O
+B-장소 O O O O B-위생용품 I-위생용품 I-위생용품 I-위생용품 O O O O O O O O O
+B-신체부위 O O O O O O O
+B-행동 O O O O O O
+O B-신체부위 B-증상 O O O
+B-음식 I-음식 O O O O O O B-증상 I-증상 O O O O O O
+B-증상 I-증상 O O O O O O O
+B-신체부위 I-신체부위 O B-신체부위 O O O O O
+B-장소 I-장소 O O O O O O O
+B-장소 I-장소 O O O O O O O O B-행동 O O O
+O O O O O O O O O
+B-위생용품 I-위생용품 O O O O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O
+B-위생용품 I-위생용품 O B-신체부위 O O O O O O O O O O O O O
+O O B-행동 O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O B-신체부위 O O O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O B-음식 O O O O O O
+B-음식 I-음식 I-음식 I-음식 O B-음식 O O O O O O O
+B-시간 O O B-행동 O O O O O B-행동 O B-장소 O O O O
+O O O O B-행동 O O O
+B-시간 O O O O O O O O O
+B-신체부위 I-신체부위 O O O O O
+O O O
+O O O O O O O
+O O O O O O O O O
+O O O
+O O O O B-음식 O O
+B-신체부위 B-증상 B-신체부위 O O O O O O O O O O
+B-증상 I-증상 O O O O O O O O O B-신체부위 O O O O O O O O O O
+B-장소 O B-장소 I-장소 O O O B-행동 O O O O O O O O
+O B-행동 I-행동 O O O O O O O O O O O O O O O O
+B-시간 O O O B-음식 I-음식 O O O O B-음식 B-음식 O O O O O O O
+B-시간 I-시간 O B-장소 O O O O B-행동 O O O O O
+O O O O O
+B-신체부위 B-증상 O O O O O
+B-신체부위 O O O O O O O
+B-행동 I-행동 O O O O O O O O
+B-신체부위 I-신체부위 B-증상 O O O O O O O
+O O O O O
+O O O B-신체부위 I-신체부위 O O O O O O O O O O O O O O O
+O B-증상 B-장소 I-장소 B-가구 I-가구 O O O O O O O
+B-장소 I-장소 B-증상 O O O O O O O
+O O O O O O
+B-음식 O O O O O O
+O O O O O
+O O O
+B-음식 B-음식 O B-음식 O B-장소 O O O O O O O O O O O O O O B-음식 O O O O O O O
+B-신체부위 O O O O B-신체부위 O O O O O O
+B-증상 I-증상 O O O O O O O
+B-음식 I-음식 O O O B-신체부위 O B-증상 I-증상 I-증상 O O O
+O O O O O O B-음식 O O O O O O O O
+B-신체부위 I-신체부위 O O O O O O
+O B-신체부위 O O O
+O O O B-행동 O O O O
+O O O B-행동 I-행동 O O O O O
+B-음식 I-음식 I-음식 I-음식 O O B-음식 I-음식 O O O O O O O O O O O O O
+B-신체부위 O O O B-음식 I-음식 I-음식 O O O O O O B-음식 O O O O O O O O
+O B-증상 B-장소 O O O O O O O O O
+B-장소 I-장소 O O O O O O O O O
+B-가구 I-가구 I-가구 O B-신체부위 O O O O O
+B-신체부위 B-행동 O O O
+B-신체부위 B-음식 O O O O O O O
+O O O B-증상 I-증상 I-증상 O O B-음식 O O O B-음식 I-음식 O O O O O O
+B-시간 O O O B-음식 O O O O
+B-장소 I-장소 O O O O O O O O
+O B-시간 B-행동 O O O O O O
+B-시간 O O B-장소 I-장소 O O O O O O
+O O O O O O O
+B-증상 I-증상 O O O O O B-위생용품 I-위생용품 I-위생용품 O O B-음식 O O
+O B-장소 I-장소 I-장소 O B-음식 I-음식 I-음식 O O O O O O O O O O O O O O B-음식 O O O O
+O O O O
+O O B-증상 O O
+B-신체부위 O O O O O O O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O B-신체부위 O O
+O O O O O O O
+B-시간 O O B-장소 O O O O O O B-생활보조기구 I-생활보조기구 O O O O O O O O
+B-음식 O O O O B-신체부위 O B-음식 O O O O O O O O
+O O O O O O O O
+B-증상 I-증상 I-증상 O O O O O O O O O O
+O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 B-증상 O O O O O O
+O O O B-신체부위 O O O
+B-장소 O O O O O O O O B-장소 O O O O O O
+B-증상 O O O O O O O O O
+B-신체부위 B-증상 O O O O
+O O B-행동 O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O O
+B-증상 I-증상 O B-신체부위 O O O O O O
+O O O O O O O O O O O O
+B-음식 I-음식 O O O O O O O O O O O O O O O O
+O O O O B-가구 I-가구 I-가구 I-가구 I-가구 O O O O O O O O O O
+O O O B-음식 O O O O O O O O O O
+O O O O O O O O
+O O B-행동 O O O O O
+O O B-음식 O B-날씨 O O
+B-시간 O O O O O O O O O O
+O B-신체부위 B-증상 B-날씨 O O O O
+O B-신체부위 B-증상 O O O O
+O O O O O O O B-행동 O O O O O O
+B-증상 O O O O O O O O O
+B-행동 O O O O O O O O O
+B-증상 O O O O O B-음식 O O B-행동 O O O
+B-신체부위 O O O O O O O O O
+B-신체부위 O O O O O O O
+O O O O
+O O O O O O O O O B-행동 O B-날씨 O O O
+O O O O O B-신체부위 O B-장소 O O O O B-음식 B-신체부위 O O O O
+B-증상 I-증상 O O O O O B-음식 O O
+O O B-음식 O O O O
+O O O B-음식 O O O O O O
+B-시간 O O O O O O O O O O O O O O O O O B-가구 I-가구 I-가구 O O O O O
+B-음식 I-음식 I-음식 O O O O O B-날씨 O
+B-음식 O B-날씨 O O O O
+B-신체부위 O O O O O O
+B-음식 I-음식 O O O O O O B-음식 I-음식 I-음식 I-음식 O B-음식 O O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O
+B-행동 I-행동 I-행동 B-날씨 O O O O O
+B-시간 I-시간 B-행동 O O O O B-행동 O O O O O O
+O O O O O O O
+B-장소 O B-음식 B-행동 O O O B-행동 O O O O O O
+B-행동 I-행동 O B-신체부위 O B-행동 I-행동 I-행동 O B-날씨 O O
+O O O B-장소 O O O O O O O O B-음식 O O B-행동 O B-증상 B-음식 O O O
+B-신체부위 I-신체부위 O B-증상 I-증상 O O O O O O O O
+O B-증상 I-증상 O O O
+O O O O O
+B-위생용품 I-위생용품 I-위생용품 B-증상 I-증상 I-증상 O O O B-신체부위 O O O O O O O
+B-시간 I-시간 B-행동 O O O O B-시간 O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O
+B-신체부위 B-증상 O O O O O O
+B-행동 I-행동 O O O B-행동 O O O O O
+O O O B-행동 O O O
+B-신체부위 O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O O
+B-신체부위 O B-가구 I-가구 O O O O O O
+O O B-가구 O O O O O O O B-음식 B-시간 O O O O O
+B-음식 I-음식 I-음식 O B-음식 I-음식 O O O O O O O O O O O O O O
+O O O O O O
+B-시간 O O O O O B-장소 O O O B-날씨 O O O O
+B-시간 B-시간 I-시간 O O O O O
+B-시간 O O O O
+O O O B-신체부위 O O O O O O
+B-시간 O O O B-음식 I-음식 I-음식 I-음식 O B-금액 I-금액 I-금액 O O O O O O O O O O O O O O
+O B-음식 I-음식 I-음식 I-음식 O O O O O O O O
+O O O O O B-음식 O O O
+O B-행동 O O
+O O O O O
+O O O O O O O O B-장소 I-장소 O O
+O O O O
+O O O O O O B-장소 O O O O O O
+B-행동 O O O O O O O O O O O O
+B-시간 O O B-음식 B-장소 I-장소 O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O B-증상 I-증상 O O O O O O O O O
+B-행동 O O O O O O O O O O O O
+O O O O O O O O
+B-음식 O O O O B-장소 I-장소 O O O O O O O O O
+O B-가구 O O O O O O O O O O B-신체부위 O O O O O
+O O O O O O O O O O O O O
+O O O O B-음식 O O O
+O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O
+B-음식 O O B-행동 I-행동 O O O O O O
+B-증상 O O O
+B-음식 I-음식 O O O B-음식 I-음식 O O O O O O O O O
+O O O O O O O
+O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 B-증상 O O O O
+O O O O O B-신체부위 O O O O
+O O O O O O O O O
+B-가구 I-가구 I-가구 O O O O O O O
+B-장소 I-장소 O O O O O O O O O
+B-행동 O B-날씨 O O B-가구 I-가구 I-가구 B-증상 O O O O
+B-가구 I-가구 B-증상 O O O O
+B-장소 I-장소 I-장소 O O O O O O O
+B-증상 I-증상 O O O O O O O O O O O O O
+O O O O O O O B-음식 I-음식 I-음식 I-음식 I-음식 O O O O
+B-장소 O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O B-음식 I-음식 O O O O O O
+B-음식 I-음식 O B-음식 O O O O O O O O O O
+B-신체부위 O O O O O O O O
+O O O O O O O
+O O B-시간 O B-장소 O O O O
+B-행동 I-행동 I-행동 O O O O O O
+O O O O
+B-신체부위 O O B-음식 I-음식 I-음식 I-음식 O O O O
+B-신체부위 O O O O O O B-행동 O O O
+B-신체부위 O O O O
+B-신체부위 O O B-증상 I-증상 O O O O O
+O O O O O
+O O B-증상 B-행동 O O B-날씨 O O O
+O O B-행동 O O O B-음식 O O O O
+B-시간 O O B-행동 O O O O O B-신체부위 O O O O O
+B-시간 O B-시간 I-시간 O O
+B-시간 O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O
+B-신체부위 O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O
+O O O O B-행동 O O O O
+B-장소 I-장소 B-증상 O O O O O O O
+B-가구 I-가구 O O O O O O O O
+B-신체부위 O O O O O O
+O O O O O O O
+O O O O B-시간 O
+B-음식 O B-신체부위 O O O O B-음식 O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O O O O O O O O O
+B-장소 I-장소 O B-날씨 I-날씨 I-날씨 O O O B-증상 B-신체부위 O O O
+B-행동 O O O
+B-신체부위 O O B-가구 I-가구 B-증상 O O O O O O O
+O O O O O O O
+O O O O O O O O O O O
+B-음식 O O O O O O O O O O
+B-시간 I-시간 O O O O B-음식 O O O O B-행동 O O O O
+O O O O O O O
+O O O O O O O O
+B-장소 I-장소 I-장소 O O O O O O O O O
+B-장소 O O B-음식 B-음식 O O O O
+O O
+O O O O O O O O O O O B-시간 B-시간 I-시간 O B-장소 O O O O O O O
+B-장소 O O O O O B-가구 I-가구 O O O O O O
+O O O O O
+B-행동 O B-행동 O O O
+O O O O O O
+O O O O O O O O
+O O O O O O
+B-장소 O O O O
+B-신체부위 O O O
+O O O O
+B-가구 O O O O O O O O
+B-신체부위 O O
+B-시간 B-증상 O O O O O
+O O O O
+O O O B-시간 I-시간 O O O O
+O O O B-날씨 O O O
+O O B-음식 O O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O
+B-장소 I-장소 O O O O O O O O O
+B-신체부위 O O
+B-신체부위 O O O O O O O
+B-장소 I-장소 O O O O
+B-음식 O B-증상 O O O O
+B-신체부위 I-신체부위 I-신체부위 O B-증상 O O O
+B-날씨 O O O O B-금액 I-금액 I-금액 O O O O O O O O O
+O O B-증상 I-증상 I-증상 O O O
+B-신체부위 B-증상 O O O O O O
+B-신체부위 O B-음식 I-음식 O O O O O O O O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O O
+B-신체부위 O O O O O
+B-장소 O O B-증상 I-증상 I-증상 O O B-장소 O O O O O
+B-신체부위 O O O O
+B-가구 O O O B-신체부위 O O O O O O O O
+O O O O B-행동 O O O
+B-신체부위 I-신체부위 O O O O O O
+B-시간 O O O O O O O
+B-장소 I-장소 O O B-신체부위 O O O O
+O B-장소 O O O O O O
+O O B-행동 O O O O O O O O O B-장소 I-장소 O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O O O O O
+O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O O O O O
+O O O O O O O O O B-음식 I-음식 I-음식 O B-신체부위 O O O O O O
+O O O O
+B-가구 O O O
+O O O
+B-신체부위 I-신체부위 O O O O O
+O B-신체부위 O O O O
+O O O O O O
+O O O B-시간 I-시간 O B-장소 O O O O O B-음식 O O
+O O B-음식 I-음식 O B-신체부위 O O O O O O O O
+B-행동 O O O O O O O
+B-신체부위 O O O B-음식 O O B-증상 O O O O O
+B-가구 O O O
+O O O B-증상 B-음식 O O
+B-날씨 I-날씨 O O O O B-신체부위 O O O
+B-가구 O O O O O O O B-증상 I-증상 O O O O O
+O O O O O
+B-위생용품 O O O O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O O
+B-신체부위 O O O O O O O O O
+O O O B-행동 O O
+O O O O O O O O O O O O O O
+O O O O O O O
+B-장소 I-장소 O O O O O O
+O O B-행동 O O O O O O
+B-장소 I-장소 O O O O O O O O O
+O O O O
+O O O O O O O B-시간 O O O O O
+B-신체부위 O B-가구 I-가구 O O O O O O
+B-시간 I-시간 B-날씨 B-시간 I-시간 O O O O O O B-음식 O
+O O O O O
+O O B-행동 B-음식 O O
+B-장소 I-장소 O O O O O O O O
+O B-증상 O B-장소 O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O B-증상 O O O O O O O O O
+O O O O O O
+B-가구 I-가구 O O O O O O O O
+B-시간 O O O O O O B-장소 I-장소 O O O O O O O O
+B-장소 I-장소 O O O O O O O
+B-음식 I-음식 O O O B-증상 O O O O O
+O O O O O O O O
+B-신체부위 O O O O O
+O O O B-행동 O O O B-시간 I-시간 O O O O O
+B-시간 O B-신체부위 O O O O O B-행동 O O B-음식 O
+O O O O O O O B-음식 O O O O O O O O
+O O O B-시간 I-시간 O O O O O
+O O O
+O O O O O
+O O O B-장소 I-장소 O O O O O O O
+O B-증상 O O O O O
+O O O O
+O O B-장소 O O B-행동 O O O O O O O O O O O O O O O O O
+B-신체부위 B-증상 O O O O
+O O O O O O O O
+O O O B-행동 O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O O O
+O O O O O O
+O O O O B-시간 O O O O B-시간 I-시간 O O O
+O B-행동 O B-장소 B-음식 O O
+O O O O O O O O O
+O O O O O O O O O
+O O O O O O O
+B-증상 I-증상 O O O O B-음식 O O O
+B-증상 I-증상 I-증상 O B-증상 O O O O O O O
+O O B-음식 B-시간 O O O O
+B-가구 O B-가구 O O B-장소 B-증상 B-음식 O O O O
+B-날씨 I-날씨 O O O B-증상 B-음식 O O O O
+B-행동 O O O O O O O O O O O
+O O O
+O O O B-행동 O O O O O
+B-신체부위 O O O O O O
+O B-장소 B-증상 O O O O O O O
+O O O O B-장소 I-장소 I-장소 O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O O O O O
+O O O
+B-장소 O O O O O
+O O O O O O
+B-신체부위 B-증상 O O O O O O
+B-신체부위 B-증상 O O O B-가구 I-가구 O O B-음식 O O O O O
+B-신체부위 I-신체부위 O O O O O O O
+B-신체부위 B-증상 O O O O
+O O O O B-행동 O B-날씨 O O O O
+B-행동 I-행동 O O B-증상 O B-증상 O O O
+B-신체부위 B-증상 B-가구 I-가구 B-신체부위 O O O O O
+B-장소 O O O O O O
+B-신체부위 B-날씨 O O O O O
+O O O O O O O O
+B-신체부위 O O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O
+O O O O O
+B-증상 I-증상 O O O O O O O O
+O O O B-음식 O O O
+B-장소 I-장소 B-증상 O O O O O O
+O O O O O O B-증상 I-증상 B-증상 B-음식 O O
+O O O O O O B-행동 B-행동 O O O O
+O O O O O
+B-장소 O O O O O O O O O
+O O O O O B-장소 O O O O O O
+O B-신체부위 O O O O
+B-음식 O O O B-행동 O O B-행동 O O O O O O
+O B-신체부위 B-증상 O O O
+O O O O O O O O O
+B-장소 I-장소 O O O O O O O O O O O
+B-행동 I-행동 O O B-신체부위 I-신체부위 O O O O O O O O
+B-신체부위 B-증상 O O O O O O O O
+O O O O O O O O
+B-행동 O O O O B-신체부위 O O O O O O O O B-날씨 O O O
+O O O O O O O O
+B-장소 I-장소 O B-시간 I-시간 O B-가구 O O O O O O
+O O B-행동 O O
+O O O O B-증상 I-증상 I-증상 O O O O O
+O O O O
+B-음식 O O O O O O
+B-시간 B-음식 O O O B-시간 I-시간 O O O O O B-음식 O
+O O O O O O O O
+O O O O O B-시간 O O O O
+B-증상 I-증상 I-증상 O O O O O O O O O
+B-장소 I-장소 O O O O O O O O O
+B-시간 I-시간 O O O
+B-음식 I-음식 O O B-음식 I-음식 I-음식 I-음식 O O O O O O O O O O O
+B-음식 I-음식 I-음식 O B-신체부위 O O O O B-음식 I-음식 I-음식 I-음식 I-음식 I-음식 O O O O O O O O O
+B-장소 O O O O O O B-행동 O O O O O O
+B-신체부위 I-신체부위 O O O O O O O O O O
+B-행동 I-행동 I-행동 O O O O
+B-신체부위 O O O O O O O O B-신체부위 I-신체부위 O O O O B-증상 O O O O
+O O O O B-신체부위 O B-시간 O O O O
+B-증상 I-증상 I-증상 O B-행동 O O O O B-증상 I-증상 O O
+O O O O O O O O
+O O O O O O O O
+B-신체부위 I-신체부위 B-증상 O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O B-날씨 O O O
+B-음식 O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O B-증상 I-증상 I-증상 O O O O O O O O
+O O O B-음식 O
+O O O O O
+O O O O
+B-신체부위 O B-증상 I-증상 I-증상 O O O O O
+B-장소 I-장소 I-장소 O O O O O O O
+O O O O
+O O O O
+O O O O B-행동 O B-신체부위 O O O O O O O O O
+O O O O
+O O O O O
+B-음식 O O B-음식 O O O O O B-신체부위 B-음식 O O O O O O O O O O
+O O O O
+B-장소 B-증상 O O O O O O O O
+B-행동 O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 B-증상 O O O
+O O O O O O O O O O O
+B-신체부위 O O O O O O O O O O O
+O O B-신체부위 O O
+B-신체부위 O B-증상 I-증상 O O O O O O
+B-가구 O O O O O O O
+O O O O O O O
+B-음식 O O O O O
+B-신체부위 B-증상 O O O O O
+B-신체부위 I-신체부위 O B-증상 O O O O
+O O O B-금액 I-금액 I-금액 O O O O B-신체부위 O O O O O O O O O O O
+B-장소 I-장소 O O O B-행동 I-행동 O O O O O O O
+O B-증상 B-장소 I-장소 I-장소 O O O O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O O
+O O O O O O B-날씨 O O O
+O O O B-음식 O B-신체부위 O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O
+B-신체부위 O O B-증상 I-증상 O O O O O O
+B-신체부위 O O O O O
+O O O O O O
+B-신체부위 O B-증상 I-증상 B-음식 B-신체부위 I-신체부위 O O O O O O O
+B-신체부위 O B-증상 O O O O O O
+B-가구 I-가구 I-가구 I-가구 I-가구 O O O O O
+B-신체부위 O O O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O O
+B-시간 O B-행동 O O O O O B-신체부위 O O O O O O O O
+B-신체부위 I-신체부위 O O O O
+O O O O O O B-음식 I-음식 O O O O O
+O O O O O
+B-신체부위 O O O O O O O
+O O O O O O
+B-시간 O O B-신체부위 O O B-가구 I-가구 O O O O O O
+B-신체부위 O O O O B-시간 I-시간 I-시간 O O O
+O O O O O
+O O O O O B-신체부위 O O O O O
+B-증상 I-증상 B-증상 O O O O
+O O O B-음식 I-음식 I-음식 I-음식 I-음식 I-음식 O O O O O O O O O O O O O O
+B-장소 I-장소 O B-증상 I-증상 O O O B-음식 O O O O O O O O
+O O O O O
+O O O O O O O O O O O
+O O O B-시간 O O O O B-가구 O O O O O
+B-장소 I-장소 O O O O O
+B-시간 O O O O O
+B-증상 I-증상 O O O
+B-가구 B-음식 O O O O O O O
+O O B-행동 O O O O O O
+O O O O O
+O O
+B-신체부위 B-증상 O O O O O O O
+B-시간 B-장소 I-장소 O O O B-날씨 B-음식 O O O
+O O O O
+B-행동 I-행동 I-행동 B-증상 O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O
+B-행동 I-행동 O O B-행동 O O O O
+B-증상 I-증상 I-증상 O O O O O
+O O B-신체부위 O O B-음식 O B-음식 I-음식 O O O O
+O B-신체부위 O O O O
+B-신체부위 O O O O O O O O O
+B-위생용품 O O B-시간 O O O B-증상 O O O O O
+B-장소 I-장소 O O O O O O O O
+B-신체부위 I-신체부위 O O O B-신체부위 O B-음식 O O O
+B-신체부위 O B-음식 O O O O O B-음식 I-음식 I-음식 I-음식 O O O O O O
+B-행동 I-행동 O O O O O O O O
+B-신체부위 O O O B-신체부위 O O O O O O O O O O O
+O B-행동 O O O O O O O O
+O O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O
+O O O O O O O
+O B-행동 I-행동 O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O B-음식 O O O B-음식 O O O O O O O O O
+O B-시간 I-시간 O B-행동 I-행동 O O O O B-증상 I-증상 I-증상 O O O O
+O O O O
+O O O O O B-음식 O O O
+O O B-행동 O O O O
+B-신체부위 O O O O O B-증상 O O O O O O
+O O O O O B-증상 O O O O
+O O O O
+B-장소 O O B-행동 O O O O O
+O O O O B-가구 O O O O O O O
+O O B-신체부위 O O O O O B-장소 O O O O O
+O O O O O O O O O O O O O
+O O O O O O O
+B-가구 O B-증상 O O O O O O O O O O O O
+O O O O B-음식 O O O
+O O O B-신체부위 O O B-장소 O O O O O O O O O O O O
+B-신체부위 O O O O
+B-신체부위 O O O O
+B-음식 I-음식 O O O O O O O B-음식 I-음식 I-음식 O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O
+O O B-장소 I-장소 O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O
+B-신체부위 B-증상 O O O O
+O O O B-행동 O O O O O
+O O O O O O O
+B-장소 O B-증상 I-증상 I-증상 O O O
+B-신체부위 I-신체부위 O O O O O O
+O O O O O O O
+B-시간 I-시간 I-시간 O B-신체부위 B-증상 I-증상 O O O O O
+O O O O O O O O O O
+B-신체부위 O O O O B-신체부위 O O B-음식 O O O O O O O
+O O O O O O O
+B-장소 I-장소 O O O O O O O O O O O O O
+B-신체부위 I-신체부위 O O O O O O O O
+O B-가구 O O O O O O O O
+B-시간 O O B-행동 O O O O O O O O O O O O O
+O O B-위생용품 I-위생용품 O O O O B-신체부위 O O O O O
+O O O O O
+B-음식 O O O O B-행동 I-행동 O O O O O O
+O O O O O O O
+B-신체부위 O O O O O O O O O O
+B-행동 I-행동 I-행동 O O B-신체부위 I-신체부위 O O O O O O O
+B-장소 O O O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 B-음식 I-음식 O O O O O O O O O
+B-장소 O O O O O O O O B-행동 I-행동 O O O
+B-신체부위 O B-장소 O O O O O B-행동 O O O O O
+B-증상 O O O B-행동 I-행동 O O O O O O O
+B-신체부위 O O O O O O O O
+O O O O O
+B-신체부위 B-증상 O O O O O O
+B-장소 I-장소 B-증상 O O O O O
+O O O O O O O O
+B-행동 O O O O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O B-음식 I-음식 O O O O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O B-증상 I-증상 O O O O
+O O O O O
+B-신체부위 O O O O O B-음식 B-장소 B-증상 O O O O O O
+B-행동 I-행동 I-행동 I-행동 O O O O O B-행동 O O O O
+B-음식 O O O O O O O O O B-장소 O O O O O O O O
+O O B-행동 O O O
+B-음식 O O O O O B-장소 O O O O O O O
+O O O B-음식 I-음식 I-음식 O O O O
+B-신체부위 B-증상 O O O O O
+B-위생용품 I-위생용품 O O O O O O O B-위생용품 I-위생용품 O O O B-증상 O O O O O
+B-행동 I-행동 O O O
+B-신체부위 O O O O O O O O
+O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O O O
+B-증상 I-증상 I-증상 O O O O
+O O O O O
+B-음식 O B-행동 O O O O B-행동 I-행동 O O O O O O
+B-장소 I-장소 B-가구 I-가구 O B-증상 O O O O O O
+O B-장소 O O O O O O O
+O O O O
+O O O O O O O
+B-가구 O O B-증상 O O O O
+O O O O O O O
+O O O O B-증상 O O
+O O O O B-행동 O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O O O O O
+B-날씨 I-날씨 I-날씨 O O O O O O O O O
+B-시간 I-시간 O O O O B-장소 O O O B-날씨 O O O
+O O O O
+O B-신체부위 O O O O
+O O O O B-신체부위 O O O O O O O
+B-가구 I-가구 I-가구 B-증상 O O O
+B-시간 O O O O O O O O O B-날씨 O
+O O O O O O
+O B-증상 B-행동 O O O O O
+B-신체부위 O O O O O O
+O O O B-음식 O O O O O O
+B-시간 O O O B-음식 I-음식 I-음식 O O O O O O O O O O
+B-장소 O O O O O O
+O O O O O O O O O O
+O O B-시간 I-시간 O O O O
+B-음식 O O O O B-시간 I-시간 O B-행동 I-행동 O O
+O O O O O O O
+B-신체부위 O B-증상 I-증상 I-증상 O O O O O
+B-신체부위 O O O O O
+O O O O O O O
+B-신체부위 O B-증상 I-증상 I-증상 O O O O O
+B-행동 O B-날씨 O O B-가구 I-가구 I-가구 B-증상 O O O O
+B-가구 I-가구 O O B-행동 O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O O O
+O O O B-행동 O O O O O O
+O O O O O O
+O O O O O O O O
+O O O B-신체부위 O O O
+O O O O O O O O
+O O O O O O O
+B-장소 O O O O O O O O B-행동 O O
+O O B-행동 O O O O O O
+B-시간 O O O O O
+B-행동 I-행동 O O O O O O O
+B-위생용품 I-위생용품 O O O O
+B-음식 O O O O O O O O O O O
+B-신체부위 B-증상 O O O O O O
+B-행동 O O B-신체부위 O O O O O O O O B-음식 O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O
+B-행동 I-행동 O O O O O
+B-행동 O B-행동 O O
+O O O O O O O
+O O O
+O O O O O
+O O O O O
+O O O O O
+B-신체부위 O O O O O
+O O O O O O O O
+B-신체부위 O O O O O
+O O O O O O
+B-신체부위 O O O O O O
+B-신체부위 I-신체부위 O O O O O
+O B-가구 I-가구 I-가구 O O O O O O O
+O O O O O O O O
+O O O B-음식 O O
+B-신체부위 I-신체부위 I-신체부위 O B-증상 I-증상 O O O O O O O O O O
+B-신체부위 B-증상 O O O O O O
+O O O O O
+B-장소 O O B-음식 O O O O O O O O
+B-장소 O O O O O B-음식 B-음식 O O O
+O O O O O O O
+B-행동 O O O B-시간 O O O O
+B-위생용품 I-위생용품 O O B-신체부위 O B-음식 O O O O
+B-신체부위 O O O O B-가구 I-가구 I-가구 I-가구 I-가구 O O O O O
+B-신체부위 B-증상 O O O O O
+O O O B-장소 O O O O O O O
+B-음식 O O O O O O O O O O O
+O O O O O O O O
+B-장소 I-장소 O O B-신체부위 O O O O
+O O O O B-신체부위 O B-위생용품 I-위생용품 O O O O O O O O O O O O
+B-위생용품 O O O O
+B-장소 O B-위생용품 I-위생용품 B-증상 O O O O
+B-장소 O O O O O O O O O B-날씨 O O O O O O O O O O O O
+O B-신체부위 O O O O O
+B-날씨 O O O O O B-음식 O B-행동 O O O O O
+O O O O O O O O
+O O O O O O O O
+O O O O B-시간 B-음식 O O O O O O O O O O
+O B-신체부위 O O B-음식 O O O B-장소 O O O O O O O
+O O O O
+O B-증상 O O O O O O
+B-증상 I-증상 O O O O O O O O O O O O
+O O O O O O O
+B-신체부위 B-증상 O O O O O O O
+O O O O O O O O O
+B-장소 I-장소 O O O O O O O
+O B-행동 O O O O O O O O O O
+B-장소 I-장소 B-생활보조기구 I-생활보조기구 O O O O O O O O B-증상 O O O O O
+O O B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O O O O O
+B-장소 I-장소 O O O O O B-가구 O O O O O O O O O O
+O O B-증상 O O O O O O O
+O B-신체부위 O O O O O O O O O
+O O B-행동 O O O B-날씨 O O O O
+O B-장소 I-장소 O B-음식 I-음식 I-음식 I-음식 O B-증상 I-증상 O O O O O O O O
+O O B-행동 O O O
+B-신체부위 I-신체부위 I-신체부위 O O B-음식 O O O O
+B-행동 O O O O O B-신체부위 O O O O O
+O O O O O O O O O O O
+O O O O B-시간 I-시간 O B-행동 O O O O O O O
+O O B-신체부위 O O O O O O
+O O B-날씨 O O O O
+O O O O O O O O O
+O O O O O O O O O O O O O O O
+B-신체부위 O O O O B-시간 B-행동 O O O O O O O O O
+O O O O O
+B-신체부위 O O O O O O
+O O B-신체부위 O O
+O O O O O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O O O O O
+B-장소 I-장소 O O O O O O O
+O O B-시간 O O B-행동 O O O O
+O O O O O
+B-음식 O O O O O O O O
+O O O O O
+O O O
+B-음식 O B-음식 I-음식 O O O O O O O O O O O O O
+B-신체부위 B-신체부위 O O O O O O O O O O O O
+O O O O O O B-증상 I-증상 I-증상 O O O O
+B-행동 I-행동 O O O O O O O O
+O O O O O O O O O B-행동 O O O
+B-시간 I-시간 O O O O O O O B-장소 B-신체부위 O O O O O
+O O B-신체부위 B-시간 O O O B-음식 O O O
+B-날씨 O O O O O O O
+O O O O O
+B-장소 I-장소 O B-음식 O O O O O
+O O O O O
+O O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O B-음식 O O O O O O O O O O O
+B-증상 I-증상 I-증상 B-행동 I-행동 O O B-증상 I-증상 O O O
+B-장소 B-증상 O O O O O O
+B-장소 I-장소 B-가구 I-가구 O O O O O O O
+B-음식 I-음식 O O O O O O O O O O O O O O O
+B-날씨 O O O O O B-음식 O O O O O O
+B-증상 I-증상 O O O O O O
+B-행동 I-행동 O B-가구 I-가구 O O O O
+O O O O
+O O O B-행동 O O O O O O
+B-가구 I-가구 I-가구 O O O O O O O O O O
+O O O O O O
+O B-날씨 O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O O
+B-시간 O O O O O
+B-음식 I-음식 I-음식 O O O O O O
+B-음식 I-음식 O O O O O O
+B-신체부위 O O O O O
+B-신체부위 B-증상 O O O O O O
+O O O O
+B-행동 B-증상 O O O O O O O
+B-가구 I-가구 I-가구 O B-증상 O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O O O
+B-신체부위 O B-증상 O O O O
+B-장소 I-장소 I-장소 O O O O O O O O
+O O O O O O
+B-시간 O O O O O B-장소 O O O O O
+O O O O O O O O O
+B-장소 O O O O O B-증상 I-증상 O O O
+B-장소 O O O O O O B-행동 O O O O O
+O O O O B-행동 O O O O
+O B-증상 O B-장소 O O O O O O O O O
+B-신체부위 I-신체부위 B-증상 O O O O O O O
+B-가구 I-가구 I-가구 B-증상 O O O O O O O O O O O O O O O
+O O O O O O O O
+O O O B-날씨 O O O O O O O O O O
+B-장소 I-장소 O O O
+B-시간 O O O O O O O O O O O B-시간 O B-증상 O O
+O O O O
+O B-음식 O O O O B-신체부위 O O O O
+O O O B-시간 B-장소 I-장소 O O O O O
+B-가구 I-가구 I-가구 O O O O B-증상 O O O O O
+O B-생활보조기구 I-생활보조기구 I-생활보조기구 B-날씨 O O O O O O B-금액 I-금액 I-금액 I-금액 O O
+O O O O O
+O O O O B-시간 O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O B-행동 O O O O O
+B-장소 I-장소 I-장소 O O O O O O O O
+O B-장소 B-증상 O O O O O
+O O O O O O B-신체부위 I-신체부위 O O O O O O O O O O O O O O
+O O O B-음식 O O O O O O O O
+B-가구 I-가구 I-가구 O O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O O O
+O O O O
+O O B-음식 O O O O O B-행동 O O O O O O
+O O O O O O O
+O O B-가구 I-가구 B-증상 O O O O O
+B-신체부위 I-신체부위 O O O O O O
+O O O O O
+B-증상 I-증상 B-음식 O O O O O
+O O O O O
+B-날씨 I-날씨 O O B-시간 O B-행동 O O O O O O O O O O O
+B-증상 O O O O O O O O O
+O O O O O O O O
+B-시간 O O B-신체부위 O O O O O
+B-음식 O O O O O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O O O O O O O O O
+B-신체부위 B-행동 O O O O
+O B-종교활동 I-종교활동 O O B-신체부위 O O O O
+O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O O
+B-신체부위 O O O O O O O O
+B-장소 O B-날씨 O O O O
+B-음식 I-음식 O O O O O O O B-신체부위 I-신체부위 I-신체부위 O O O O O O O
+B-신체부위 I-신체부위 O O O O B-행동 I-행동 O O O O O O O O
+O O O O O
+O B-행동 O O
+B-신체부위 O O O O O O
+B-신체부위 O O O
+B-가구 I-가구 O O O O O O
+B-신체부위 B-증상 O O O O O O
+O O O O O O
+O O O O O O O O O O O
+O O O O O
+O B-시간 O O O
+B-장소 I-장소 I-장소 I-장소 B-가구 I-가구 O B-증상 O O O O O O O
+B-가구 I-가구 I-가구 O O O O O O O O B-음식 O O O O
+B-행동 O O O O O O B-신체부위 O O O O O
+O O O O O B-음식 O O
+O O O B-행동 O O O O
+O O O O O
+B-장소 I-장소 O O O O O O O
+B-음식 O O O O O O O O O O B-행동 I-행동 O B-날씨 O O O O O O
+B-장소 O O O O
+B-신체부위 I-신체부위 O O O O O O B-위생용품 I-위생용품 I-위생용품 I-위생용품 O O O
+O B-증상 B-장소 I-장소 O O O O O O O
+B-신체부위 O O O O O
+O O O O O O
+B-음식 I-음식 O O O O O B-신체부위 I-신체부위 O O O O O O O
+O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 O O B-행동 O O O O O
+O O O O O O
+O O O O O O O
+B-음식 I-음식 O O O O O O O O O O O O O O O O
+B-시간 O O B-음식 B-증상 O O O O
+B-신체부위 O O O B-음식 B-위생용품 I-위생용품 I-위생용품 O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O O
+O O O O B-가구 I-가구 I-가구 B-행동 O O O O O O B-음식 O O O O
+B-장소 O O B-행동 O O O O O O
+B-시간 B-증상 I-증상 O O O B-음식 O O O O O
+O O O O O B-음식 I-음식 I-음식 I-음식 O O O O O B-음식 I-음식 O O O O O O
+B-신체부위 O B-위생용품 I-위생용품 I-위생용품 O O O O O O O
+B-신체부위 I-신체부위 O O O O O
+B-음식 O O O O O O O O O O O O
+O O B-음식 O O O
+B-신체부위 O O O O B-음식 B-행동 O O O O O O
+O B-종교활동 I-종교활동 O O O O O O O O O O
+O O B-행동 O O O O O B-음식 O O O O O O
+B-신체부위 B-증상 B-가구 I-가구 B-신체부위 O O O O O
+B-신체부위 I-신체부위 O O O O O O O O O
+B-신체부위 O O O O O O
+B-신체부위 B-증상 O O O O O
+O O O O O O O O O B-가구 I-가구 I-가구 I-가구 B-증상 O O O O
+B-장소 B-증상 O O O O O
+B-날씨 B-증상 O O O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O B-음식 I-음식 I-음식 I-음식 O B-날씨 B-음식 O O O O O O O O O
+O O O O B-증상 O O O
+O O O O B-신체부위 O O
+B-장소 I-장소 O O B-위생용품 B-증상 O O O O O
+O B-신체부위 O O O B-행동 O O O O O O
+O O O O B-음식 O O O
+O O O O O
+O O O B-행동 O O O O
+O O O O
+B-시간 B-시간 O O O O
+B-음식 O O O O B-가구 I-가구 O O O O O
+O O O O O O
+B-장소 I-장소 B-증상 O O O O O
+O O O O O O
+O B-장소 I-장소 O B-음식 O O O
+B-장소 I-장소 O O O O O B-신체부위 O O
+B-장소 O O O O O O O O
+O O O O O O O B-종교활동 I-종교활동 O O O O
+B-음식 I-음식 O O O O O O O O O O O O O O O
+O O O O O O O
+B-날씨 O O O O O O O O O O O O O O O O O O
+B-행동 O B-시간 I-시간 O O O O O O O O
+O O B-장소 I-장소 B-가구 I-가구 O O O O O O O O O O
+B-위생용품 O O O O O O
+O O O B-행동 O O O O
+B-신체부위 B-음식 O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 B-증상 O O O O O
+O O O O B-행동 O O O O O
+O O
+B-생활보조기구 I-생활보조기구 O O O O B-신체부위 I-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O O
+O B-시간 I-시간 O O O O O O O
+O O O O O
+B-신체부위 O B-증상 I-증상 I-증상 O O O O
+B-생활보조기구 I-생활보조기구 B-증상 O O O O O
+B-신체부위 O O O O O O
+O O O O O O O O
+B-행동 I-행동 O O O B-행동 O O O O
+O O O O O O B-행동 O O O O O O O O
+O B-신체부위 O O O O
+B-장소 I-장소 O B-음식 O O O O O O O O O O
+O O O O O O O O
+O O O O O
+B-장소 I-장소 O O O O O O
+B-시간 O B-신체부위 O O O O O B-신체부위 B-음식 O O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O O
+B-종교활동 I-종교활동 O O O O O O O
+O O O
+O O O O
+B-음식 O O O O B-시간 B-행동 O O O O O
+B-가구 I-가구 O B-신체부위 O O O O B-신체부위 O O O O
+B-신체부위 O O O O O O O O
+O O O O O O O O O O
+O O O O B-날씨 O
+O O O O O B-신체부위 O O O O O O
+B-장소 I-장소 I-장소 O O O O O O O O O
+B-음식 I-음식 B-증상 O O O O O O O O O O O O O O O
+O B-증상 B-날씨 O O O O
+B-위생용품 I-위생용품 O B-신체부위 O O O O O
+B-음식 O O O O O O
+B-음식 I-음식 I-음식 I-음식 O B-신체부위 O O O O O O O
+O O O O O O
+O O
+O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 B-증상 O O O O O
+O O O O O B-음식 O O O
+O O O O B-증상 I-증상 I-증상 O O O O
+B-음식 O O O O O B-장소 I-장소 O O O O O O
+O O O B-위생용품 I-위생용품 I-위생용품 I-위생용품 B-증상 O O O O
+O O O O O B-증상 I-증상 O O O
+B-장소 I-장소 B-증상 O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O O
+B-행동 O B-장소 I-장소 O O O O B-날씨 B-날씨 I-날씨 I-날씨 O O O O B-음식 O
+O O O O O O O O O
+B-가구 O O O O O
+O O O O O B-신체부위 O O O O O B-행동 O B-날씨 O O O
+B-음식 B-신체부위 O B-음식 O O O
+O O O O O
+B-신체부위 I-신체부위 O O O O O O O
+B-날씨 O O O B-신체부위 O O O O O B-음식 B-시간 O B-행동 O O O O O
+O O O O O O O
+O O O O O
+O O O O O O O
+B-신체부위 O B-위생용품 O O O
+O O B-음식 O O
+B-신체부위 O O O O B-음식 I-음식 I-음식 I-음식 I-음식 I-음식 I-음식 O O O O O O O O O
+O O O O O
+O O O B-금액 I-금액 I-금액 O B-신체부위 O O O O O O O
+B-증상 I-증상 O B-음식 O O O O O O O O O O O
+B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 B-증상 B-행동 O O
+B-시간 I-시간 O B-증상 O O O O
+O O O O
+B-날씨 O O O O O O
+B-시간 O O O O O B-행동 O O O O O O
+O O O O O O O O
+O O O O O O O O
+O O O
+B-시간 O B-날씨 I-날씨 O O O O O O O O O O O
+O O O O O O
+O O O O O
+O B-시간 O O O O O O O O
+O O B-행동 O O O
+B-시간 O O B-행동 O O O O O O O O O O O O O
+B-증상 I-증상 O O B-음식 O O O
+B-시간 O O O O O O O O B-신체부위 O O O
+O O O O
+B-신체부위 I-신체부위 I-신체부위 B-증상 O O O O O O
+B-음식 O O O O O O O O B-장소 I-장소 O O O O B-날씨 O O O O
+O O O O O O O O O O O O
+B-신체부위 O O O O O O O O O
+B-종교활동 I-종교활동 O O O O O
+B-장소 I-장소 O O O O O O O O B-장소 O O O O O O
+O O O O B-행동 O O O O O O
+B-증상 I-증상 I-증상 O B-행동 O O O O O
+O O O O
+B-음식 I-음식 O O O O O O O O B-음식 I-음식 O B-신체부위 O O O
+B-가구 I-가구 I-가구 O B-증상 I-증상 I-증상 O O O O O O O
+B-행동 O O O O B-음식 O O B-행동 O B-음식 O
+B-신체부위 I-신체부위 O O O O O
+B-신체부위 O O O O O
+B-행동 O O O O O O
+B-신체부위 O O B-가구 I-가구 O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O B-증상 I-증상 O O O O
+B-신체부위 O B-음식 I-음식 O O O O O O O O O O O
+B-신체부위 B-증상 O O O O O O
+O O B-날씨 O O O O
+B-신체부위 B-증상 O O O O O O
+B-신체부위 B-증상 O O O O O
+O O O O
+B-시간 O O B-행동 O O O B-시간 O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 B-증상 O O O O O O
+B-신체부위 O O O B-증상 I-증상 I-증상 O O O O O O
+O O O O O O
+B-위생용품 I-위생용품 I-위생용품 I-위생용품 O B-날씨 O O O O O
+O O O O O O
+B-신체부위 O O O O O O O O O O B-음식 I-음식 I-음식 O O O O O O O O O O O
+O O O O O O O
+O O O O
+O O O O O O O O
+O O O O O O O B-신체부위 B-증상 O O O O O
+O O O O O O O O O O B-음식 I-음식 O O O O O O O O O O
+O O O O O O O O
+O O O O O O B-장소 O O O O O O O
+O O O O B-신체부위 O O
+B-위생용품 O O B-행동 O O O O O O O O O
+B-증상 I-증상 O O O O O O O O O O O
+B-장소 I-장소 O O B-증상 I-증상 O O
+B-가구 I-가구 I-가구 I-가구 I-가구 O O B-음식 I-음식 O O O O O O O O O O
+O O O O O O
+B-신체부위 I-신체부위 O O B-음식 O O O O
+B-행동 O O O O O O O O O O O O
+B-신체부위 B-증상 O O O O O
+O O O O O O
+B-장소 I-장소 O O O O O O O O
+B-장소 O O O O O O O O O B-행동 O B-날씨 O O O O O O
+B-음식 O O O O O O O O
+O O O O
+O O O B-장소 I-장소 I-장소 B-신체부위 O O O O B-음식 O O O O O O O
+O O O O O O O O O
+B-음식 I-음식 I-음식 O O O O
+O O B-신체부위 O O O
+O B-장소 O O O O B-행동 O O O O O
+O O B-행동 O O O O O O B-행동 I-행동 O O O O O O O
+B-장소 I-장소 O B-장소 I-장소 O O O O
+B-시간 B-시간 I-시간 O O O O O
+B-신체부위 O B-신체부위 O O O O O O O O O O O
+B-신체부위 O O O O O
+B-신체부위 O O O B-음식 O O O O O
+O O O O
+B-장소 O O O O
+O O O O O B-장소 O B-신체부위 B-음식 O O O O O
+O O O O B-음식 O O O O O O B-음식 B-행동 O O O O O
+O O O O O O O O O O O O
+O O B-생활보조기구 I-생활보조기구 O O O O O O O B-신체부위 O O O O O O O O O O
+B-신체부위 O O B-신체부위 O O O O O
+B-장소 I-장소 O O
+B-시간 B-가구 I-가구 I-가구 I-가구 I-가구 O O O B-신체부위 O B-음식 O
+B-신체부위 O O O O O O O O O
+B-신체부위 I-신체부위 B-증상 O O O O
+O O O O O O
+O O O O O O
+B-신체부위 O O O O O B-음식 B-행동 O O O O
+B-신체부위 B-증상 O O O O O
+O O O B-시간 O O O O O O O O O O O O O O
+B-신체부위 B-증상 O O O O
+B-시간 O O O O O O
+B-금액 I-금액 I-금액 I-금액 O O B-음식 I-음식 I-음식 I-음식 O O O B-증상 O B-날씨 O O O O O O O
+O O O B-행동 I-행동 B-행동 O O O O O O O O O O B-음식 O O O
+B-장소 O B-음식 O B-행동 O O O O
+B-행동 I-행동 O O O O
+O O O O O O O O
+O O O O O O O O
+B-음식 O O O O O O O O O O O
+B-장소 O O O O O O O B-증상 O O O O O
+B-장소 O O B-음식 O O O B-가구 I-가구 I-가구 B-증상 O O O O O O O
+O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O B-음식 O O O
+B-장소 I-장소 B-가구 I-가구 O B-증상 O O O O O
+O O O O O B-장소 O O O O O O O
+B-생활보조기구 I-생활보조기구 O O O B-신체부위 O B-가구 O O B-음식 O O O O O O
+B-장소 O O O O O O
+B-신체부위 O O O
+O O O O O O O O O O O O O O
+B-음식 O O O O O O O
+O O O O O
+B-장소 O O O O O O O B-행동 O O O O O O
+B-신체부위 B-증상 O O O O O
+B-장소 B-증상 O O O O O O O
+O B-신체부위 O O O O
+B-시간 I-시간 O O O B-행동 O O O O O
+O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O
+B-신체부위 O O O O O O O O O B-시간 O B-장소 I-장소 O O O O O
+B-음식 O B-음식 I-음식 I-음식 O O O O O O O O
+O B-신체부위 B-증상 B-날씨 O O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O O O B-음식 O O O O O
+O O B-행동 O O O
+O O O O O O
+O O O O O O O O O O
+O O O O O O O O O
+O O O O
+B-행동 I-행동 I-행동 O O O
+O O O O O O
+O O B-가구 I-가구 O B-가구 I-가구 O O O O O O B-음식 O O O O O O
+B-증상 I-증상 O O O O O O O O
+O O O O O O O O
+O B-시간 O O
+B-신체부위 I-신체부위 O O O O O B-증상 O O O
+B-음식 I-음식 O O O O O O O O O O O O O O O O O O
+B-장소 I-장소 O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O
+O O O B-음식 I-음식 I-음식 I-음식 O O B-시간 I-시간 O O O O O O O O O O O O
+O B-신체부위 B-증상 O O O O
+B-신체부위 O O O O O O O O
+O O O O O
+B-신체부위 O O O O O O O O O
+B-장소 I-장소 O B-음식 B-행동 O O O O O O O O
+O O O O B-위생용품 O O O O O O
+O O O O B-음식 O O
+B-행동 I-행동 B-날씨 O B-위생용품 I-위생용품 I-위생용품 O O O O O O
+O O O O O O O O O O O
+B-신체부위 B-증상 O O O O
+B-가구 O B-증상 O O O O O O O
+B-신체부위 O O O O O O O
+B-장소 I-장소 O O O O O O O O
+B-행동 O O O O O O O O O
+B-신체부위 B-신체부위 O O O O O O O B-증상 O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O B-음식 O O O
+B-장소 O O O O O O O O
+O B-장소 B-증상 O O O O O O O
+B-신체부위 O O O O O B-증상 O O O O O
+B-행동 O O O O O O O O O B-증상 I-증상 O O O
+O O O O O
+O O O O O O O
+B-신체부위 B-증상 O O O O O O
+O O O O B-장소 I-장소 O B-행동 O O O O O O O O O O O O O
+O B-행동 O O O O O O
+B-신체부위 O O O O O O O O O
+O O O O O O O O O
+O O O O
+B-신체부위 I-신체부위 O O O O B-증상 O O O O O
+O B-행동 O O
+O B-증상 B-장소 I-장소 O O O O O O O O
+O O O O O B-날씨 O O O O O
+B-신체부위 O O O O O O B-행동 I-행동 I-행동 B-음식 O O O
+B-행동 O O O O O O B-시간 O O O O O O
+O O O O O O O
+O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O O O O O O
+O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O B-증상 I-증상 I-증상 O O O O O O O O
+B-가구 O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O O O O
+B-시간 O O O O O O O
+O O O O O B-음식 O O O O O
+B-시간 B-날씨 O O O O O
+B-장소 O O O
+O O O B-행동 O O O B-시간 I-시간 O B-시간 I-시간 O O O
+O O O B-날씨 O O O O O O O O
+B-시간 O O B-날씨 O O O O O B-위생용품 I-위생용품 O O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O B-음식 O O O
+O O O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O
+B-장소 I-장소 O O O O B-종교활동 I-종교활동 O O O O
+O O O O
+B-신체부위 O O B-행동 O O O O O O
+B-시간 O O B-행동 O O O O O O O O B-음식 O O O
+O O O B-행동 O O O O O
+O O O O O O O O O
+O B-음식 O O O O O O O O
+B-신체부위 I-신체부위 O O O O O O B-행동 O O O O O O
+B-가구 I-가구 O B-증상 I-증상 I-증상 O O O O
+B-증상 I-증상 I-증상 O O O O O B-신체부위 O O O O O O O O O O O
+B-시간 O O O O O
+B-시간 O B-신체부위 O O O O
+B-음식 I-음식 I-음식 B-음식 I-음식 O O O O O O O O O O
+B-가구 I-가구 O O O O O
+B-가구 I-가구 I-가구 O O O B-신체부위 O O O B-음식 I-음식 I-음식 O B-증상 I-증상 I-증상 O O O O O
+B-신체부위 B-증상 O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O B-음식 O O O
+B-증상 I-증상 O O O O O B-신체부위 O O O O O O O O O O O O
+B-신체부위 O O O O O O O O B-음식 O O O O
+O O O B-행동 I-행동 O O O O O O
+B-신체부위 O O O O O O O O B-음식 B-행동 O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O B-음식 O O O O O O O
+B-가구 I-가구 I-가구 I-가구 O O O O O
+O O O O O B-장소 O O O O O O O O
+B-장소 I-장소 B-증상 O O O O O O O O
+O O O O O O O
+B-신체부위 B-증상 O O O O O
+O O O B-행동 I-행동 B-증상 O O O O O O O B-날씨 O O O O O O
+B-행동 O O O O O O
+O O O O O O
+B-증상 I-증상 O B-증상 O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O O
+B-행동 I-행동 O O O O
+B-증상 O O O O B-장소 I-장소 O O O O O O B-위생용품 I-위생용품 O O O O O O O
+O O O O O
+O O O B-날씨 O O O O O O O O O O O
+O O O O O O O O O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O O B-신체부위 O O O O O
+B-날씨 O O O O
+B-신체부위 I-신체부위 O B-증상 I-증상 O O O O O O
+O O O O O O O O O O O O B-증상 O O O
+O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O B-시간 O O O O O O O O O
+B-증상 I-증상 I-증상 O B-행동 O O O O
+O O O O O
+B-시간 O O O O O O O
+O O O O B-신체부위 O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O O
+O O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O
+B-신체부위 I-신체부위 O O O O O B-날씨 O O O
+B-음식 B-시간 I-시간 O O O O O O O B-장소 O O O O O O O
+O O B-행동 O B-날씨 O O O
+B-행동 I-행동 O O B-신체부위 I-신체부위 O O O O O
+B-신체부위 O O O O O
+B-장소 O B-증상 I-증상 O O B-신체부위 O O O O O
+B-시간 I-시간 O O O O O O O O O O B-행동 O O O
+B-위생용품 I-위생용품 I-위생용품 I-위생용품 O B-날씨 O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O
+B-신체부위 O O B-장소 O O O O O O O O O O O
+B-시간 I-시간 O O B-음식 I-음식 O O O
+B-신체부위 I-신체부위 O O O O O
+O O O O O O O B-행동 O O O B-증상 O O O O O
+B-위생용품 I-위생용품 I-위생용품 I-위생용품 O O O O B-행동 I-행동 O O O O O O O
+B-장소 O B-날씨 O O O O O O O B-신체부위 O B-증상 O O O O O O O
+O O O O B-신체부위 O O O O O B-행동 O O O O O
+B-신체부위 O O O O O O O O O
+B-음식 O B-날씨 O O O O
+O O B-음식 I-음식 I-음식 O O O O O O B-신체부위 O O B-음식 O O O O O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O O
+B-장소 O B-행동 O B-날씨 O O O
+B-음식 O O O O O B-음식 O O O
+B-시간 I-시간 O O O O
+B-신체부위 O O O B-생활보조기구 I-생활보조기구 O O O O
+B-증상 I-증상 O O O B-음식 O O O O O O O O O O O O
+O O O O O O O O O
+O O O O B-행동 O O O O O O O
+B-신체부위 O O O O
+O O O B-행동 O B-음식 I-음식 I-음식 I-음식 O O O O O
+O O O O O O O O O O B-증상 O O O O O
+O O O B-음식 B-행동 O O O O O O
+O O O O O O
+B-장소 B-행동 I-행동 B-시간 O O O O O O O O B-신체부위 O O O O O O
+O B-증상 I-증상 O O O B-행동 O O O O O
+B-신체부위 B-증상 O O B-신체부위 O O O O O
+O O B-음식 I-음식 O O O O O O O O O O O O O O O
+B-신체부위 I-신체부위 O B-증상 I-증상 O O O O
+B-가구 I-가구 I-가구 O B-음식 I-음식 I-음식 O O O O O O O
+O B-증상 B-장소 I-장소 I-장소 O O O O O O O O O
+B-신체부위 O B-증상 I-증상 O O O
+B-음식 O B-행동 O O O O O O B-날씨 O O O O O
+B-장소 I-장소 O B-신체부위 O O O O O
+B-신체부위 O O O O O O O O O
+O O O O
+O O O O O B-음식 O O
+B-장소 O O O O O
+O O O B-행동 O O O O
+B-신체부위 O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O O O O
+O O B-음식 O O
+B-행동 I-행동 B-음식 O O O O O O O
+B-신체부위 B-증상 O O O O O O O
+O O O B-음식 O O O O O O O
+B-증상 I-증상 O O O O O O
+B-음식 O O O O O B-장소 O O O O O
+O O O O O O O O O O O O O O
+B-신체부위 O O O B-증상 I-증상 I-증상 O O O O O
+O O O O O O
+B-날씨 I-날씨 O O O O B-행동 O O O O O
+B-신체부위 O O O O O
+B-위생용품 I-위생용품 O B-장소 B-증상 B-음식 O O
+B-증상 I-증상 O O
+O O O O O O O
+B-행동 O O O O O O O O O O O O O
+B-음식 O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 I-생활보조기구 O B-음식 O O O B-날씨 O B-시간 O O O O
+B-행동 I-행동 O O O B-위생용품 I-위생용품 O O O
+O O O O B-증상 O O O O O O
+O O O O O O B-신체부위 O O O O O
+B-시간 B-행동 O O O O O O
+B-음식 O B-행동 O O O O O O O O O O O O
+O O B-행동 O B-장소 O O O O
+B-신체부위 I-신체부위 O O O O O O O O
+B-신체부위 B-증상 B-음식 O O O
+B-시간 O O O O O
+B-시간 I-시간 B-행동 O O O O O O O O O O O O
+O B-증상 B-장소 I-장소 O O O O O O
+B-음식 I-음식 O B-음식 O O B-음식 I-음식 O O O O O O O O O O O O O O O O O
+O O O O O
+B-생활보조기구 I-생활보조기구 O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O O
+B-장소 I-장소 O O O O O B-음식 O O O
+B-시간 O B-증상 I-증상 O O O O O O B-행동 I-행동 B-증상 O O O O
+B-장소 O B-시간 O B-음식 B-행동 O O O O O O
+O O O O O O B-행동 O O O O O B-증상 I-증상 O B-가구 I-가구 O O O O O O O O
+B-음식 O O O O O O O
+O B-신체부위 O O O O
+O B-증상 B-장소 I-장소 O O O O O O O
+B-장소 O O O B-행동 I-행동 O B-날씨 O O O O
+O O O O O O O B-신체부위 O O O O O O
+O O O
+O O O O O O O B-가구 O B-신체부위 O O O O O O
+B-신체부위 O O O O O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O B-음식 O O O O O O O
+O O O O O O
+B-신체부위 O O O O O O O O O O O
+O O O O O O O O O O
+O O B-행동 O O O
+O B-신체부위 O O
+B-신체부위 B-증상 O O O O O O
+B-음식 I-음식 I-음식 O O O O
+O O O O O O B-행동 O O
+O O O O O O O B-신체부위 I-신체부위 O B-장소 O B-날씨 O O O O O O O O O O O
+O O O O
+O O O O O O O B-행동 O O O O O O
+B-음식 O O O B-행동 O O O O
+B-신체부위 I-신체부위 O O O O O O O
+B-증상 I-증상 O B-음식 O O O B-행동 O O O O O O
+B-가구 I-가구 I-가구 O O O O B-음식 I-음식 O O O O O O O B-신체부위 I-신체부위 O O O O O O O
+B-음식 O O O O O O O O O B-위생용품 I-위생용품 I-위생용품 I-위생용품 B-날씨 O O
+B-신체부위 O O B-시간 I-시간 O B-장소 O O O O
+O O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O O O O O O
+B-신체부위 O B-증상 I-증상 I-증상 O O O O
+O O O O O O O O O O O
+O O O O O O B-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O
+O O O O O
+O O O B-행동 O O O O
+O O O O
+O O O O O O O O
+O O B-시간 O O B-시간 I-시간 B-시간 I-시간 O O O
+O O B-행동 O O
+B-행동 O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O O O O O O O
+B-신체부위 O O O O O O O B-행동 I-행동 B-증상 O O O
+B-행동 I-행동 B-행동 O O
+B-신체부위 O B-가구 I-가구 O O O O O O
+B-장소 I-장소 O O O B-증상 I-증상 I-증상 O O O O O
+O O O O O
+O O O O B-음식 O O B-장소 I-장소 I-장소 O O O O O O
+B-장소 I-장소 O O B-장소 O O B-신체부위 I-신체부위 O O O O O O O O O
+B-신체부위 B-증상 O O O O O
+O O O O O O O O O
+B-시간 I-시간 B-신체부위 O O O O O O O O O O O O O O O O
+B-음식 O B-증상 O O O O O O O O O O
+B-증상 I-증상 I-증상 O B-시간 I-시간 O B-날씨 O O O
+B-음식 I-음식 I-음식 O O O B-신체부위 I-신체부위 O O O O O
+O O O O O O O
+O O O O B-증상 I-증상 I-증상 O O O
+O B-장소 O O O O O
+O O O O O O O
+B-신체부위 O O O O B-금액 I-금액 O O O O O O O
+O O B-증상 O O O O O
+O O O O O B-날씨 O O B-음식 O O
+B-음식 O O O O O O O
+B-신체부위 B-증상 O O O O O
+O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O O O O O O
+B-날씨 O O O O O O O O O O O B-시간 B-날씨 O O O
+B-신체부위 O B-가구 I-가구 O O O O O O O
+O O O O O
+O O O O O O B-가구 I-가구 I-가구 I-가구 B-증상 O O O O
+B-신체부위 O O O O O O O O
+O O B-음식 I-음식 O B-신체부위 O O O B-증상 I-증상 I-증상 O B-신체부위 O B-음식 I-음식 O O O O O O
+B-장소 I-장소 B-증상 O O O O O O O
+O O O O
+B-신체부위 B-날씨 O O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O B-증상 I-증상 I-증상 O O B-음식 O O O O O O
+B-음식 O B-행동 O O O O O O O O O O O O O O
+O O O O O O O O
+B-장소 I-장소 O O O O O O O O O O O O O O O O O O O O O
+O O B-신체부위 B-신체부위 O O O O O O O O O O
+O O O O O O O O O O O O
+B-신체부위 O O O O O
+B-증상 I-증상 I-증상 O O O O O O O
+B-시간 O O O O
+O O O O O O O O O O O O
+B-음식 O O B-음식 O O O O
+B-신체부위 O O O B-행동 I-행동 O O B-날씨 O
+O O O O O O
+O O O
+O O O O O O O
+B-시간 I-시간 O B-음식 O O O O O O O O O
+O O O O
+O O O B-음식 O B-음식 I-음식 O O O O O
+O O O O O
+B-음식 I-음식 O O O O O O O O O O O O
+B-신체부위 O O B-증상 O O O O O O O O
+B-증상 I-증상 O O O O O O O
+O O O O O O
+O O O O O O O O O B-음식 I-음식 I-음식 I-음식 O O O O
+B-신체부위 O O O O O O
+B-신체부위 B-날씨 I-날씨 O B-증상 O O O O O
+B-음식 O B-행동 O O O O O O B-증상 I-증상 O O
+O O O O O O O O
+O O O O O O
+B-신체부위 O B-위생용품 I-위생용품 I-위생용품 O O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O B-신체부위 O O O O O O
+O O O O O O
+O O O O O O O O O O O O
+B-행동 O O B-증상 O O O O O O
+B-증상 O O O O O O
+O O O O O O O
+O O O O
+B-신체부위 O B-가구 I-가구 O O O O O O
+O O O O O B-신체부위 O O
+O B-음식 O O B-신체부위 O O O O O O O O O O O
+O O O B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O B-날씨 O O
+O O O O O O O O
+O O O O
+B-신체부위 O B-음식 O B-음식 O B-행동 O B-행동 O O O B-음식 O O O
+B-장소 O O O B-위생용품 I-위생용품 I-위생용품 O B-신체부위 O O O
+O O O O O O O O B-음식 I-음식 I-음식 I-음식 O O O O O O O
+B-행동 O O O O O O
+B-신체부위 O B-증상 I-증상 O O O O B-증상 O O O O O O
+B-행동 O O O O O O O O O O O O O O
+B-신체부위 O O O O
+B-신체부위 B-증상 O O O O O
+B-음식 I-음식 I-음식 O O O O O O O
+B-신체부위 B-증상 O O O O O
+B-행동 I-행동 I-행동 B-날씨 O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O B-증상 I-증상 O O O O O
+O O O O
+O O O O O O O O O
+B-음식 I-음식 O O O B-증상 I-증상 I-증상 O O O O O O
+B-시간 I-시간 B-행동 O O O O B-시간 O O B-증상 I-증상 O O
+B-시간 O O O B-행동 O O O
+B-장소 I-장소 O O O O O O
+O O O O O O O O O O O
+B-시간 O O B-음식 O O O O O O O O B-음식 O O O O O O O O
+O O O O O O
+O O B-음식 I-음식 I-음식 O B-행동 O O O O B-음식 O O O O O O O O O O O O O
+B-음식 I-음식 O O O O O B-신체부위 O B-신체부위 O O O O O O O O O
+B-장소 I-장소 O O O O O O O O
+B-신체부위 O O O O
+B-시간 O B-음식 B-시간 I-시간 O O O O O O O
+O O O O O O O O B-신체부위 O O O O
+B-시간 B-신체부위 O O O O O B-행동 O B-날씨 O O O
+B-금액 I-금액 I-금액 I-금액 O O O O O O O O O O O O O O O O O O
+O O O B-신체부위 O O B-신체부위 O O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 B-증상 I-증상 I-증상 O O O B-신체부위 O O O O O
+B-종교활동 I-종교활동 O O O O O O
+B-장소 O O O B-행동 O O O
+O O O O O O
+B-증상 I-증상 O O O O O O O O O O O
+B-장소 O O O B-신체부위 O O O O O O
+B-가구 I-가구 O O O O O O
+B-장소 I-장소 O O B-행동 I-행동 I-행동 O O O O
+B-음식 O O O O O B-시간 I-시간 O O O O
+B-신체부위 I-신체부위 O O O O O O O O O O O
+O B-증상 O B-장소 O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O B-위생용품 I-위생용품 I-위생용품 I-위생용품 O O O O O O
+B-신체부위 B-증상 O O O O O O
+B-신체부위 O O O O O B-위생용품 I-위생용품 I-위생용품 O O O O
+O O B-장소 I-장소 O O O O O O O O O O O O
+B-가구 O O O O O O O
+B-행동 O O O O
+B-음식 I-음식 O B-음식 I-음식 O O O O O O O O O O O
+O O B-행동 O O O O
+B-신체부위 O O O O O O O
+B-신체부위 I-신체부위 O B-증상 I-증상 O O O O O O O O O O O O
+B-행동 I-행동 O O O O
+B-신체부위 I-신체부위 O O O O O O O O O O O O O
+O O O B-행동 O O B-장소 O O B-증상 I-증상 I-증상 O O O
+B-시간 O B-가구 I-가구 I-가구 I-가구 I-가구 O O O O O O O O O B-시간 O B-행동 O O O O O
+B-음식 I-음식 I-음식 O O O O
+O O O O O O O
+O O O O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O B-신체부위 O O O O O O O O O O O O
+O O O O O O O
+O O B-행동 O O O O O O O O O O O B-음식 O O O
+O O O O O O O O
+B-장소 O O O O O O
+B-행동 O O O O
+B-장소 I-장소 B-증상 O O O O O O O
+O O O O O O O B-행동 O O O
+O O O O O O O
+O O O O O O O
+O O O O O O
+O O O O B-날씨 O O O O O O O
+B-가구 I-가구 O B-행동 O O O
+O O O O O
+O O O B-시간 O O O O O O O
+B-신체부위 B-날씨 O O O O O
+B-날씨 O O O O O O B-신체부위 I-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O O O
+O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 I-음식 O O O O O O O
+B-신체부위 O O O O O O B-생활보조기구 I-생활보조기구 O O O O O O
+O O O O O O
+B-신체부위 O O O O O O O O
+B-신체부위 I-신체부위 O B-증상 I-증상 O O O O O O B-음식 O O O
+B-신체부위 O O O O O O O
+B-신체부위 O O O O O O O O O O O O O O
+O O O O O O O O O O B-신체부위 O O O B-시간 O B-장소 O O O
+O O O O O O O
+B-음식 O O B-가구 O O O O O O O
+B-신체부위 O B-증상 I-증상 O O O O O O O O O O
+O O O O O O O O
+B-시간 O O B-행동 O O O O O O B-증상 I-증상 O O
+B-장소 I-장소 O O O O B-날씨 O O O O O O O O O
+O O O O B-종교활동 I-종교활동 O O O O O
+B-시간 O O O O B-신체부위 B-행동 I-행동 O O O O
+O O O O
+O O O O O O O
+O O O O O O O O O
+O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O O
+O B-신체부위 B-음식 O O O
+B-행동 O O O O O O O
+B-종교활동 I-종교활동 O O O O B-장소 I-장소 O O O O O O O O O O O O
+B-장소 I-장소 O O O O O
+B-증상 O O O O O O O O O
+O B-장소 I-장소 I-장소 I-장소 O B-음식 O O O O O O O O O O O O O O
+B-장소 O O B-행동 O O O O O
+B-장소 I-장소 B-증상 O O O O O O O O
+O O O O B-행동 O O O O O
+B-음식 I-음식 O O O O O O O O O O O
+B-장소 O O O O O O O O O O O O O O
+O O O O O O O O
+B-행동 B-증상 O O O O
+O O O O O O O O O
+B-신체부위 I-신체부위 O B-증상 I-증상 I-증상 O O O
+B-행동 I-행동 O O O B-신체부위 O O O O B-증상 O O O O
+O O O B-날씨 I-날씨 I-날씨 I-날씨 O O O O O O O O O O O O O
+B-가구 I-가구 I-가구 O O O O O O O O O O O O O O O O O
+O O O O O O O
+O O O O O B-행동 O O O O O
+O O O O O O O O O
+O O O O O O O
+B-행동 I-행동 O O O O B-날씨 O O
+B-신체부위 I-신체부위 O O B-증상 I-증상 O O B-음식 O O O B-증상 I-증상 I-증상 O O O O
+O O O O O
+B-장소 O O O B-행동 O O O
+O O B-시간 O O O O O
+B-장소 O O O O B-증상 I-증상 O O O O
+O O O O O O
+O O O O O O O O O
+B-신체부위 O O O O O O
+O O O B-날씨 O O
+O O O O O
+O O O O O
+O O O O O B-음식 O O O
+O B-증상 B-장소 I-장소 O O O O O O O
+O O O O O O
+B-신체부위 O O B-행동 O O O O O
+B-행동 O O O
+O O O O O O
+O O O O O B-위생용품 O O O O O O O O O
+B-신체부위 O O O O O O
+O O O B-날씨 O O O O O O O O O
+O O O B-시간 B-시간 I-시간 O O O O
+B-장소 O O O O
+B-행동 O B-생활보조기구 I-생활보조기구 B-증상 O O O
+O O O O B-날씨 O O
+O O O O O O O O O
+B-신체부위 B-증상 O O O O O O
+B-신체부위 O B-위생용품 O O O O B-음식 I-음식 O O O B-신체부위 O O O B-음식 I-음식 I-음식 I-음식 I-음식 O O O O
+O O O B-행동 O O O O O
+O O B-증상 O O O O
+B-가구 I-가구 O O O O
+B-시간 O O O O B-행동 O O
+O O O O O O O O O O B-가구 B-증상 O O O O
+B-신체부위 O O O O O
+B-신체부위 O O O O O O O
+B-행동 O O O O O O O O O O O O O O O O
+B-위생용품 I-위생용품 O O O O O O O O O O O O B-행동 O O O O O O
+B-신체부위 B-증상 O O O O O O
+O O O O O O O O O
+B-장소 O B-시간 I-시간 O O O B-장소 O B-시간 I-시간 O O O O O
+O O O O O O
+O O O O O
+O O O O O O O O O O O O
+O O O B-신체부위 I-신체부위 O O O B-음식 O O O O O O O
+B-증상 I-증상 I-증상 O O B-행동 I-행동 B-날씨 O O O O O
+O O O O O O B-증상 I-증상 I-증상 O O O O
+O O O O
+B-날씨 I-날씨 I-날씨 O O O O B-음식 O O O B-날씨 O O O O O O O O O
+B-장소 I-장소 O O O O O O O
+B-음식 I-음식 I-음식 O O B-신체부위 I-신체부위 I-신체부위 O O O O O O O O
+O O B-시간 O O O O O O O O
+B-증상 O O O O
+B-신체부위 O O O O O O O O
+B-음식 O B-행동 O O O O O B-신체부위 O B-음식 O B-음식 O O O
+B-가구 I-가구 O O O O O O O
+O O O O
+B-신체부위 I-신체부위 B-증상 O O O O O O
+B-음식 O O O O B-행동 I-행동 O O O O O
+O O O O O O O O O B-행동 O O O O O
+B-신체부위 O O O O O B-행동 O O O O
+O O B-행동 O O O
+O O
+O O O O O O O
+B-시간 I-시간 O O B-가구 O O O O
+B-음식 O B-날씨 O O
+O O O O O O O
+B-가구 I-가구 O O O B-증상 I-증상 I-증상 O O O O
+B-장소 O O B-증상 I-증상 O O O O B-신체부위 O O O O O
+B-신체부위 O O O O O O O O O
+O O O O O O
+O B-행동 O B-날씨 O O O O
+B-시간 O O O O O
+B-날씨 O O O O O
+B-행동 I-행동 I-행동 O O B-신체부위 I-신체부위 O O O O O
+O O O O B-증상 O O O
+B-신체부위 I-신체부위 O B-장소 O O O O O O O O O O
+B-위생용품 I-위생용품 O B-증상 I-증상 I-증상 O O O O
+O O O O O O O
+O O O O O O O O
+B-신체부위 O B-음식 I-음식 I-음식 I-음식 I-음식 O O O
+B-날씨 I-날씨 I-날씨 I-날씨 O B-행동 I-행동 O O O O B-장소 O O O O O
+B-가구 O O O O O O
+B-증상 I-증상 I-증상 O B-날씨 O O B-행동 O O O
+O O O O O O O B-시간 I-시간 O O O O
+O O O B-음식 I-음식 O O O O
+B-음식 I-음식 I-음식 O O O O O O O O O O
+B-가구 I-가구 O B-증상 I-증상 I-증상 O O O O O
+O O O B-행동 O B-시간 I-시간 O O O O O
+O O O O O O O O
+B-행동 O O O O O B-증상 I-증상 O O O B-음식 B-위생용품 O O O O O
+O O O O O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O
+B-위생용품 I-위생용품 I-위생용품 O O O O O O O O
+O O O O O
+O O O B-행동 O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O O O O O O O O
+O O O O O
+B-장소 I-장소 O O B-신체부위 O O O O B-증상 I-증상 O O O B-음식 O O O O O
+O O O O O O
+O O O O O
+B-증상 I-증상 I-증상 O O O O O O O O
+O O O O B-음식 O O O
+O O O O
+O O B-증상 O O O O
+B-행동 I-행동 B-날씨 B-증상 I-증상 I-증상 O O O O O B-위생용품 I-위생용품 I-위생용품 O O O O O O O
+B-장소 I-장소 O O O O O O O O O
+B-신체부위 I-신체부위 O O O O
+O O O O B-신체부위 O O O
+B-행동 I-행동 B-음식 B-증상 O O O
+B-행동 I-행동 I-행동 B-날씨 O O
+O O O O O
+B-신체부위 O O O O O O
+O O O O O O O O
+O O O O O O O O B-종교활동 I-종교활동 O O O O O O O
+B-위생용품 I-위생용품 I-위생용품 I-위생용품 O O B-증상 B-음식 O O
+B-시간 B-위생용품 I-위생용품 O B-신체부위 O O O O O O O
+B-신체부위 B-증상 B-행동 O O O O O O
+B-행동 I-행동 B-증상 O O B-행동 I-행동 I-행동 B-날씨 O O
+O O O O B-음식 B-행동 O O O O O O
+B-신체부위 O O O O O O
+O O O O O O O
+O B-증상 O B-장소 O O O O O O O O O
+B-신체부위 I-신체부위 O O O O O O O O O
+B-가구 I-가구 I-가구 O O B-행동 O O O O O O
+O O O
+B-장소 O B-음식 O O O B-음식 O O O O O
+B-음식 I-음식 I-음식 B-음식 I-음식 B-음식 I-음식 I-음식 O O O O O O O O O O
+O O O B-증상 O O O
+O O O O O O O O O
+O O O O B-위생용품 I-위생용품 I-위생용품 O O O B-증상 I-증상 I-증상 O O O O
+B-신체부위 I-신체부위 I-신체부위 I-신체부위 O O O O O O O B-음식 O O O O O O
+B-증상 I-증상 I-증상 O B-음식 O O O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O
+B-시간 O O O O O O O
+O O O O O O
+O O O O O O O O O
+B-장소 I-장소 O B-음식 O B-가구 I-가구 I-가구 O O O O O O O
+B-신체부위 I-신체부위 O O O O O
+B-신체부위 O O O O O O O O
+O O O O O
+B-행동 O B-가구 I-가구 I-가구 B-가구 O B-증상 O O O O O O O O O O O O O
+B-신체부위 B-행동 O O O O O B-신체부위 O O
+B-장소 O B-음식 B-날씨 O B-음식 O O
+B-행동 O O O O O O B-위생용품 I-위생용품 I-위생용품 O O O O O
+O O O O O O
+O O O O O
+B-신체부위 O O O O O O O O O
+B-장소 O O O O O
+B-시간 O O O B-장소 B-신체부위 O O O O O
+B-신체부위 O O O O O O O
+B-음식 I-음식 O O O O O O O O B-음식 O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O B-음식 O O O
+O O O O B-행동 O O O
+B-신체부위 O O O O
+B-음식 O O B-음식 O O O O O O O O O O O
+O O B-음식 O O O O
+O O O B-증상 O O O O
+O O O B-음식 O O O
+O B-신체부위 O O
+O O O O O O O O
+B-신체부위 O B-음식 O B-행동 O O O
+B-장소 O O O O B-신체부위 O O O O O
+O O O O O O O O O
+O B-증상 I-증상 O O O O O O B-장소 O O O
+B-장소 I-장소 B-증상 O O O O O O
+O O B-신체부위 O O
+O O O O B-시간 O O O O O O O O
+B-신체부위 I-신체부위 I-신체부위 O O B-음식 I-음식 O O O O O O
+B-행동 I-행동 I-행동 O B-신체부위 I-신체부위 I-신체부위 O O O O O O O
+B-장소 O O O O O O
+B-시간 O O B-증상 O O O O O B-행동 O O O O O O
+B-시간 O B-음식 I-음식 I-음식 O B-증상 I-증상 O B-음식 O B-증상 O O O
+O O O O O
+B-신체부위 O B-증상 I-증상 I-증상 O O O O O O O O O
+B-신체부위 O O O O O O
+B-장소 I-장소 I-장소 O O O O O O O O
+O O O B-행동 O O O O O O O
+B-신체부위 O O O O O
+O O O O O O O
+B-날씨 O O O O O B-위생용품 I-위생용품 O O O O O O
+O O O O O O O O O B-신체부위 O O O O O O
+O B-음식 I-음식 I-음식 I-음식 O B-음식 I-음식 I-음식 O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O O O
+B-음식 I-음식 O O O O O O O O
+O B-장소 O O O O
+B-시간 I-시간 O B-날씨 O O O
+B-장소 O O O O O O O O O O O O O
+B-음식 I-음식 O B-음식 O O O O O O O O O O O O O O B-금액 I-금액 O O O
+B-음식 I-음식 B-증상 I-증상 I-증상 O O O O O O O O O O O
+O O O O O O O O O O
+B-장소 I-장소 O O O O O O
+O O O O O O O B-행동 O O O B-증상 I-증상 O O
+O B-증상 O B-행동 O O O O O O O O O
+B-신체부위 I-신체부위 O O O O O O O O
+B-가구 I-가구 O O O O O O O O O O O
+B-장소 O O O B-행동 I-행동 O O O O O O O O O O O O O O B-날씨 O
+O O O O O O O O
+O O O O O O O
+B-증상 I-증상 O O B-신체부위 O O O O O O O O O
+B-시간 I-시간 O O B-신체부위 O O O O
+B-신체부위 B-증상 O O O O O O
+B-신체부위 O O O O B-증상 O O O O O O O O
+B-신체부위 O O O B-행동 O O O
+B-신체부위 I-신체부위 O O O O O O O
+B-행동 I-행동 O O O B-행동 O O O O O O
+B-신체부위 O O O O O
+B-증상 I-증상 O O O O O O O
+B-음식 I-음식 O O O O O O O O
+O O B-행동 O O O O O
+O O O O B-가구 I-가구 I-가구 O O O O O O
+O O O O O O O O
+O O O O O O O
+B-시간 O O B-음식 O O O B-음식 I-음식 I-음식 I-음식 O O O
+O O O O O O O O
+B-행동 I-행동 O O B-증상 I-증상 O B-증상 O O O O O B-신체부위 O O O O O O O O O O O
+B-신체부위 O B-위생용품 I-위생용품 I-위생용품 B-증상 B-신체부위 O O O
+O O O O
+B-가구 I-가구 B-증상 O O O O B-날씨 I-날씨 O O O O O O O O
+B-음식 I-음식 I-음식 I-음식 O O O O O B-음식 O O O O O O O
+B-날씨 I-날씨 I-날씨 O O O O O B-신체부위 O O O O O
+B-증상 I-증상 O O O
+O O O B-행동 O O O O
+B-가구 I-가구 B-장소 O O O O O
+O O O O
+B-신체부위 B-증상 O O O O O O
+B-음식 I-음식 O O O O O O O
+B-시간 B-생활보조기구 I-생활보조기구 I-생활보조기구 O O O O O B-신체부위 O O O O O O O
+O O O O O O O O
+B-장소 I-장소 I-장소 O O O O O O O O O
+O O O O O O O O O O O
+B-신체부위 O O O O O
+O O O O O O O
+O B-날씨 O O O O O O O O O O O
+B-장소 I-장소 I-장소 O O O O O O O O
+B-시간 O B-행동 I-행동 O O O O B-음식 O B-행동 O O O O O
+B-장소 I-장소 I-장소 B-증상 O O O O O O O
+O O B-위생용품 O O O O O O B-시간 O O O O O O O O O
+B-장소 I-장소 O O O O O O
+B-시간 O O B-행동 I-행동 O O B-행동 O O O O O
+B-신체부위 O O O O O
+B-시간 O B-시간 I-시간 O O O O O B-음식 O O
+B-신체부위 B-증상 O O O O O
+B-장소 O B-증상 I-증상 O B-음식 O O O O O O O O
+O O B-증상 O O O
+O O O B-음식 O O O
+B-장소 O B-시간 I-시간 O O O O B-날씨 O
+B-증상 I-증상 O O O O
+O O B-행동 O O O O O O

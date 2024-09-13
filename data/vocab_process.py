@@ -46,4 +46,4 @@ def vocab_process(data_dir):
 if __name__ == "__main__":
     vocab_process('atis')
     vocab_process('snips')
-    vocab_process('aihub_data')
+    vocab_process('jointbert_demo_data')

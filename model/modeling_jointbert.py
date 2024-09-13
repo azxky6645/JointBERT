@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from transformers.modeling_bert import BertPreTrainedModel, BertModel, BertConfig
+from transformers.models.bert.modeling_bert import BertPreTrainedModel, BertModel, BertConfig
 from torchcrf import CRF
 from .module import IntentClassifier, SlotClassifier
 
@@ -59,5 +59,6 @@ class JointBERT(BertPreTrainedModel):
         outputs = ((intent_logits, slot_logits),) + outputs[2:]  # add hidden states and attention if they are here
 
         outputs = (total_loss,) + outputs
+
 
         return outputs  # (loss), logits, (hidden_states), (attentions) # Logits is a tuple of intent and slot logits

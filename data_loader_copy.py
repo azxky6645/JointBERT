@@ -2,7 +2,9 @@ import os
 import copy
 import json
 import logging
+import re
 
+import tokenizers
 import torch
 from torch.utils.data import TensorDataset
 
@@ -82,7 +84,7 @@ class JointProcessor(object):
         with open(input_file, "r", encoding="utf-8") as f:
             lines = []
             for line in f:
-                lines.append(line.strip())
+                lines.append(line.strip().replace('?', ''))
             return lines
 
     def _create_examples(self, texts, intents, slots, set_type):
@@ -91,15 +93,12 @@ class JointProcessor(object):
         for i, (text, intent, slot) in enumerate(zip(texts, intents, slots)):
             guid = "%s-%s" % (set_type, i)
             # 1. input_text
-            words = text.split()  # Some are spaced twice
+            words = text  # Some are spaced twice
             # 2. intent
             intent_label = self.intent_labels.index(intent) if intent in self.intent_labels else self.intent_labels.index("UNK")
             # 3. slot
-            slot_labels = []
-            for s in slot.split():
-                slot_labels.append(self.slot_labels.index(s) if s in self.slot_labels else self.slot_labels.index("UNK"))
+            slot_labels = slot
 
-            #assert len(words) == len(slot_labels)
             examples.append(InputExample(guid=guid, words=words, intent_label=intent_label, slot_labels=slot_labels))
         return examples
 
@@ -123,12 +122,13 @@ processors = {
     "aihub_data_nobio": JointProcessor,
     "aihub_data_v2": JointProcessor,
     "intent_7_data": JointProcessor,
-    "new_data": JointProcessor
+    "new_data": JointProcessor,
+    "12_10_data": JointProcessor
   # 인텐트 줄인 데이터 확인을 위해 추가했습니다
 }
 
 
-def convert_examples_to_features(examples, max_seq_len, tokenizer,
+def convert_examples_to_features(examples, max_seq_len, tokenizer, slot_lables_lst,
                                  pad_token_label_id=-100,
                                  cls_token_segment_id=0,
                                  pad_token_segment_id=0,
@@ -145,16 +145,73 @@ def convert_examples_to_features(examples, max_seq_len, tokenizer,
         if ex_index % 5000 == 0:
             logger.info("Writing example %d of %d" % (ex_index, len(examples)))
 
+        tokens = tokenizer.tokenize(example.words)
+        prefix_sum_of_token_start_index = []
+        sum = 0
+        for i, token in enumerate(tokens):
+            if i == 0:
+                prefix_sum_of_token_start_index.append(0)
+                sum += len(token) - 1
+            else:
+                prefix_sum_of_token_start_index.append(sum)
+                sum += len(token)
+
         # Tokenize word by word (for NER)
-        tokens = []
-        slot_labels_ids = []
-        for word, slot_label in zip(example.words, example.slot_labels):
-            word_tokens = tokenizer.tokenize(word)
-            if not word_tokens:
-                word_tokens = [unk_token]  # For handling the bad-encoded word
-            tokens.extend(word_tokens)
-            # Use the real label id for the first token of the word, and padding ids for the remaining tokens
-            slot_labels_ids.extend([int(slot_label)] + [pad_token_label_id] * (len(word_tokens) - 1))
+
+        regex_ner = re.compile(r'\[(.+?):(.+?)]')
+        regex_filter_res = regex_ner.finditer(example.slot_labels)
+
+        ner_tags, ner_texts, start_end_indexes = [], [], []
+        previous_cnt = 0
+        for i in regex_filter_res:
+            ner_tag = i[0].split(':')[-1][:-1]
+            ner_text = i[1]
+            start_index = i.start() - previous_cnt
+            previous_cnt = previous_cnt + 3 + len(ner_tag)
+            end_index = i.end() - previous_cnt
+
+            ner_tags.append(ner_tag)
+            ner_texts.append(ner_text)
+            start_end_indexes.append((start_index, end_index))
+
+        ner_labels = []
+        entity_index = 0
+        is_entity_going = True
+
+        for token, index in zip(tokens, prefix_sum_of_token_start_index):
+            if '▁' in token:  # 주의할 점!! '▁' 이것과 우리가 쓰는 underscore '_'는 서로 다른 토큰임
+                index += 1  # 토큰이 띄어쓰기를 앞단에 포함한 경우 index 한개 앞으로 당김 # ('▁13', 9) -> ('13', 10)
+
+            if entity_index < len(start_end_indexes):
+                start, end = start_end_indexes[entity_index]
+
+                if end < index:  # 엔티티 범위보다 현재 seq pos가 더 크면 다음 엔티티를 꺼내서 체크
+                    is_entity_going = True
+                    entity_index = entity_index + 1 if entity_index + 1 < len(start_end_indexes) else entity_index
+                    start, end = start_end_indexes[entity_index]
+
+                if start <= index < end:  # <13일:DAT>까지 -> ('▁13', 10, 'B-DAT') ('일까지', 12, 'I-DAT') 이런 경우가 포함됨, 포함 안시키려면 토큰의 length도 계산해서 제어해야함
+                    entity_tag = ner_tags[entity_index]
+                    if is_entity_going is True:
+                        entity_tag = 'B-' + entity_tag
+                        ner_labels.append(entity_tag)
+                        is_entity_going = False
+                    else:
+                        entity_tag = 'I-' + entity_tag
+                        ner_labels.append(entity_tag)
+                else:
+                    is_entity_going = True
+                    entity_tag = 'O'
+                    ner_labels.append(entity_tag)
+
+            else:
+                entity_tag = 'O'
+                ner_labels.append(entity_tag)
+            ner_ids = [pad_token_label_id] + [slot_lables_lst.index(tag) for tag in ner_labels]
+            ner_ids += [pad_token_label_id]
+
+
+        slot_labels_ids = ner_ids
 
         # Account for [CLS] and [SEP]
         special_tokens_count = 2
@@ -164,12 +221,10 @@ def convert_examples_to_features(examples, max_seq_len, tokenizer,
 
         # Add [SEP] token
         tokens += [sep_token]
-        slot_labels_ids += [pad_token_label_id]
         token_type_ids = [sequence_a_segment_id] * len(tokens)
 
         # Add [CLS] token
         tokens = [cls_token] + tokens
-        slot_labels_ids = [pad_token_label_id] + slot_labels_ids
         token_type_ids = [cls_token_segment_id] + token_type_ids
 
         input_ids = tokenizer.convert_tokens_to_ids(tokens)
@@ -244,7 +299,7 @@ def load_and_cache_examples(args, tokenizer, mode):
 
         # Use cross entropy ignore index as padding label id so that only real label ids contribute to the loss later
         pad_token_label_id = args.ignore_index
-        features = convert_examples_to_features(examples, args.max_seq_len, tokenizer,
+        features = convert_examples_to_features(examples, args.max_seq_len, tokenizer, get_slot_labels(args),
                                                 pad_token_label_id=pad_token_label_id)
         logger.info("Saving features into cached file %s", cached_features_file)
         torch.save(features, cached_features_file)
